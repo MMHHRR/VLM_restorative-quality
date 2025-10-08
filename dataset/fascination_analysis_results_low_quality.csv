@@ -1,0 +1,264 @@
+keyword,count,type
+trees,31,object
+greenery,17,object
+visual interest,16,descriptor
+buildings,16,object
+repetitive,9,descriptor
+utilitarian,9,descriptor
+engaging,9,descriptor
+captivating,8,descriptor
+monotonous,8,descriptor
+natural,7,descriptor
+boredom,7,descriptor
+moderate,6,descriptor
+functional,6,descriptor
+modern buildings,6,object
+uniform,5,descriptor
+pathway,5,object
+modern architecture,4,object
+vehicles,4,object
+pleasant,4,descriptor
+limited visual interest,4,descriptor
+parked cars,3,object
+limited,3,descriptor
+road,3,object
+varied,3,descriptor
+visually engaging,3,descriptor
+sustained attention,3,descriptor
+dominated,3,descriptor
+apartment buildings,3,object
+intriguing,3,descriptor
+pathways,3,object
+well-maintained,3,descriptor
+repetition,3,descriptor
+numerous,3,descriptor
+debris,3,object
+architecture,3,object
+natural elements,3,descriptor
+modern building,2,object
+distinct,2,descriptor
+interesting,2,descriptor
+sky,2,object
+paved areas,2,object
+minimal,2,descriptor
+dense,2,descriptor
+overcast,2,descriptor
+path,2,object
+scattered,2,descriptor
+repetitive nature,2,descriptor
+orderly,2,descriptor
+parking lot,2,object
+structures,2,object
+parked vehicles,2,object
+limited visual complexity,2,descriptor
+calm,2,descriptor
+overall scene,2,descriptor
+varied textures,2,descriptor
+banners,2,object
+street,2,object
+construction materials,2,object
+winding,2,descriptor
+windows,2,object
+hard to be bored,2,descriptor
+construction site,2,object
+traffic cones,2,object
+paved road,2,object
+novelty,2,descriptor
+visually interesting,2,descriptor
+lush,2,descriptor
+exceptionally captivating,2,descriptor
+bored,2,descriptor
+engaging features,2,descriptor
+industrial buildings,2,object
+unkempt,2,descriptor
+large,2,descriptor
+plain,2,descriptor
+scooters,2,object
+prevent boredom,2,descriptor
+bicycles,2,object
+wide,2,descriptor
+parking spaces,2,object
+fascination,2,descriptor
+open,2,descriptor
+contrast,2,descriptor
+dynamic,2,descriptor
+low fascination,2,descriptor
+pedestrian activity,1,descriptor
+unfinished,1,descriptor
+fascinating,1,descriptor
+inherent fascination,1,descriptor
+organized,1,descriptor
+not captivating,1,descriptor
+not engaging,1,descriptor
+dominant presence,1,descriptor
+lacks intricate details,1,descriptor
+building,1,object
+green bins,1,object
+details,1,descriptor
+architectural,1,descriptor
+disrupted,1,descriptor
+visual stimuli,1,descriptor
+striking,1,descriptor
+urban environment,1,descriptor
+curiosity,1,descriptor
+pile of debris,1,object
+significant,1,descriptor
+overall,1,descriptor
+difficult,1,descriptor
+prominent,1,descriptor
+sidewalks,1,object
+man-made,1,descriptor
+distant,1,descriptor
+diverse,1,descriptor
+exceptionally unique,1,descriptor
+gentle fascination,1,descriptor
+moderately engaging,1,descriptor
+lacks elements,1,descriptor
+new and engaging aspects,1,descriptor
+paved walkways,1,object
+abundance,1,descriptor
+overall novelty,1,descriptor
+sports field,1,object
+people,1,object
+activities,1,object
+lack of diverse natural elements,1,descriptor
+sustained interest,1,descriptor
+repetitive architectural design,1,descriptor
+architectural styles,1,object
+walkway,1,object
+canopy,1,object
+dense trees,1,object
+commercial building,1,object
+paved,1,descriptor
+modern,1,descriptor
+strong narrative,1,descriptor
+urban elements,1,object
+focal point,1,descriptor
+urban architecture,1,object
+varying foliage,1,descriptor
+lush greenery,1,descriptor
+low score for fascination,1,descriptor
+little visual intrigue,1,descriptor
+street design,1,object
+uniformly spaced,1,descriptor
+natural patterns,1,descriptor
+engaging visual details,1,descriptor
+road markings,1,object
+limited visual novelty,1,descriptor
+complexity,1,descriptor
+uniformly manicured,1,descriptor
+capture attention,1,descriptor
+stadium,1,object
+gentle curve,1,descriptor
+dome,1,object
+benches,1,object
+empty,1,descriptor
+few,1,descriptor
+plantings,1,object
+institutional building,1,object
+lampposts,1,object
+urban park aesthetic,1,descriptor
+balconies,1,object
+lack of elements,1,descriptor
+uniformity,1,descriptor
+lack of distinct features,1,descriptor
+identical,1,descriptor
+distinct points of interest,1,descriptor
+speed limit signs,1,object
+strong fascination,1,descriptor
+dominant features,1,descriptor
+strongly captivate,1,descriptor
+capture,1,descriptor
+hold attention,1,descriptor
+engaged,1,descriptor
+construction,1,object
+overall impression,1,descriptor
+potential fascination,1,descriptor
+undergrowth,1,object
+consistent repetition,1,descriptor
+under construction,1,descriptor
+renovation,1,descriptor
+lacking aesthetic appeal,1,descriptor
+unvaried,1,descriptor
+industrial materials,1,object
+monotony,1,descriptor
+lack of stimulation,1,descriptor
+natural beauty,1,descriptor
+low score,1,descriptor
+urban setting,1,descriptor
+visually captivating,1,descriptor
+dynamic elements,1,descriptor
+points of interest,1,descriptor
+visual novelty,1,descriptor
+manicured,1,descriptor
+limited fascination,1,descriptor
+degree of fascination,1,descriptor
+dense greenery,1,object
+lacking striking features,1,descriptor
+mature trees,1,object
+landscaped areas,1,object
+water features,1,object
+surrounding greenery,1,descriptor
+potential for exploration,1,descriptor
+not overly stimulating,1,descriptor
+visual elements,1,descriptor
+utilitarian structures,1,object
+difficult for attention,1,descriptor
+parked vehicle,1,object
+pleasant blend,1,descriptor
+strong focal point,1,descriptor
+dynamic engagement,1,descriptor
+moderately fascinating,1,descriptor
+industrial building,1,object
+cell tower,1,object
+limited opportunities,1,descriptor
+lack of diverse elements,1,descriptor
+low capacity for holding interest,1,descriptor
+higher likelihood of boredom,1,descriptor
+piles of gravel,1,object
+unengaging,1,descriptor
+captivating elements,1,descriptor
+lack of fascination,1,descriptor
+bushes,1,object
+neatly maintained,1,descriptor
+unique,1,descriptor
+intensity of fascination,1,descriptor
+materials,1,object
+industrial,1,descriptor
+visual complexity,1,descriptor
+overall appeal,1,descriptor
+intensely engaging,1,descriptor
+genuinely interesting,1,descriptor
+cars,1,object
+willow trees,1,object
+various types,1,descriptor
+cascading branches,1,descriptor
+campus space,1,descriptor
+deeply captivate,1,descriptor
+intricate details,1,descriptor
+dynamic features,1,descriptor
+limits,1,descriptor
+visually,1,descriptor
+sand,1,object
+leaves,1,object
+parked scooters,1,object
+under development,1,descriptor
+lack of natural elements,1,descriptor
+aesthetically pleasing,1,descriptor
+unfinished buildings,1,object
+crane,1,object
+disarray,1,descriptor
+potential for fascination,1,descriptor
+foliage,1,object
+branches,1,object
+presentable,1,descriptor
+varying textures,1,descriptor
+unexpected discoveries,1,descriptor
+high fascination scores,1,descriptor
+streetscape,1,object
+building facade,1,object
+long,1,descriptor
+roads,1,object
+overcast sky,1,object
+good amount,1,descriptor
+draw attention,1,descriptor

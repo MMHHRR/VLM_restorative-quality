@@ -1,0 +1,1553 @@
+keyword,count,type
+buildings,670,object
+road,372,object
+pathways,363,object
+exploration,278,descriptor
+trees,262,object
+boundaries,239,descriptor
+movement,227,descriptor
+open,223,descriptor
+limited,218,descriptor
+roads,209,object
+street,209,object
+greenery,201,object
+visible,192,descriptor
+distance,179,descriptor
+expansive,171,descriptor
+vastness,147,descriptor
+sidewalks,145,object
+openness,137,descriptor
+extends,114,descriptor
+wide,113,descriptor
+contained,106,descriptor
+defined,100,descriptor
+discovery,96,descriptor
+green spaces,96,object
+limit,94,descriptor
+distant,78,descriptor
+potential for exploration,76,descriptor
+surrounding,76,descriptor
+multiple directions,73,descriptor
+path,73,object
+paths,72,object
+fences,70,object
+immediate,69,descriptor
+potential,69,descriptor
+vast,68,descriptor
+limiting,68,descriptor
+boundless,67,descriptor
+multiple,67,descriptor
+moderate,64,descriptor
+clear,63,descriptor
+campus,61,object
+visible boundaries,59,descriptor
+possibilities,53,descriptor
+pathway,53,object
+extensive,52,descriptor
+extending,52,descriptor
+sky,51,object
+ample,50,descriptor
+grassy areas,49,object
+green areas,48,object
+open spaces,44,object
+clear boundaries,43,descriptor
+boundaries,43,object
+freedom,42,descriptor
+parked cars,42,object
+not vast,42,descriptor
+different directions,41,descriptor
+boundless exploration,41,descriptor
+extensive exploration,37,descriptor
+area,37,object
+bordered,36,descriptor
+structured,34,descriptor
+scope,33,descriptor
+landscape,33,object
+larger,32,descriptor
+urban,32,descriptor
+environment,32,object
+constrained,31,descriptor
+opportunities,31,descriptor
+defined boundaries,31,descriptor
+confined,30,descriptor
+landscaping,29,object
+sense of openness,29,descriptor
+areas,29,object
+large,29,descriptor
+framed,29,descriptor
+overall impression,28,descriptor
+open areas,28,object
+breadth,28,descriptor
+linear,28,descriptor
+broad,27,descriptor
+extend,26,descriptor
+long,26,descriptor
+limitations,24,descriptor
+possibility,24,descriptor
+immediate view,24,descriptor
+many directions,24,descriptor
+limits,24,descriptor
+expanse,23,descriptor
+spaciousness,23,descriptor
+depth,23,descriptor
+perceived,23,descriptor
+potential for movement,22,descriptor
+paved areas,22,object
+hills,21,object
+urban infrastructure,20,object
+adjacent,20,descriptor
+parking areas,20,object
+possibilities for movement,19,descriptor
+dense,19,descriptor
+straight,19,descriptor
+unbounded,19,descriptor
+perceived scope,19,descriptor
+structures,19,object
+restricted,19,descriptor
+perceived boundaries,19,descriptor
+moderate sense of scope,18,descriptor
+visible extent,18,descriptor
+open space,18,descriptor
+larger area,18,descriptor
+moderate scope,18,descriptor
+extensive exploration possibilities,18,descriptor
+canal,17,object
+limited scope,17,descriptor
+not expansive,17,descriptor
+presence,17,descriptor
+immediate surroundings,17,descriptor
+freedom of movement,17,descriptor
+continuous,16,descriptor
+functional,16,descriptor
+building,16,object
+visual cues,16,descriptor
+streets,16,object
+larger environment,15,descriptor
+parking lot,15,object
+visual boundaries,15,descriptor
+vegetation,15,object
+stretching,15,descriptor
+natural,15,descriptor
+infrastructure,15,object
+extends into the distance,15,descriptor
+spaces,14,object
+discover,14,descriptor
+manicured,14,descriptor
+extent,14,descriptor
+pleasant,14,descriptor
+visible area,14,descriptor
+visual depth,14,descriptor
+restrict,14,descriptor
+expansiveness,13,descriptor
+organized,13,descriptor
+broader,13,descriptor
+enclosed,12,descriptor
+cars,12,object
+limitless exploration,12,descriptor
+road network,12,object
+various directions,12,descriptor
+sense of exploration,12,descriptor
+implicit boundaries,12,descriptor
+not overly confined,12,descriptor
+layout,12,descriptor
+lake,12,object
+sense of space,11,descriptor
+curving,11,descriptor
+vehicles,11,object
+reasonable scope,11,descriptor
+clearly defined,11,descriptor
+stretches,11,descriptor
+explore,11,descriptor
+opportunities for exploration,11,descriptor
+feeling of boundless exploration,11,descriptor
+expansive possibilities,11,descriptor
+moderately expansive,11,descriptor
+move about,11,descriptor
+unlimited exploration,11,descriptor
+opportunities for movement,11,descriptor
+ample space,10,descriptor
+water,10,object
+campus area,10,object
+further exploration,10,descriptor
+view,10,descriptor
+built environment,10,object
+possibility for exploration,10,descriptor
+sense of vastness,10,descriptor
+urban context,10,descriptor
+tree-lined,10,descriptor
+bordering,10,descriptor
+varied,10,descriptor
+unbounded exploration,10,descriptor
+various,10,descriptor
+water body,9,object
+immediate area,9,descriptor
+apparent,9,descriptor
+possibilities for exploration,9,descriptor
+potential exploration,9,descriptor
+horizon,9,object
+urban setting,9,object
+extensive movement,9,descriptor
+flanked,9,descriptor
+vista,9,object
+space,9,descriptor
+explorable,9,descriptor
+broad exploration,9,descriptor
+continuation,9,descriptor
+open spaces,9,descriptor
+body of water,9,object
+curbs,9,object
+winding,9,descriptor
+intersection,9,object
+few immediate boundaries,8,descriptor
+urban context,8,object
+wander,8,descriptor
+numerous,8,descriptor
+exploration possibilities,8,descriptor
+possibility for movement,8,descriptor
+boundless possibilities,8,descriptor
+limitless,8,descriptor
+visual expanse,8,descriptor
+parking lots,8,object
+well-defined,8,descriptor
+restricts,8,descriptor
+numerous directions,8,descriptor
+vistas,8,object
+dominated,8,descriptor
+perception,8,descriptor
+natural elements,7,object
+tree line,7,object
+moderately sized,7,descriptor
+implied boundaries,7,descriptor
+expansive exploration,7,descriptor
+managed,7,descriptor
+built environment,7,descriptor
+overall layout,7,descriptor
+not vastness,7,descriptor
+directions,7,descriptor
+sidewalk,7,object
+sense of freedom,7,descriptor
+journey,7,descriptor
+decent,7,descriptor
+bounded,7,descriptor
+forks,7,descriptor
+freely,7,descriptor
+barriers,7,object
+urban street,7,object
+lined,7,descriptor
+urban area,7,object
+parked vehicles,7,object
+limitless exploration possibilities,7,descriptor
+extending into the distance,7,descriptor
+space,7,object
+density,7,descriptor
+landscaped areas,7,object
+walkways,7,object
+strong sense,7,descriptor
+clear sightlines,7,descriptor
+residential,7,descriptor
+implied,7,descriptor
+structured environment,7,descriptor
+limitless possibilities,7,descriptor
+not extensive,6,descriptor
+hedges,6,object
+confinement,6,descriptor
+unexplored,6,descriptor
+unrestricted exploration,6,descriptor
+intersecting,6,descriptor
+perceived possibilities,6,descriptor
+urban setting,6,descriptor
+vast expanse,6,descriptor
+walk,6,descriptor
+expansive movement,6,descriptor
+planned,6,descriptor
+extend into the distance,6,descriptor
+pathways,6,descriptor
+curves,6,descriptor
+cityscape,6,object
+feeling of openness,6,descriptor
+surroundings,6,object
+defined limits,6,descriptor
+sports courts,6,object
+branching,6,descriptor
+immediate foreground,6,descriptor
+considerable,6,descriptor
+prominent,6,descriptor
+vista,6,descriptor
+lower score,6,descriptor
+subtle boundaries,6,descriptor
+spacious,6,descriptor
+possibility of exploration,6,descriptor
+explored,6,descriptor
+tree-lined road,6,object
+feeling of vastness,6,descriptor
+broad view,6,descriptor
+overall,5,descriptor
+reasonable,5,descriptor
+containment,5,descriptor
+natural landscape,5,descriptor
+institutional,5,descriptor
+capacity for exploration,5,descriptor
+paved area,5,object
+room to move,5,descriptor
+different parts,5,descriptor
+fence,5,object
+immediate boundaries,5,descriptor
+visible expanse,5,descriptor
+sense of breadth,5,descriptor
+undeveloped,5,descriptor
+further areas,5,descriptor
+parking area,5,object
+open green areas,5,object
+room for exploration,5,descriptor
+tree lines,5,object
+road layout,5,object
+paved,5,descriptor
+high,5,descriptor
+immediate environment,5,descriptor
+wandering,5,descriptor
+green space,5,object
+movement possibilities,5,descriptor
+either side,5,descriptor
+manicured areas,5,object
+grounds,5,object
+sports field,5,object
+structured layout,5,descriptor
+visibility,5,descriptor
+residential area,5,object
+sports court,5,object
+relatively,5,descriptor
+discovering,5,descriptor
+unbounded movement,5,descriptor
+further,5,descriptor
+paved paths,5,object
+few boundaries,5,descriptor
+significant,4,descriptor
+open areas,4,descriptor
+vast exploration possibilities,4,descriptor
+construction,4,object
+variety,4,descriptor
+residential complex,4,object
+wide-angle,4,descriptor
+residential buildings,4,object
+not overwhelming,4,descriptor
+edges,4,descriptor
+areas for movement,4,descriptor
+building facades,4,object
+clear path,4,descriptor
+accessible,4,descriptor
+perceived freedom,4,descriptor
+campus,4,descriptor
+traffic cones,4,object
+unlimited,4,descriptor
+width,4,descriptor
+diverse,4,descriptor
+limited exploration,4,descriptor
+grassy spaces,4,object
+sense of direction,4,descriptor
+paved road,4,object
+background,4,descriptor
+overwhelming,4,descriptor
+open green spaces,4,object
+unexplored directions,4,descriptor
+immediate limitations,4,descriptor
+landscapes,4,object
+open expanse,4,descriptor
+expansive freedom,4,descriptor
+limited view,4,descriptor
+extent of exploration,4,descriptor
+endless exploration,4,descriptor
+reasonable sense of scope,4,descriptor
+different,4,descriptor
+absence,4,descriptor
+lining,4,descriptor
+planted areas,4,object
+framing,4,descriptor
+areas of greenery,4,object
+navigable,4,descriptor
+perspective,4,descriptor
+bicycles,4,object
+unbounded possibilities,4,descriptor
+periphery,4,descriptor
+walls,4,object
+largely defined,4,descriptor
+open road,4,object
+foliage,4,object
+specific,4,descriptor
+street view,4,object
+wild,4,descriptor
+streetscape,4,object
+defined edges,4,descriptor
+greenery,4,descriptor
+capacity for movement,4,descriptor
+ample room,4,descriptor
+panoramic,4,descriptor
+fenced areas,4,object
+neighborhood,4,object
+substantial,4,descriptor
+defined area,4,descriptor
+broad scope,4,descriptor
+scale,4,descriptor
+wider,4,descriptor
+pond,4,object
+room for movement,4,descriptor
+subtly limit,4,descriptor
+designed,4,descriptor
+natural features,4,object
+sense of enclosure,4,descriptor
+endless possibilities,3,descriptor
+unhindered,3,descriptor
+somewhat contained,3,descriptor
+high scope,3,descriptor
+defined paths,3,object
+sense of possibility,3,descriptor
+avenues,3,object
+limited sense of scope,3,descriptor
+broad possibilities,3,descriptor
+progression,3,descriptor
+defined pathways,3,descriptor
+feeling of exploration,3,descriptor
+apartment buildings,3,object
+large area,3,descriptor
+park area,3,object
+expansive open areas,3,descriptor
+visual barriers,3,descriptor
+road infrastructure,3,object
+controlled,3,descriptor
+roadway,3,object
+unbounded space,3,descriptor
+surrounding environment,3,descriptor
+sense of movement,3,descriptor
+not boundless,3,descriptor
+free exploration,3,descriptor
+distance,3,object
+fencing,3,object
+lanes,3,object
+unobstructed,3,descriptor
+roadways,3,object
+obvious boundaries,3,descriptor
+forward movement,3,descriptor
+moving about freely,3,descriptor
+restrictive,3,descriptor
+campus street,3,object
+open space,3,object
+unrestricted movement,3,descriptor
+good sense of scope,3,descriptor
+vast open spaces,3,descriptor
+continuity,3,descriptor
+industrial buildings,3,object
+stadium,3,object
+edges,3,object
+overall scale,3,descriptor
+waterway,3,object
+restricting,3,descriptor
+urban structures,3,object
+boundless movement,3,descriptor
+industrial setting,3,object
+specific directions,3,descriptor
+tennis courts,3,object
+environment,3,descriptor
+natural boundaries,3,descriptor
+paved roads,3,object
+not overly restrictive,3,descriptor
+visual extent,3,descriptor
+plaza,3,object
+moving about,3,descriptor
+developed area,3,descriptor
+distinct,3,descriptor
+not feeling overly confined,3,descriptor
+connectivity,3,descriptor
+urban landscape,3,object
+construction barriers,3,object
+moderate sense of openness,3,descriptor
+park-like area,3,object
+building structures,3,object
+few visual cues,3,descriptor
+strong sense of vastness,3,descriptor
+tree-lined street,3,object
+interconnected,3,descriptor
+perceived freedom of movement,3,descriptor
+foreground,3,descriptor
+suburban,3,descriptor
+sense of scope,3,descriptor
+building edges,3,object
+decent sense of scope,3,descriptor
+open exploration,3,descriptor
+narrow,3,descriptor
+urban design,3,descriptor
+green expanses,3,object
+stretching into the distance,3,descriptor
+path,3,descriptor
+diverging,3,descriptor
+vegetated areas,3,object
+perceived vastness,3,descriptor
+not confined,3,descriptor
+perceived extent,3,descriptor
+enclosure,3,descriptor
+overall view,3,descriptor
+truly wild,3,descriptor
+natural area,3,object
+extensive possibilities,3,descriptor
+open layout,3,descriptor
+reasonable sense of space,3,descriptor
+park,3,object
+property,3,object
+subtly,3,descriptor
+limited possibilities,3,descriptor
+visual perspective,3,descriptor
+expansive scope,3,descriptor
+urban development,3,object
+perceived opportunity,3,descriptor
+fields,3,object
+reasonable amount of space,3,descriptor
+street intersection,3,object
+paved surfaces,3,object
+areas for exploration,3,descriptor
+sufficient space,3,descriptor
+expansive vistas,3,descriptor
+terrain,2,object
+landscape,2,descriptor
+strongly convey,2,descriptor
+space for exploration,2,descriptor
+freedom to wander,2,descriptor
+potential scope,2,descriptor
+distant view,2,descriptor
+curving paths,2,object
+recedes,2,descriptor
+predominantly,2,descriptor
+sense of confinement,2,descriptor
+integrated,2,descriptor
+expansive natural setting,2,descriptor
+expansive areas,2,descriptor
+traffic,2,object
+sides,2,descriptor
+foreground elements,2,object
+defining boundaries,2,descriptor
+destinations,2,object
+opportunity,2,descriptor
+vast possibilities,2,descriptor
+areas to explore,2,descriptor
+urban streetscape,2,object
+diverse pathways,2,descriptor
+road boundaries,2,object
+green,2,descriptor
+evident,2,descriptor
+unhindered movement,2,descriptor
+some,2,descriptor
+sense of potential exploration,2,descriptor
+broader environment,2,descriptor
+suggesting movement,2,descriptor
+vast area,2,descriptor
+sense of forward movement,2,descriptor
+reasonably large,2,descriptor
+open-endedness,2,descriptor
+continue,2,descriptor
+property lines,2,object
+complex,2,object
+new areas,2,descriptor
+potential discovery,2,descriptor
+spatial extent,2,descriptor
+suburban area,2,object
+expanses,2,descriptor
+tree-lined area,2,object
+street layout,2,object
+lawn areas,2,object
+path for exploration,2,descriptor
+moderating,2,descriptor
+absence of boundaries,2,descriptor
+entrance,2,object
+not limitless,2,descriptor
+winding road,2,object
+nature,2,descriptor
+overall vista,2,descriptor
+unexplored territory,2,descriptor
+path forward,2,descriptor
+gate,2,object
+grassy,2,descriptor
+park-like areas,2,object
+uniformity,2,descriptor
+campus grounds,2,object
+some movement,2,descriptor
+not entirely restrictive,2,descriptor
+significant boundaries,2,descriptor
+unclear,2,descriptor
+extensive exploration opportunities,2,descriptor
+boundless freedom,2,descriptor
+certain directions,2,descriptor
+sense of boundless exploration,2,descriptor
+sense of depth,2,descriptor
+water feature,2,object
+sense of expanse,2,descriptor
+debris,2,object
+moderate score for scope,2,descriptor
+clear indications,2,descriptor
+parking,2,object
+expansive possibility,2,descriptor
+waterfront,2,object
+urban elements,2,object
+contained space,2,descriptor
+different areas,2,descriptor
+reasonable sense of openness,2,descriptor
+natural landscape,2,object
+grand scale,2,descriptor
+open nature,2,descriptor
+institutional buildings,2,object
+borders,2,descriptor
+clear delineation,2,descriptor
+foreground,2,object
+extended,2,descriptor
+flanking,2,descriptor
+marked roads,2,object
+scene,2,descriptor
+built,2,descriptor
+strong,2,descriptor
+urban layout,2,object
+panorama,2,descriptor
+sense of scale,2,descriptor
+building perimeters,2,object
+layout,2,object
+route,2,object
+complex,2,descriptor
+room to wander,2,descriptor
+limit movement,2,descriptor
+multitude,2,descriptor
+lacking,2,descriptor
+urban design,2,object
+not extensive possibilities,2,descriptor
+parked,2,descriptor
+leading,2,descriptor
+opportunity for movement,2,descriptor
+walkway,2,object
+urban development,2,descriptor
+panorama,2,object
+specific area,2,descriptor
+less expansive,2,descriptor
+grass,2,object
+good scope,2,descriptor
+unconstrained,2,descriptor
+natural surroundings,2,object
+impression,2,descriptor
+length,2,descriptor
+numerous pathways,2,descriptor
+boundary,2,descriptor
+less freedom,2,descriptor
+lack of boundaries,2,descriptor
+further exploration possibilities,2,descriptor
+visible elements,2,descriptor
+car,2,object
+vehicle,2,object
+new perspectives,2,descriptor
+significant opportunities,2,descriptor
+vast open areas,2,descriptor
+encourages exploration,2,descriptor
+nature,2,object
+good,2,descriptor
+partially obscured,2,descriptor
+bridges,2,object
+campus buildings,2,object
+exploration potential,2,descriptor
+tennis court,2,object
+tree-lined areas,2,object
+confines,2,descriptor
+visible area,2,object
+view,2,object
+neatly trimmed,2,descriptor
+vast open space,2,descriptor
+connected,2,descriptor
+overgrown,2,descriptor
+diverse directions,2,descriptor
+ample opportunities,2,descriptor
+parking spaces,2,object
+onward progression,2,descriptor
+available,2,descriptor
+overall width,2,descriptor
+moderate size,2,descriptor
+unlimited possibilities,2,descriptor
+moderate score,2,descriptor
+enough,2,descriptor
+sense of progression,2,descriptor
+not fully revealed,2,descriptor
+limited visibility,2,descriptor
+infinite,2,descriptor
+space for movement,2,descriptor
+visual,2,descriptor
+not endless,2,descriptor
+limited visual depth,2,descriptor
+few directions,2,descriptor
+courtyard,2,object
+potential for venturing,2,descriptor
+defined areas,2,descriptor
+urban planning,2,object
+feeling,2,descriptor
+visible environment,2,descriptor
+ample opportunity,2,descriptor
+developed,2,descriptor
+expanse,2,object
+visible distances,2,descriptor
+rolling,2,descriptor
+tree,2,object
+traversed,2,descriptor
+parkland,2,object
+clear pathways,2,descriptor
+constrained view,2,descriptor
+urban environment,2,descriptor
+restrictions,2,descriptor
+feeling of freedom,2,descriptor
+uniform,2,descriptor
+decent amount of space,2,descriptor
+few limitations,2,descriptor
+doesn't convey vastness,2,descriptor
+limited opportunities,2,descriptor
+branches out,2,descriptor
+general layout,2,descriptor
+building fronts,2,object
+further areas to discover,2,descriptor
+primary direction,2,descriptor
+specific destinations,2,descriptor
+residential blocks,2,object
+moderately good,2,descriptor
+natural areas,2,object
+lower score for scope,2,descriptor
+consistent,2,descriptor
+not being overly confined,2,descriptor
+construction site,2,object
+open possibilities,2,descriptor
+vast sense of openness,2,descriptor
+architecture,2,object
+reasonable extent,2,descriptor
+construction zone,2,object
+branch out,2,descriptor
+distant views,2,descriptor
+considerable area,2,descriptor
+modern,2,descriptor
+avenue,2,object
+immediate confinement,2,descriptor
+utilitarian,2,descriptor
+constrain,2,descriptor
+pedestrian areas,2,object
+campus-like,2,descriptor
+infrastructure,2,descriptor
+traffic lanes,2,object
+perceived openness,2,descriptor
+spatial freedom,2,descriptor
+directional,2,descriptor
+multiple exploration directions,2,descriptor
+great scope,1,descriptor
+feeling of boundless,1,descriptor
+implicit,1,descriptor
+unimpeded exploration,1,descriptor
+urban elements,1,descriptor
+parked areas,1,object
+natural expanses,1,object
+distant horizons,1,object
+move along,1,descriptor
+new aspects,1,descriptor
+space to explore,1,descriptor
+obstructions,1,descriptor
+multitude of unexplored directions,1,descriptor
+urban environment,1,object
+potentially,1,descriptor
+forward progression,1,descriptor
+temporary,1,descriptor
+not a vast wilderness,1,descriptor
+subtle,1,descriptor
+constructed boundaries,1,descriptor
+gated entrances,1,object
+multiple diverging paths,1,descriptor
+network of pathways,1,object
+road intersection,1,object
+unfettered,1,descriptor
+focused,1,descriptor
+restorative,1,descriptor
+green lawns,1,object
+freedom for exploration,1,descriptor
+dominant,1,descriptor
+movement in multiple directions,1,descriptor
+not vast openness,1,descriptor
+free movement,1,descriptor
+urban landscaping,1,descriptor
+boundless openness,1,descriptor
+new discoveries,1,descriptor
+contained area,1,descriptor
+feeling of scope,1,descriptor
+canal walls,1,object
+multiple pathways,1,object
+recreational facilities,1,object
+limited exploration potential,1,descriptor
+no immediate barriers,1,descriptor
+horizon line,1,object
+significant presence,1,descriptor
+fair sense of scope,1,descriptor
+depicted space,1,descriptor
+overall openness,1,descriptor
+wide open,1,descriptor
+concrete areas,1,object
+specific boundaries,1,descriptor
+sports facility,1,object
+flat,1,descriptor
+expanses,1,object
+limiting boundaries,1,descriptor
+without immediate boundaries,1,descriptor
+street edges,1,object
+thoroughfare area,1,object
+creates visual depth,1,descriptor
+basketball court,1,object
+venturing freely,1,descriptor
+wooded area,1,object
+wilder areas,1,object
+defined path,1,object
+exploratory possibilities,1,descriptor
+expanse of water,1,object
+natural surroundings,1,descriptor
+extensive freedom,1,descriptor
+defined route,1,descriptor
+moderate perception of scope,1,descriptor
+feeling of space,1,descriptor
+truly expansive,1,descriptor
+wall,1,object
+moderately defined,1,descriptor
+suggests depth,1,descriptor
+predefined,1,descriptor
+full sense of boundless exploration,1,descriptor
+curving road,1,object
+less clear,1,descriptor
+landscaped sections,1,object
+open-ended exploration,1,descriptor
+street perspective,1,descriptor
+structured nature,1,descriptor
+inviting,1,descriptor
+man-made structures,1,object
+not an invitation to explore freely,1,descriptor
+road system,1,object
+straightforward,1,descriptor
+unboundedness,1,descriptor
+proximity,1,descriptor
+construction areas,1,object
+dominates,1,descriptor
+overall visual impression,1,descriptor
+railings,1,object
+environments,1,object
+image,1,object
+potential for moving,1,descriptor
+visual field,1,object
+properties,1,object
+not boundless possibilities,1,descriptor
+university campus,1,object
+lower,1,descriptor
+overwhelming sense,1,descriptor
+lack of barriers,1,descriptor
+facade,1,object
+waterfront area,1,object
+particular,1,descriptor
+moderately open,1,descriptor
+sense,1,descriptor
+large enough,1,descriptor
+considerable length,1,descriptor
+scope for exploration,1,descriptor
+construction work,1,object
+defining,1,descriptor
+waterways,1,object
+particular direction,1,descriptor
+larger context,1,descriptor
+feeling of depth,1,descriptor
+space to move around,1,descriptor
+visual cues of continuation,1,descriptor
+relatively straight,1,descriptor
+residential development,1,object
+sense of passage,1,descriptor
+free roaming,1,descriptor
+several,1,descriptor
+multitude of directions,1,descriptor
+continuing,1,descriptor
+campus setting,1,descriptor
+larger spaces,1,descriptor
+defined boundary,1,descriptor
+potential for discovery,1,descriptor
+traffic flow,1,descriptor
+moderate sense of freedom,1,descriptor
+extensive wandering,1,descriptor
+road markings,1,object
+structure,1,descriptor
+urban corridor,1,descriptor
+extended space,1,descriptor
+visual openness,1,descriptor
+potential directions,1,descriptor
+diverse areas,1,descriptor
+novel discovery,1,descriptor
+overall scope,1,descriptor
+far,1,descriptor
+potential pathways,1,descriptor
+likely present,1,descriptor
+natural space,1,descriptor
+continuous path,1,descriptor
+fork,1,descriptor
+relatively contained,1,descriptor
+strong visual cues,1,descriptor
+numerous diverging paths,1,descriptor
+moderate movement,1,descriptor
+tightly enclosed,1,descriptor
+exploratory,1,descriptor
+predictable pathways,1,descriptor
+generous,1,descriptor
+relatively low,1,descriptor
+residential street,1,object
+network of pathways,1,descriptor
+severe boundaries,1,descriptor
+enclosed space,1,descriptor
+feeling of possibility,1,descriptor
+few immediate limitations,1,descriptor
+ample visual extent,1,descriptor
+apparent layout,1,descriptor
+general openness,1,descriptor
+traversable,1,descriptor
+considerable distance,1,descriptor
+clear demarcations,1,descriptor
+moderate sense of exploration,1,descriptor
+public amenity area,1,object
+central area,1,object
+parallel parking,1,object
+urban space,1,object
+unexplored expanses,1,descriptor
+wide range of directions,1,descriptor
+freedom to roam,1,descriptor
+unbounded sense of spaciousness,1,descriptor
+moderate opportunities,1,descriptor
+landscaping elements,1,object
+gradual,1,descriptor
+overwhelmingly vast,1,descriptor
+completely unrestricted,1,descriptor
+few immediate barriers,1,descriptor
+clear lines of sight,1,descriptor
+reasonable amount,1,descriptor
+varied environments,1,descriptor
+wild natural setting,1,descriptor
+urban boundaries,1,object
+limited pedestrian activity,1,descriptor
+visible directions,1,descriptor
+main road,1,object
+linearity,1,descriptor
+extensive open spaces,1,descriptor
+potential journey,1,descriptor
+urban skyline,1,object
+fork in the road,1,object
+visible development,1,descriptor
+apartment complex,1,object
+lane dividers,1,object
+paved pathways,1,object
+wider area,1,descriptor
+clear direction,1,descriptor
+open horizons,1,descriptor
+river,1,object
+ample room for movement,1,descriptor
+freedom to explore,1,descriptor
+stadium structure,1,object
+multiple paths,1,descriptor
+residential structures,1,object
+limited perception,1,descriptor
+moderate sense of space,1,descriptor
+limited possibilities for exploration,1,descriptor
+more,1,descriptor
+routes,1,object
+developed zone,1,object
+naturalistic,1,descriptor
+diverging paths,1,descriptor
+perceived exploration,1,descriptor
+distinct areas,1,descriptor
+relative freedom,1,descriptor
+branching paths,1,object
+middle,1,descriptor
+not strongly suggest vastness,1,descriptor
+multitude of exploration possibilities,1,descriptor
+large enough to explore,1,descriptor
+good capacity for movement,1,descriptor
+defined parameters,1,descriptor
+significant barriers,1,descriptor
+reasonably open,1,descriptor
+moderately expansive area,1,descriptor
+main street,1,object
+fairly good,1,descriptor
+defined urban path,1,descriptor
+landscaped,1,descriptor
+perceived breadth,1,descriptor
+controlled environment,1,descriptor
+greater sense of scope,1,descriptor
+sense of continuation,1,descriptor
+visual focus,1,descriptor
+network of paths,1,descriptor
+limited visual extent,1,descriptor
+uncharted territories,1,descriptor
+venturing further,1,descriptor
+continuing journey,1,descriptor
+infinite exploration,1,descriptor
+constructed elements,1,descriptor
+visible boundaries,1,object
+not open-ended,1,descriptor
+room to move around,1,descriptor
+maintained,1,descriptor
+space to move,1,descriptor
+not limitless possibilities,1,descriptor
+clear demarcation,1,descriptor
+vast expanses,1,descriptor
+immediate visual frame,1,descriptor
+possible,1,descriptor
+defined layout,1,descriptor
+zones,1,object
+primarily,1,descriptor
+considerable scale,1,descriptor
+adjoining,1,descriptor
+visible urban context,1,descriptor
+pedestrian pathways,1,object
+potential areas,1,descriptor
+limited visible features,1,descriptor
+not infinite possibility,1,descriptor
+surrounding landscape,1,object
+clear routes,1,descriptor
+open exploration potential,1,descriptor
+natural boundary,1,descriptor
+general,1,descriptor
+perceived potential,1,descriptor
+complex natural formations,1,descriptor
+some area for movement,1,descriptor
+distant structure,1,object
+allow for movement,1,descriptor
+larger urban context,1,descriptor
+surrounding buildings,1,object
+trails,1,object
+seating,1,object
+somewhat,1,descriptor
+traversal,1,descriptor
+clearly marked,1,descriptor
+adequate,1,descriptor
+areas to move through,1,descriptor
+limited extent,1,descriptor
+unbounded environment,1,descriptor
+fenced in,1,descriptor
+spatial depth,1,descriptor
+infinite possibilities,1,descriptor
+see,1,descriptor
+walk,1,object
+not encourage,1,descriptor
+unlimited movement,1,descriptor
+onward,1,descriptor
+limited possibility for exploration,1,descriptor
+no expansive vistas,1,descriptor
+somewhat constrained,1,descriptor
+turns,1,object
+building's structure,1,object
+cones,1,object
+overall exploration possibilities,1,descriptor
+moderately positive,1,descriptor
+extending outwards,1,descriptor
+available space,1,descriptor
+directions for exploration,1,descriptor
+specific function,1,descriptor
+private properties,1,object
+limitlessly large,1,descriptor
+disappears,1,descriptor
+fenced perimeters,1,object
+limitless movement,1,descriptor
+strongly invite,1,descriptor
+impression of space,1,descriptor
+sufficiently expansive,1,descriptor
+uninterrupted landscape,1,descriptor
+moderately large,1,descriptor
+road structure,1,object
+urban surroundings,1,object
+overall sense of vastness,1,descriptor
+long view,1,descriptor
+established,1,descriptor
+boundless wandering,1,descriptor
+adjacent areas,1,object
+larger unexplored landscape,1,descriptor
+sense of potential,1,descriptor
+facilities,1,object
+clear road structure,1,descriptor
+paved path,1,object
+reasonable degree,1,descriptor
+residential areas,1,object
+traversing,1,descriptor
+walking,1,descriptor
+traffic barriers,1,object
+adjacent path,1,object
+overwhelming vastness,1,descriptor
+grassy fields,1,object
+expansive feeling,1,descriptor
+diverging exploration possibilities,1,descriptor
+orderliness,1,descriptor
+varied paths,1,descriptor
+long straight road,1,object
+without limits,1,descriptor
+freely move,1,descriptor
+large green field,1,object
+underlying boundaries,1,descriptor
+defined streets,1,descriptor
+depicted area,1,descriptor
+considerable space,1,descriptor
+sense of going somewhere,1,descriptor
+clear view,1,descriptor
+street boundaries,1,object
+invites extensive movement,1,descriptor
+green patches,1,object
+developed area,1,object
+apartment complexes,1,object
+established paths,1,descriptor
+visible space,1,descriptor
+unlimited scope,1,descriptor
+deeper,1,descriptor
+limited directions,1,descriptor
+varied experiences,1,descriptor
+unexplored areas,1,descriptor
+not particularly expansive,1,descriptor
+moderately scoped,1,descriptor
+contained environment,1,descriptor
+potential routes,1,descriptor
+lack of open vistas,1,descriptor
+immediate urban context,1,descriptor
+gated entrance,1,object
+not many opportunities,1,descriptor
+exploration areas,1,object
+tightly packed,1,descriptor
+feel expansive,1,descriptor
+invites,1,descriptor
+feeling of some containment,1,descriptor
+vanishing point,1,descriptor
+leading into the distance,1,descriptor
+move around,1,descriptor
+pavement,1,object
+multi-story,1,descriptor
+urban sprawl,1,descriptor
+subtly limited,1,descriptor
+blend,1,descriptor
+spatial continuity,1,descriptor
+moderately high score,1,descriptor
+commercial setting,1,object
+predominantly defined,1,descriptor
+boundless scope,1,descriptor
+reasonable degree of exploration,1,descriptor
+areas beyond,1,descriptor
+possibility of discovering more,1,descriptor
+move around freely,1,descriptor
+varied pathways,1,descriptor
+imply,1,descriptor
+larger than immediate perception,1,descriptor
+open paved areas,1,object
+visual enclosure,1,descriptor
+lack of open areas,1,descriptor
+branching paths,1,descriptor
+natural landscapes,1,descriptor
+possibility of movement,1,descriptor
+well-planned,1,descriptor
+patches,1,object
+suburban setting,1,object
+grassy space,1,object
+clear limits,1,descriptor
+surrounding areas,1,object
+sides of roads,1,object
+limited perceived scope,1,descriptor
+concrete wall,1,object
+visible pathways,1,descriptor
+not entirely expansive,1,descriptor
+designated routes,1,descriptor
+well-kept,1,descriptor
+confining,1,descriptor
+potential boundaries,1,descriptor
+moderately spacious,1,descriptor
+contained nature,1,descriptor
+discovering new directions,1,descriptor
+feeling of movement,1,descriptor
+verdant,1,descriptor
+leading away,1,descriptor
+sufficient room for movement,1,descriptor
+not exceptionally high,1,descriptor
+business district,1,object
+fenced,1,descriptor
+organized layout,1,descriptor
+sightlines,1,object
+storage tanks,1,object
+concrete lots,1,object
+surrounding infrastructure,1,object
+intersecting roads,1,object
+lack of clutter,1,descriptor
+forest,1,object
+broader scope,1,descriptor
+building walls,1,object
+natural vistas,1,descriptor
+relatively uniform,1,descriptor
+many cues,1,descriptor
+lack of defined boundaries,1,descriptor
+extensive natural environments,1,descriptor
+degree of containment,1,descriptor
+lack of limits,1,descriptor
+pedestrian routes,1,object
+free-form,1,descriptor
+wide-open,1,descriptor
+expansive views,1,descriptor
+move freely,1,descriptor
+encountering limitations,1,descriptor
+areas of active work,1,object
+not overtly restrictive,1,descriptor
+urban street context,1,descriptor
+potentially large area,1,descriptor
+lack of varied natural elements,1,descriptor
+distinct destinations,1,descriptor
+limited feeling of extensive exploration possibilities,1,descriptor
+spatial breadth,1,descriptor
+man-made,1,descriptor
+not extensive exploratory potential,1,descriptor
+stretches out,1,descriptor
+less bounded,1,descriptor
+tree-lined avenues,1,object
+bounded impression,1,descriptor
+open vistas,1,descriptor
+numerous branching paths,1,descriptor
+visible progression,1,descriptor
+beyond,1,descriptor
+movement,1,object
+industrial zone,1,object
+ongoing construction,1,descriptor
+tree cover,1,object
+multiple exploration opportunities,1,descriptor
+broad horizons,1,descriptor
+encompasses,1,descriptor
+few immediate visual boundaries,1,descriptor
+marked roadways,1,object
+roadside greenery,1,object
+visual pathways,1,object
+branching roads,1,object
+both directions,1,descriptor
+scope dimension,1,descriptor
+defined space,1,descriptor
+limit the feeling of boundless exploration,1,descriptor
+room,1,descriptor
+clear definition,1,descriptor
+abundant,1,descriptor
+urban perimeter,1,object
+extent of boundaries,1,descriptor
+wilderness,1,descriptor
+decent scope,1,descriptor
+elements,1,object
+repeating,1,descriptor
+good amount,1,descriptor
+encourage exploration,1,descriptor
+subtly define boundaries,1,descriptor
+wilder natural setting,1,descriptor
+road edges,1,descriptor
+building perimeters,1,descriptor
+basketball courts,1,object
+overall sense of scope,1,descriptor
+recreational,1,descriptor
+sports area,1,object
+natural expanse,1,descriptor
+beaten path,1,descriptor
+outdoor area,1,object
+venturing,1,descriptor
+grassy area,1,object
+man-made structures,1,descriptor
+not extend indefinitely,1,descriptor
+development,1,object
+few visual boundaries,1,descriptor
+indications of space,1,descriptor
+direction,1,descriptor
+potential for traversing,1,descriptor
+different perspectives,1,descriptor
+visually expansive,1,descriptor
+sufficiently spacious,1,descriptor
+suburban road network,1,object
+manicured green areas,1,object
+strong indicators,1,descriptor
+distinct exploration opportunities,1,descriptor
+unseen,1,descriptor
+uninhibited exploration,1,descriptor
+horizons,1,object
+gardens,1,object
+sense of containment,1,descriptor
+visual progression,1,descriptor
+inviting movement,1,descriptor
+branching pathways,1,object
+overall expanse,1,descriptor
+impose,1,descriptor
+some exploration,1,descriptor
+all directions,1,descriptor
+unconstrained exploration,1,descriptor
+limit the sense of vastness,1,descriptor
+areas to wander through,1,descriptor
+somewhat bounded,1,descriptor
+extensive exploration potential,1,descriptor
+park areas,1,object
+accommodate further discovery,1,descriptor
+engagement,1,descriptor
+treelined,1,descriptor
+few immediate,1,descriptor
+distant buildings,1,object
+strong presence,1,descriptor
+relatively open,1,descriptor
+inaccessible,1,descriptor
+peripheral,1,descriptor
+moderately high,1,descriptor
+discernible,1,descriptor
+strong impression,1,descriptor
+sense of limitless exploration,1,descriptor
+obstructions,1,object
+high degree of scope,1,descriptor
+clear invitation,1,descriptor
+into the distance,1,descriptor
+constraints,1,descriptor
+bike lanes,1,object
+traversing the area,1,descriptor
+define boundaries,1,descriptor
+reasonably expansive,1,descriptor
+limited variety,1,descriptor
+not offering a vast,1,descriptor
+along the path,1,descriptor
+property boundaries,1,object
+fewer boundaries,1,descriptor
+visual presence,1,descriptor
+defined roads,1,object
+larger natural landscape,1,descriptor
+unconfined,1,descriptor
+pleasant walk,1,descriptor
+possibility for further exploration,1,descriptor
+pathway,1,descriptor
+defined zones,1,descriptor
+potential movement,1,descriptor
+further movement,1,descriptor
+expansive open spaces,1,descriptor
+limited movement,1,descriptor
+guided,1,descriptor
+immediate free movement,1,descriptor
+overall visual expanse,1,descriptor
+navigable space,1,descriptor
+organization,1,descriptor
+larger complex,1,descriptor
+definitive boundaries,1,descriptor
+not fully clear,1,descriptor
+not endless possibilities,1,descriptor
+open-ended,1,descriptor
+edge,1,object
+endless,1,descriptor
+natural landscapes,1,object
+overall landscape,1,descriptor
+paved courtyards,1,object
+moderately limited,1,descriptor
+high scope scores,1,descriptor
+unhindered exploration possibilities,1,descriptor
+possibility of further exploration,1,descriptor
+transit,1,descriptor
+vast natural landscapes,1,descriptor
+campus setting,1,object
+continued exploration,1,descriptor
+not an infinite wilderness,1,descriptor
+immediate restrictive boundaries,1,descriptor
+lack of immediate boundaries,1,descriptor
+claustrophobic,1,descriptor
+reasonable space,1,descriptor
+landscaped edges,1,object
+not many,1,descriptor
+distinct boundaries,1,descriptor
+overt,1,descriptor
+decent openness,1,descriptor
+areas to discover,1,descriptor
+manicured boundaries,1,object
+industrial surroundings,1,object
+commercial surroundings,1,object
+minimal,1,descriptor
+encourage a sense of freedom,1,descriptor
+industrial,1,descriptor
+commercial,1,descriptor
+possibility of moving,1,descriptor
+setting,1,object
+panoramic view,1,descriptor
+scene,1,object
+some boundaries,1,descriptor
+clear directions,1,descriptor
+linear path,1,object
+unlimited possibility,1,descriptor
+strict limitations,1,descriptor
+green zones,1,object
+stretches of greenery,1,object
+visual space,1,descriptor
+perceived opportunities,1,descriptor
+tree-lined roads,1,object
+potential for further discovery,1,descriptor
+suggesting,1,descriptor
+hints,1,descriptor
+open-air,1,descriptor
+expansive opportunity,1,descriptor
+opportunities to move about,1,descriptor
+traversal-oriented,1,descriptor
+deep exploration,1,descriptor
+open environment,1,descriptor
+relatively straightforward,1,descriptor
+limited branching paths,1,descriptor
+deep immersion,1,descriptor
+extend outwards,1,descriptor
+multiple areas,1,descriptor
+street-level view,1,descriptor
+good potential for exploration,1,descriptor
+leads into the distance,1,descriptor
+lack of expansive,1,descriptor
+manicured lawn,1,object
+clear layout,1,descriptor
+surrounding greenery,1,descriptor
+construction zones,1,object
+restricts movement,1,descriptor
+unfinished,1,descriptor
+fewer possibilities,1,descriptor
+covered structure,1,object
+outward view,1,descriptor
+line of trees,1,object
+higher scope score,1,descriptor
+unrestricted,1,descriptor
+bridge,1,object
+views,1,descriptor
+sense of journey,1,descriptor
+present,1,descriptor
+defined routes,1,descriptor
+perceived boundless,1,descriptor
+grassy patches,1,object
+broad open vistas,1,descriptor
+roadside,1,object
+slightly limit,1,descriptor
+horizon,1,descriptor
+limited visible extent,1,descriptor
+unbounded territory,1,descriptor
+skies,1,object
+not abundant,1,descriptor
+scaffolding,1,object
+boundless space,1,descriptor
+not strongly evoke a sense of vastness,1,descriptor
+discourage exploration,1,descriptor
+community,1,object
+visual continuity,1,descriptor
+not overwhelmingly enclosed,1,descriptor
+urban space,1,descriptor
+delineating,1,descriptor
+not exceptionally expansive,1,descriptor
+industrial structures,1,object
+undeveloped land,1,object
+clear pathways,1,object
+backdrop,1,descriptor
+truly unbounded,1,descriptor
+rows of parked bikes,1,object
+not open,1,descriptor
+sufficient,1,descriptor
+freedom to move about,1,descriptor
+few,1,descriptor
+path for movement,1,descriptor
+preventing,1,descriptor
+linear path,1,descriptor
+expansive area,1,descriptor
+degree of exploration,1,descriptor
+somewhat limited,1,descriptor
+wide-ranging,1,descriptor
+neatness,1,descriptor
+directionality,1,descriptor
+room to roam,1,descriptor
+clear division,1,descriptor
+travel,1,descriptor
+immediate frame,1,descriptor
+thoroughfare,1,descriptor
+stretch,1,descriptor
+move about freely,1,descriptor
+constraint,1,descriptor
+large enough to wander,1,descriptor
+broader context,1,descriptor
+easy navigation,1,descriptor
+without strict boundaries,1,descriptor
+imposing,1,descriptor
+decent extent,1,descriptor
+linear perspective,1,descriptor
+considerable movement,1,descriptor
+truly boundless exploration,1,descriptor
+extensive possibility,1,descriptor
+managed nature,1,descriptor
+wander freely,1,descriptor
+converging,1,descriptor
+exploratory potential,1,descriptor
+overcast,1,descriptor
+invitation to explore,1,descriptor
+areas,1,descriptor
+implied context,1,descriptor
+surrounding greenery,1,object
+to the right,1,descriptor
+visible frame,1,descriptor
+defined pathway,1,descriptor
+venture further,1,descriptor
+allows for movement,1,descriptor
+several directions,1,descriptor
+open sky,1,object
+surrounding urban elements,1,descriptor
+limited direction,1,descriptor
+obvious diversions,1,descriptor
+broad movement,1,descriptor
+bushes,1,object
+green space,1,descriptor
+clear visibility,1,descriptor
+perceived sense,1,descriptor
+forward,1,descriptor
+areas to investigate,1,descriptor
+sense of moving about,1,descriptor
+dense tree lines,1,descriptor
+constricting,1,descriptor
+clearly defined paths,1,descriptor
+unknown areas,1,descriptor
+wide scope,1,descriptor
+parallel,1,descriptor
+more areas,1,descriptor
+fostering,1,descriptor
+natural environment,1,descriptor
+unconstrained environment,1,descriptor
+splits,1,descriptor
+boundedness,1,descriptor
+vast wilderness,1,descriptor
+perimeters,1,object
+boundary,1,object
+campus pathway,1,object
+freedom in movement,1,descriptor
+strong limitations,1,descriptor
+navigated,1,descriptor
+panoramic view,1,object
+taller,1,descriptor
+traverse,1,descriptor
+extensive discovery,1,descriptor
+confined space,1,descriptor
+setting,1,descriptor
+open landscape,1,descriptor
+arrangement,1,descriptor
+obscured,1,descriptor
+sense of boundary,1,descriptor
+lawns,1,object
+immediate vicinity,1,descriptor
+different aspects,1,descriptor
+densely,1,descriptor
+industrial area,1,object
+lack,1,descriptor
+unguided,1,descriptor
+visible side areas,1,descriptor
+lower side,1,descriptor
+campus street,1,descriptor
+sense of potential scope,1,descriptor
+wander through,1,descriptor
+few limits,1,descriptor
+linear progression,1,descriptor
+surrounding area,1,descriptor
+campus landscape,1,object
+network,1,descriptor
+discovering new areas,1,descriptor
+significant unboundedness,1,descriptor
+vast exploration,1,descriptor
+natural elements,1,descriptor
+relatively long,1,descriptor
+lack of vastness,1,descriptor
+free,1,descriptor
+not entirely unlimited,1,descriptor
+sense of unbounded exploration,1,descriptor
+scope for movement,1,descriptor
+curving pathways,1,object
+further green areas,1,descriptor
+discover new elements,1,descriptor
+visible presence,1,descriptor
+bounded space,1,descriptor
+boundless environment,1,descriptor
+walking paths,1,object
+winding path,1,object
+evident ongoing development,1,descriptor

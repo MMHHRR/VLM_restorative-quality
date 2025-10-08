@@ -1,0 +1,280 @@
+keyword,count,type
+trees,32,object
+visual interest,26,descriptor
+buildings,25,object
+greenery,19,object
+pathways,17,object
+well-maintained,13,descriptor
+natural,10,descriptor
+moderate,9,descriptor
+varied,8,descriptor
+lush,7,descriptor
+variety,7,descriptor
+modern,6,descriptor
+roads,6,object
+engaging,6,descriptor
+captivating,5,descriptor
+modern architecture,5,object
+visually engaging,5,descriptor
+bicycles,5,object
+organized,5,descriptor
+canal,5,object
+scooters,4,object
+vehicles,4,object
+road,4,object
+natural elements,4,descriptor
+functional,4,descriptor
+gentle,4,descriptor
+sidewalks,4,object
+clear,4,descriptor
+visually appealing,4,descriptor
+calm,4,descriptor
+uniform,4,descriptor
+unique,4,descriptor
+architecture,4,object
+visual,3,descriptor
+moderate level of fascination,3,descriptor
+urban,3,descriptor
+cyclist,3,object
+sky,3,object
+subtle,3,descriptor
+water,3,object
+parked cars,3,object
+winding,3,descriptor
+people,3,object
+fascination,3,descriptor
+interesting,3,descriptor
+distant,3,descriptor
+visually interesting,3,descriptor
+foliage,3,object
+pleasant,3,descriptor
+cars,2,object
+grass,2,object
+clean,2,descriptor
+neatly trimmed,2,descriptor
+orderly,2,descriptor
+body of water,2,object
+manicured,2,descriptor
+architectural variety,2,descriptor
+boredom,2,descriptor
+street elements,2,object
+structured,2,descriptor
+order,2,descriptor
+dynamic element,2,descriptor
+clear sky,2,descriptor
+attention,2,descriptor
+aesthetic,2,descriptor
+scooter,2,object
+weeping willows,2,object
+uniformity,2,descriptor
+modern buildings,2,object
+potential for exploration,2,descriptor
+hedges,2,object
+urban architecture,2,object
+lush greenery,2,object
+visual stimuli,2,descriptor
+exploration,2,descriptor
+paths,2,object
+multiple,2,descriptor
+urban setting,2,descriptor
+mature trees,2,object
+urban infrastructure,2,descriptor
+monotonous,2,descriptor
+numerous,2,descriptor
+gentle curve,2,descriptor
+visual complexity,2,descriptor
+fascinating,2,descriptor
+overwhelming,2,descriptor
+visual stimulation,2,descriptor
+shrubs,2,object
+winding paths,2,object
+sense of discovery,1,descriptor
+parked bicycles,1,object
+urban structures,1,object
+waterfront,1,object
+open,1,descriptor
+natural elements,1,object
+distinct architectural features,1,descriptor
+parked vehicles,1,object
+concrete,1,object
+pathway,1,object
+architecturally interesting,1,descriptor
+hills,1,object
+living environment,1,descriptor
+large building,1,object
+less likely to be boring,1,descriptor
+tree-lined road,1,object
+institutional,1,descriptor
+draws the eye,1,descriptor
+attention-capturing,1,descriptor
+moderate level of visual interest,1,descriptor
+mature,1,descriptor
+lily pads,1,object
+sense of fascination,1,descriptor
+pond,1,object
+building designs,1,object
+patterned pathways,1,object
+lake,1,object
+distinctive,1,descriptor
+continuous engagement,1,descriptor
+man-made structures,1,object
+sculpture,1,object
+dominance,1,descriptor
+overcast sky,1,descriptor
+grassy areas,1,object
+green,1,descriptor
+curiosity,1,descriptor
+ordered,1,descriptor
+prominent,1,descriptor
+limited,1,descriptor
+strongly capture attention,1,descriptor
+evoke boredom,1,descriptor
+willow trees,1,object
+paved areas,1,object
+spontaneous discovery,1,descriptor
+building facades,1,object
+dominated,1,descriptor
+intricate detail,1,descriptor
+captivating elements,1,descriptor
+residential buildings,1,object
+clear sky,1,object
+partially budding,1,descriptor
+pleasant season,1,descriptor
+appealing environment,1,descriptor
+varied elements,1,descriptor
+reflections,1,descriptor
+peacefulness,1,descriptor
+natural beauty,1,descriptor
+visually stimulating,1,descriptor
+pleasant environment,1,descriptor
+consistent spacing,1,descriptor
+repeating patterns,1,descriptor
+unique natural features,1,descriptor
+capture attention,1,descriptor
+not overwhelmingly so,1,descriptor
+clouds,1,object
+lining,1,descriptor
+background,1,descriptor
+urban structures,1,descriptor
+moderate to high level of fascination,1,descriptor
+parking lot,1,object
+natural wonder,1,descriptor
+distinct,1,descriptor
+mildly engaging,1,descriptor
+diverse activities,1,descriptor
+abundant greenery,1,descriptor
+partly cloudy,1,descriptor
+open sky,1,object
+stone railings,1,object
+tranquil,1,descriptor
+colonnaded building,1,object
+residential structures,1,object
+parked scooters,1,object
+mild sense of engagement,1,descriptor
+tree-lined street,1,object
+manicured hedges,1,object
+windows,1,object
+various,1,descriptor
+pleasant aesthetic,1,descriptor
+grass areas,1,object
+paved,1,descriptor
+water features,1,object
+architectural elements,1,object
+variety of greenery,1,descriptor
+visual path,1,descriptor
+prominent points of interest,1,descriptor
+moderate ability to hold attention,1,descriptor
+campus,1,object
+landscaping,1,object
+clean lines,1,descriptor
+varying sizes,1,descriptor
+paved roads,1,object
+hard to be bored,1,descriptor
+moderate fascination,1,descriptor
+limited natural elements,1,descriptor
+sense of order,1,descriptor
+intense engagement,1,descriptor
+mixture,1,descriptor
+stimuli,1,descriptor
+neat,1,descriptor
+road markings,1,object
+streetlights,1,object
+lush foliage,1,descriptor
+visual texture,1,descriptor
+architectural styles,1,object
+detail,1,descriptor
+exploratory,1,descriptor
+not overwhelmingly complex,1,descriptor
+enough elements,1,descriptor
+capture,1,descriptor
+hold attention,1,descriptor
+sports court,1,object
+path,1,object
+contained,1,descriptor
+inviting,1,descriptor
+large statue,1,object
+natural environment,1,object
+building architecture,1,object
+stone bridge,1,object
+nature,1,object
+urban elements,1,object
+juxtaposition,1,descriptor
+expansive,1,descriptor
+architectural variety,1,object
+dynamic,1,descriptor
+wooded area,1,object
+reasonably hard to be bored,1,descriptor
+lush trees,1,object
+small pond,1,object
+consistent green scenery,1,descriptor
+organized layout,1,descriptor
+predictable,1,descriptor
+blend of nature and built environments,1,descriptor
+size,1,descriptor
+density,1,descriptor
+colorful,1,descriptor
+vibrancy,1,descriptor
+engagement,1,descriptor
+diverse,1,descriptor
+built,1,descriptor
+gentle exploration,1,descriptor
+bridges,1,object
+high score,1,descriptor
+overall design,1,descriptor
+minor points of interest,1,descriptor
+rocks,1,object
+good balance,1,descriptor
+draw attention,1,descriptor
+dominates,1,descriptor
+not boring,1,descriptor
+varying shades of green,1,descriptor
+autumnal colors,1,descriptor
+architectural elements,1,descriptor
+simple,1,descriptor
+sense of progression,1,descriptor
+varying,1,descriptor
+umbrella,1,object
+lush greenery,1,descriptor
+ornate,1,descriptor
+highly stimulating,1,descriptor
+unusual elements,1,descriptor
+unlikely to be boring,1,descriptor
+distinctly unique,1,descriptor
+architectural style,1,object
+natural features,1,object
+layout,1,object
+repetitive,1,descriptor
+sterile,1,descriptor
+visual variation,1,descriptor
+somewhat engaging,1,descriptor
+neatly manicured,1,descriptor
+clear division,1,descriptor
+multiple directions,1,descriptor
+activity,1,descriptor
+dominant,1,descriptor
+apartment buildings,1,object
+lawns,1,object
+waterway,1,object
+bridge,1,object
+layered architecture,1,descriptor
+moderately engaging,1,descriptor

@@ -1,0 +1,5007 @@
+keyword,type,count
+buildings,object,2081
+trees,object,1741
+greenery,object,1071
+pathways,object,998
+road,object,794
+roads,object,645
+clear,descriptor,603
+organized,descriptor,584
+visual interest,descriptor,556
+sidewalks,object,542
+street,object,475
+landscaping,object,389
+orderly,descriptor,326
+structured,descriptor,299
+green spaces,object,297
+well-maintained,descriptor,291
+exploration,descriptor,288
+visible,descriptor,281
+limited,descriptor,279
+escape,descriptor,274
+moderate,descriptor,267
+functional,descriptor,266
+open,descriptor,256
+urban,descriptor,247
+boundaries,descriptor,240
+parked cars,object,233
+natural,descriptor,233
+coherence,descriptor,233
+refuge,descriptor,229
+movement,descriptor,228
+sense of order,descriptor,220
+well-defined,descriptor,217
+captivating,descriptor,213
+consistent,descriptor,193
+distance,descriptor,189
+uniform,descriptor,185
+expansive,descriptor,177
+cars,object,175
+modern,descriptor,168
+separation,descriptor,166
+manicured,descriptor,165
+calm,descriptor,162
+planned,descriptor,155
+repetitive,descriptor,154
+pleasant,descriptor,151
+paths,object,149
+vastness,descriptor,147
+vehicles,object,147
+distant,descriptor,143
+modern buildings,object,142
+openness,descriptor,140
+varied,descriptor,137
+wide,descriptor,137
+pathway,object,134
+quiet,descriptor,133
+sky,object,133
+campus,object,133
+defined,descriptor,131
+arrangement,descriptor,130
+predictability,descriptor,124
+easy to understand,descriptor,123
+path,object,119
+order,descriptor,117
+peaceful,descriptor,115
+extends,descriptor,114
+natural elements,descriptor,112
+environment,object,111
+clean,descriptor,110
+modern architecture,object,108
+distinct,descriptor,108
+respite,descriptor,107
+contained,descriptor,107
+building,object,106
+architecture,object,104
+parking areas,object,100
+limit,descriptor,99
+engaging,descriptor,98
+discovery,descriptor,97
+organization,descriptor,97
+daily demands,descriptor,94
+logical,descriptor,91
+open spaces,object,90
+unique,descriptor,90
+potential,descriptor,89
+potential for exploration,descriptor,89
+surrounding,descriptor,88
+detachment,descriptor,87
+immediate,descriptor,86
+parked vehicles,object,86
+landscape,object,85
+paved areas,object,84
+grassy areas,object,84
+bicycles,object,83
+proper place,descriptor,82
+repetition,descriptor,82
+streetlights,object,81
+canal,object,81
+boredom,descriptor,79
+fences,object,78
+predictable,descriptor,78
+multiple,descriptor,78
+layout,descriptor,77
+infrastructure,object,77
+street layout,object,75
+multiple directions,descriptor,75
+paved roads,object,75
+active,descriptor,75
+integrated,descriptor,74
+monotonous,descriptor,72
+neatly trimmed,descriptor,71
+tranquil,descriptor,71
+natural elements,object,71
+vast,descriptor,69
+limiting,descriptor,69
+clearly defined,descriptor,69
+variety,descriptor,69
+ample,descriptor,68
+green areas,object,68
+boundless,descriptor,67
+bushes,object,65
+mature trees,object,63
+parking lot,object,63
+water,object,62
+residential buildings,object,61
+urban infrastructure,object,60
+extensive,descriptor,60
+nuisances,descriptor,59
+visible boundaries,descriptor,59
+grass,object,58
+mental escape,descriptor,57
+scattered,descriptor,57
+spatial arrangement,descriptor,56
+lush,descriptor,55
+diverse,descriptor,55
+hedges,object,55
+streets,object,55
+coherent,descriptor,54
+moderately fascinating,descriptor,54
+extending,descriptor,53
+possibilities,descriptor,53
+utilitarian,descriptor,53
+absence,descriptor,52
+overcast,descriptor,51
+break,descriptor,51
+evenly spaced,descriptor,51
+serene,descriptor,50
+well-organized,descriptor,50
+urban setting,descriptor,49
+large,descriptor,49
+bordered,descriptor,49
+clear separation,descriptor,49
+designated place,descriptor,49
+understandable,descriptor,48
+uniformity,descriptor,47
+clear boundaries,descriptor,46
+architectural elements,object,46
+road markings,object,46
+urban nuisances,descriptor,45
+moderate level of fascination,descriptor,45
+clear order,descriptor,45
+clear organization,descriptor,45
+departure,descriptor,45
+neat,descriptor,45
+traffic,object,44
+urban street,object,44
+boundaries,object,44
+greenery,descriptor,44
+clear sense of order,descriptor,44
+vegetation,object,44
+area,object,43
+sense of escape,descriptor,43
+demands,descriptor,43
+intentional,descriptor,43
+freedom,descriptor,42
+daily routines,descriptor,42
+different directions,descriptor,42
+not vast,descriptor,42
+foliage,object,41
+boundless exploration,descriptor,41
+structure,descriptor,40
+landscaped areas,object,40
+winding,descriptor,40
+neatly arranged,descriptor,40
+secluded,descriptor,39
+elements,object,39
+straight,descriptor,39
+debris,object,39
+mental detachment,descriptor,39
+linear,descriptor,39
+visually engaging,descriptor,39
+neatly maintained,descriptor,38
+abundant,descriptor,38
+interesting,descriptor,38
+dynamic,descriptor,38
+areas,object,38
+overall impression,descriptor,37
+extensive exploration,descriptor,37
+urban setting,object,36
+institutional,descriptor,36
+nature,object,35
+structures,object,35
+traffic cones,object,35
+prominent,descriptor,35
+fascination,descriptor,35
+long,descriptor,35
+accessible,descriptor,35
+tree-lined street,object,35
+lake,object,35
+campus,descriptor,34
+hills,object,34
+everyday demands,descriptor,34
+moderately engaging,descriptor,34
+ordered,descriptor,34
+larger,descriptor,33
+scope,descriptor,33
+calm atmosphere,descriptor,33
+arranged,descriptor,33
+streetscape,object,33
+easy to comprehend,descriptor,32
+dense,descriptor,32
+opportunities,descriptor,32
+parking spaces,object,32
+sustained attention,descriptor,32
+numerous,descriptor,31
+everyday concerns,descriptor,31
+constrained,descriptor,31
+typical,descriptor,31
+complete escape,descriptor,31
+defined boundaries,descriptor,31
+paved,descriptor,30
+paved road,object,30
+lanes,object,30
+modern building,object,30
+confined,descriptor,30
+construction,object,30
+potential escape,descriptor,30
+removed,descriptor,30
+moderate fascination,descriptor,30
+framed,descriptor,29
+apartment buildings,object,29
+physical arrangement,descriptor,29
+sense of openness,descriptor,29
+building facades,object,29
+lawns,object,29
+building structures,object,29
+clear organizational structure,descriptor,29
+limits,descriptor,29
+water body,object,29
+abundance,descriptor,29
+broad,descriptor,28
+breadth,descriptor,28
+mental break,descriptor,28
+urban hustle,descriptor,28
+people,object,28
+paved pathways,object,28
+open areas,object,28
+depth,descriptor,27
+urban context,descriptor,27
+lush greenery,object,27
+consistent architectural style,descriptor,27
+extend,descriptor,26
+body of water,object,26
+well-planned,descriptor,26
+minimal,descriptor,26
+road layout,object,26
+walkways,object,26
+residential,descriptor,26
+tree-lined,descriptor,26
+quiet atmosphere,descriptor,26
+tree-lined road,object,26
+architectural styles,object,26
+dynamic elements,descriptor,25
+visual order,descriptor,25
+institutional buildings,object,25
+expanse,descriptor,25
+unique features,descriptor,25
+designated,descriptor,25
+green,descriptor,25
+intersection,object,24
+dominant,descriptor,24
+demanding,descriptor,24
+paved paths,object,24
+sense of organization,descriptor,24
+possibility,descriptor,24
+limitations,descriptor,24
+everyday,descriptor,24
+urban bustle,descriptor,24
+degree of order,descriptor,24
+daily nuisances,descriptor,24
+many directions,descriptor,24
+visually appealing,descriptor,24
+immediate view,descriptor,24
+managed,descriptor,23
+engagement,descriptor,23
+potential for movement,descriptor,23
+novel,descriptor,23
+leaves,object,23
+contrast,descriptor,23
+presence,descriptor,23
+intricate details,descriptor,23
+paved surfaces,object,23
+detached,descriptor,23
+intentional design,descriptor,23
+spaciousness,descriptor,23
+perceived,descriptor,23
+sports court,object,22
+distractions,descriptor,22
+discernible,descriptor,22
+proximity,descriptor,22
+spatial organization,descriptor,22
+tree-lined streets,object,22
+strong,descriptor,22
+adjacent,descriptor,22
+construction debris,object,21
+construction materials,object,21
+mundane,descriptor,21
+urban environment,descriptor,21
+urban environment,object,21
+architectural style,object,21
+strong sense,descriptor,21
+deliberate,descriptor,21
+busy,descriptor,21
+space,object,21
+bored,descriptor,21
+attention,descriptor,21
+open space,descriptor,20
+urban structures,object,20
+symmetrical,descriptor,20
+sports field,object,20
+parking lots,object,20
+immediate surroundings,descriptor,20
+organized layout,descriptor,20
+developed,descriptor,20
+overcast sky,object,20
+harmonious,descriptor,20
+mental respite,descriptor,20
+parked bicycles,object,19
+road network,object,19
+shrubs,object,19
+strong sense of order,descriptor,19
+dominated,descriptor,19
+intriguing,descriptor,19
+street lamps,object,19
+connected,descriptor,19
+true refuge,descriptor,19
+being away,descriptor,19
+clear layout,descriptor,19
+restricted,descriptor,19
+perceived boundaries,descriptor,19
+paved walkways,object,19
+urban landscape,object,19
+prevent boredom,descriptor,19
+road infrastructure,object,19
+perceived scope,descriptor,19
+unbounded,descriptor,19
+responsibilities,descriptor,19
+possibilities for movement,descriptor,19
+visible extent,descriptor,18
+moderate scope,descriptor,18
+organizational structure,descriptor,18
+intended place,descriptor,18
+vehicle,object,18
+moderate score,descriptor,18
+routine,descriptor,18
+layout,object,18
+limited scope,descriptor,18
+water feature,object,18
+neatly planted,descriptor,18
+capture attention,descriptor,18
+larger area,descriptor,18
+extensive exploration possibilities,descriptor,18
+open space,object,18
+hustle and bustle,descriptor,18
+maintained,descriptor,18
+moderate sense of scope,descriptor,18
+typical demands,descriptor,18
+striking,descriptor,18
+clear lines,descriptor,18
+lampposts,object,17
+sense of exploration,descriptor,17
+hard to be bored,descriptor,17
+easily understandable,descriptor,17
+pavement,object,17
+well-structured,descriptor,17
+visual cues,descriptor,17
+simple,descriptor,17
+freedom of movement,descriptor,17
+not expansive,descriptor,17
+varied textures,descriptor,17
+park,object,17
+bridge,object,17
+built environment,object,17
+bordering,descriptor,17
+grounds,object,16
+scooters,object,16
+open road,object,16
+typical urban nuisances,descriptor,16
+continuous,descriptor,16
+complete detachment,descriptor,16
+visual,descriptor,16
+inherent fascination,descriptor,16
+restorative,descriptor,16
+everyday life,descriptor,16
+intricate,descriptor,16
+spaces,object,16
+daily stressors,descriptor,16
+suburban,descriptor,16
+limited visual interest,descriptor,16
+complexity,descriptor,16
+visual separation,descriptor,16
+clear division,descriptor,15
+disconnect,descriptor,15
+structured environment,descriptor,15
+deep engagement,descriptor,15
+unkempt,descriptor,15
+urban elements,object,15
+aligned,descriptor,15
+campus area,object,15
+varying,descriptor,15
+visual boundaries,descriptor,15
+obligations,descriptor,15
+materials,object,15
+larger environment,descriptor,15
+sports courts,object,15
+stadium,object,15
+overall layout,descriptor,15
+stretching,descriptor,15
+orderly arrangement,descriptor,15
+windows,object,15
+lined,descriptor,15
+overcast sky,descriptor,15
+curving,descriptor,15
+opportunities for exploration,descriptor,15
+retreat,descriptor,15
+bustling,descriptor,15
+deliberate design,descriptor,15
+lane markings,object,15
+disjointed,descriptor,15
+extends into the distance,descriptor,15
+quietness,descriptor,14
+extent,descriptor,14
+planned layout,descriptor,14
+pedestrian paths,object,14
+quiet street,object,14
+away,descriptor,14
+moderate sense of escape,descriptor,14
+tree-lined paths,object,14
+novelty,descriptor,14
+parking,object,14
+visible area,descriptor,14
+distant buildings,object,14
+disorganized,descriptor,14
+systematic,descriptor,14
+urban distractions,descriptor,14
+residential area,object,14
+restrict,descriptor,14
+hold attention,descriptor,14
+natural setting,descriptor,14
+strong sense of escape,descriptor,14
+parallel,descriptor,14
+visual depth,descriptor,14
+discover,descriptor,14
+subtle,descriptor,13
+various,descriptor,13
+tree-lined path,object,13
+expansiveness,descriptor,13
+sidewalk,object,13
+clear structure,descriptor,13
+broader,descriptor,13
+orderliness,descriptor,13
+immediate demands,descriptor,13
+potential exploration,descriptor,13
+enclosed,descriptor,13
+car,object,13
+navigate,descriptor,13
+mix,descriptor,13
+overall arrangement,descriptor,13
+refuge,object,13
+pond,object,13
+fallen leaves,object,13
+natural buffer,descriptor,13
+flanked,descriptor,13
+sense of coherence,descriptor,13
+feeling of being away,descriptor,13
+demanding tasks,descriptor,13
+temporary escape,descriptor,13
+visual complexity,descriptor,13
+controlled,descriptor,12
+moderate sense of being away,descriptor,12
+developed area,descriptor,12
+degree of separation,descriptor,12
+gentle,descriptor,12
+various directions,descriptor,12
+daily life,descriptor,12
+spacious,descriptor,12
+uniformly designed,descriptor,12
+explore,descriptor,12
+not overly confined,descriptor,12
+man-made,descriptor,12
+points of interest,descriptor,12
+architectural variety,descriptor,12
+built environment,descriptor,12
+natural beauty,descriptor,12
+naturalistic,descriptor,12
+rich,descriptor,12
+building architecture,object,12
+repetitive nature,descriptor,12
+unique elements,descriptor,12
+straightforward,descriptor,12
+moderate coherence,descriptor,12
+sterile,descriptor,12
+chaotic,descriptor,12
+signage,object,12
+temporary,descriptor,12
+implicit boundaries,descriptor,12
+activity,descriptor,12
+cyclist,object,12
+industrial,descriptor,12
+limitless exploration,descriptor,12
+lush trees,object,11
+not a complete escape,descriptor,11
+open sky,object,11
+sense of being away,descriptor,11
+comprehensibility,descriptor,11
+semi-urban,descriptor,11
+move about,descriptor,11
+feeling of boundless exploration,descriptor,11
+structured manner,descriptor,11
+expansive possibilities,descriptor,11
+roadways,object,11
+moderately expansive,descriptor,11
+exceptionally captivating,descriptor,11
+sense of vastness,descriptor,11
+cityscape,object,11
+opportunities for movement,descriptor,11
+visual experience,descriptor,11
+density,descriptor,11
+apparent,descriptor,11
+urban elements,descriptor,11
+daily pressures,descriptor,11
+ample space,descriptor,11
+easy to follow,descriptor,11
+bustle,descriptor,11
+structured layout,descriptor,11
+everyday nuisances,descriptor,11
+reasonable scope,descriptor,11
+natural features,object,11
+juxtaposition,descriptor,11
+urban streetscape,object,11
+designed,descriptor,11
+curbs,object,11
+urban buildings,object,11
+draw attention,descriptor,11
+stretches,descriptor,11
+planned environment,descriptor,11
+urban architecture,object,11
+bicycle,object,11
+construction site,object,11
+overwhelming,descriptor,11
+unlimited exploration,descriptor,11
+sense of space,descriptor,11
+inhabited,descriptor,11
+urban stressors,descriptor,10
+fascinating,descriptor,10
+crowds,object,10
+construction elements,object,10
+complex,descriptor,10
+difficult to be bored,descriptor,10
+logical arrangement,descriptor,10
+proper places,descriptor,10
+not overwhelming,descriptor,10
+natural complexity,descriptor,10
+wild,descriptor,10
+tree lines,object,10
+natural element,descriptor,10
+surroundings,object,10
+tidiness,descriptor,10
+clear sightlines,descriptor,10
+planted areas,object,10
+further exploration,descriptor,10
+moderate visual interest,descriptor,10
+unbounded exploration,descriptor,10
+easy to navigate,descriptor,10
+overall,descriptor,10
+repeating patterns,descriptor,10
+ongoing,descriptor,10
+urban context,object,10
+captivating elements,descriptor,10
+industrial buildings,object,10
+manicured greenery,object,10
+open green spaces,object,10
+minimal traffic,descriptor,10
+understandability,descriptor,10
+visually interesting,descriptor,10
+view,descriptor,10
+clear delineation,descriptor,10
+clean lines,descriptor,10
+barriers,object,10
+possibilities for exploration,descriptor,10
+walkway,object,10
+cohesive,descriptor,10
+manicured bushes,object,10
+ordinary,descriptor,10
+possibility for exploration,descriptor,10
+street view,object,10
+captivating details,descriptor,9
+ease of understanding,descriptor,9
+planters,object,9
+pedestrians,object,9
+parking area,object,9
+clarity,descriptor,9
+visual variety,descriptor,9
+green space,object,9
+fit together,descriptor,9
+designated places,descriptor,9
+common,descriptor,9
+winding road,object,9
+built,descriptor,9
+perfect coherence,descriptor,9
+visual flow,descriptor,9
+explorable,descriptor,9
+broad exploration,descriptor,9
+continuation,descriptor,9
+exploration possibilities,descriptor,9
+perfect,descriptor,9
+man-made structures,object,9
+horizon,object,9
+high fascination,descriptor,9
+consistent placement,descriptor,9
+urban infrastructure,descriptor,9
+vista,object,9
+lane dividers,object,9
+immediate area,descriptor,9
+rich detail,descriptor,9
+panoramic,descriptor,9
+urban area,object,9
+pedestrian areas,object,9
+low score,descriptor,9
+terrain,object,9
+repeating,descriptor,9
+water features,object,9
+space,descriptor,9
+decent sense of being away,descriptor,9
+extensive movement,descriptor,9
+decent,descriptor,9
+typical daily demands,descriptor,9
+natural escape,descriptor,9
+open spaces,descriptor,9
+seamless,descriptor,9
+sparse,descriptor,9
+complete refuge,descriptor,9
+planned development,descriptor,9
+disrupt,descriptor,9
+paved path,object,9
+waterway,object,9
+sustained interest,descriptor,9
+aesthetically pleasing,descriptor,9
+peaceful ambiance,descriptor,8
+low fascination,descriptor,8
+overall environment,descriptor,8
+absence of people,descriptor,8
+roadway,object,8
+paving stones,object,8
+intersecting,descriptor,8
+fencing,object,8
+work,descriptor,8
+interplay,descriptor,8
+vistas,object,8
+overall coherence,descriptor,8
+demanding thoughts,descriptor,8
+work-related,descriptor,8
+moderately coherent,descriptor,8
+well-kept,descriptor,8
+not a complete refuge,descriptor,8
+visual expanse,descriptor,8
+spatial relationships,descriptor,8
+disarray,descriptor,8
+urban life,descriptor,8
+proper,descriptor,8
+visual elements,descriptor,8
+regular,descriptor,8
+daily worries,descriptor,8
+paving,object,8
+urban design,object,8
+perception,descriptor,8
+absence of crowds,descriptor,8
+numerous directions,descriptor,8
+possibility for movement,descriptor,8
+worries,descriptor,8
+nature,descriptor,8
+complete,descriptor,8
+stimulating,descriptor,8
+boundless possibilities,descriptor,8
+benches,object,8
+background,descriptor,8
+fragmented,descriptor,8
+subdued,descriptor,8
+signs,object,8
+setting,object,8
+visibility,descriptor,8
+reasonable degree of order,descriptor,8
+curiosity,descriptor,8
+cyclists,object,8
+manicured areas,object,8
+reasonable,descriptor,8
+easy to perceive,descriptor,8
+wander,descriptor,8
+deep fascination,descriptor,8
+parked,descriptor,8
+limitless,descriptor,8
+uneven,descriptor,8
+diverging,descriptor,8
+tree line,object,8
+good degree of order,descriptor,8
+visual stimulation,descriptor,8
+few immediate boundaries,descriptor,8
+restricts,descriptor,8
+monotony,descriptor,8
+linear arrangement,descriptor,8
+significant,descriptor,8
+person,object,8
+gentle curve,descriptor,8
+lining,descriptor,8
+implied,descriptor,8
+unexpected,descriptor,8
+stressors,descriptor,8
+curves,descriptor,7
+lower score,descriptor,7
+sense of freedom,descriptor,7
+neatly organized,descriptor,7
+unlikely,descriptor,7
+delineated,descriptor,7
+unusual,descriptor,7
+neatly manicured,descriptor,7
+expansive exploration,descriptor,7
+relatively,descriptor,7
+natural features,descriptor,7
+familiar,descriptor,7
+daily concerns,descriptor,7
+extending into the distance,descriptor,7
+clear arrangement,descriptor,7
+organized structure,descriptor,7
+not vastness,descriptor,7
+campus street,object,7
+architectural style,descriptor,7
+discernible pattern,descriptor,7
+understanding,descriptor,7
+limited variety,descriptor,7
+functional space,descriptor,7
+sanctuary,descriptor,7
+seamless organization,descriptor,7
+institutional building,object,7
+unfinished,descriptor,7
+landscaped greenery,object,7
+directions,descriptor,7
+paved area,object,7
+freely,descriptor,7
+public space,descriptor,7
+walking paths,object,7
+scattering,descriptor,7
+symmetrical layout,descriptor,7
+truly away,descriptor,7
+vast expanse,descriptor,7
+bounded,descriptor,7
+varying textures,descriptor,7
+blend,descriptor,7
+lamppost,object,7
+disengage,descriptor,7
+branching,descriptor,7
+visually organized,descriptor,7
+less engaging,descriptor,7
+moderately sized,descriptor,7
+implied boundaries,descriptor,7
+banners,object,7
+undeveloped,descriptor,7
+potential for fascination,descriptor,7
+engaging elements,descriptor,7
+similar,descriptor,7
+everyday worries,descriptor,7
+purpose,descriptor,7
+peace,descriptor,7
+fence,object,7
+overall composition,descriptor,7
+visual break,descriptor,7
+distinct features,descriptor,7
+overall uniformity,descriptor,7
+peacefulness,descriptor,7
+limitless exploration possibilities,descriptor,7
+consistent design,descriptor,7
+typical nuisances,descriptor,7
+flow,descriptor,7
+different elements,descriptor,7
+journey,descriptor,7
+specific,descriptor,7
+strong coherence,descriptor,7
+easily understood,descriptor,7
+environment,descriptor,7
+moderate level of coherence,descriptor,7
+unified,descriptor,7
+feeling of escape,descriptor,7
+forks,descriptor,7
+logically placed,descriptor,7
+usual demands,descriptor,7
+limitless possibilities,descriptor,7
+mental disengagement,descriptor,7
+mildly engaging,descriptor,6
+immediate environment,descriptor,6
+landscaped,descriptor,6
+highly captivating,descriptor,6
+broad view,descriptor,6
+overall scene,descriptor,6
+strong focal points,descriptor,6
+unrestricted exploration,descriptor,6
+empty,descriptor,6
+details,descriptor,6
+expansive movement,descriptor,6
+minimal activity,descriptor,6
+visual harmony,descriptor,6
+landscapes,object,6
+urban layout,object,6
+pathways,descriptor,6
+immediate foreground,descriptor,6
+dominance,descriptor,6
+everything has its place,descriptor,6
+perfect sense of order,descriptor,6
+perceived possibilities,descriptor,6
+winding paths,object,6
+scale,descriptor,6
+pedestrian pathways,object,6
+markings,object,6
+detach,descriptor,6
+intentionally designed,descriptor,6
+inviting,descriptor,6
+easily navigable,descriptor,6
+aesthetic,descriptor,6
+intended,descriptor,6
+lack of clear order,descriptor,6
+basketball courts,object,6
+exceptionally engaging,descriptor,6
+uniformly planted,descriptor,6
+architectural structures,object,6
+weeping willows,object,6
+mental departure,descriptor,6
+placement,descriptor,6
+transition,descriptor,6
+lacking,descriptor,6
+residential complex,object,6
+walk,descriptor,6
+uncluttered,descriptor,6
+lacks elements,descriptor,6
+transit,descriptor,6
+man-made structures,descriptor,6
+harmony,descriptor,6
+defined limits,descriptor,6
+profound,descriptor,6
+separate,descriptor,6
+tree-lined roads,object,6
+limited visual complexity,descriptor,6
+not secluded,descriptor,6
+discernible order,descriptor,6
+meticulously maintained,descriptor,6
+everyday distractions,descriptor,6
+fork in the road,object,6
+dappled,descriptor,6
+neatly paved,descriptor,6
+not wild,descriptor,6
+clouds,object,6
+sunlight,object,6
+unexplored,descriptor,6
+concrete surfaces,object,6
+confinement,descriptor,6
+ongoing activity,descriptor,6
+recreational,descriptor,6
+feeling of openness,descriptor,6
+construction zone,object,6
+urban planning,descriptor,6
+feeling of vastness,descriptor,6
+different parts,descriptor,6
+not captivating,descriptor,6
+tennis courts,object,6
+sense of structure,descriptor,6
+tennis court,object,6
+lines,object,6
+focal points,descriptor,6
+not extensive,descriptor,6
+considerable,descriptor,6
+relaxation,descriptor,6
+suburban setting,object,6
+limited opportunities,descriptor,6
+extend into the distance,descriptor,6
+high coherence,descriptor,6
+campus-like,descriptor,6
+organized placement,descriptor,6
+campus layout,object,6
+not a refuge,descriptor,6
+high,descriptor,6
+captivating quality,descriptor,6
+central,descriptor,6
+open pathways,object,6
+subtle boundaries,descriptor,6
+repeated patterns,descriptor,6
+distinct areas,descriptor,6
+explored,descriptor,6
+strong refuge,descriptor,6
+clear presence,descriptor,6
+vista,descriptor,6
+understandable layout,descriptor,6
+possibility of exploration,descriptor,6
+detract,descriptor,5
+different,descriptor,5
+typical urban hustle,descriptor,5
+moderately interesting,descriptor,5
+mixed,descriptor,5
+difficult,descriptor,5
+movement possibilities,descriptor,5
+enclosure,descriptor,5
+distinct focal points,descriptor,5
+typical concerns,descriptor,5
+scooter,object,5
+truck,object,5
+discovering,descriptor,5
+tree cover,object,5
+sculpture,object,5
+moderately hard to be bored,descriptor,5
+room to move,descriptor,5
+detail,descriptor,5
+disconnected,descriptor,5
+minimal human activity,descriptor,5
+room for exploration,descriptor,5
+unbounded movement,descriptor,5
+either side,descriptor,5
+distinct separation,descriptor,5
+distinct refuge,descriptor,5
+truly 'away',descriptor,5
+easy navigation,descriptor,5
+moderate level of visual interest,descriptor,5
+entrance,object,5
+mature,descriptor,5
+ease,descriptor,5
+natural area,object,5
+general layout,descriptor,5
+lily pads,object,5
+good coherence,descriptor,5
+walls,object,5
+clear path,descriptor,5
+wandering,descriptor,5
+open layout,descriptor,5
+predictable arrangement,descriptor,5
+atmosphere,object,5
+open green areas,object,5
+plain,descriptor,5
+clear sky,object,5
+waterfront,object,5
+infrastructure,descriptor,5
+further areas,descriptor,5
+orderly layout,descriptor,5
+novel elements,descriptor,5
+further,descriptor,5
+sparse activity,descriptor,5
+profound escape,descriptor,5
+architectural,descriptor,5
+colorful,descriptor,5
+surrounding greenery,object,5
+common nuisances,descriptor,5
+functional buildings,object,5
+paved pathway,object,5
+well-ordered,descriptor,5
+integration,descriptor,5
+paved walkway,object,5
+somewhat uniform,descriptor,5
+street intersection,object,5
+complete departure,descriptor,5
+strong presence,descriptor,5
+visual richness,descriptor,5
+populated,descriptor,5
+bridges,object,5
+strong element,descriptor,5
+visual stimuli,descriptor,5
+buffer,descriptor,5
+visual escape,descriptor,5
+park-like area,object,5
+boring,descriptor,5
+building designs,object,5
+plaza,object,5
+highly engaging,descriptor,5
+large windows,object,5
+bus stop,object,5
+structured appearance,descriptor,5
+overall fascination,descriptor,5
+visual appeal,descriptor,5
+strong sense of coherence,descriptor,5
+calming,descriptor,5
+campus setting,object,5
+visible expanse,descriptor,5
+situated,descriptor,5
+canopy,object,5
+capacity for exploration,descriptor,5
+captivating detail,descriptor,5
+visually pleasant,descriptor,5
+organized arrangement,descriptor,5
+captivating potential,descriptor,5
+sustained engagement,descriptor,5
+spatial layout,descriptor,5
+wide road,object,5
+sense of discovery,descriptor,5
+logically arranged,descriptor,5
+containment,descriptor,5
+contemplation,descriptor,5
+sustained fascination,descriptor,5
+tidy,descriptor,5
+urban layout,descriptor,5
+controlled environment,descriptor,5
+relative quietness,descriptor,5
+crosswalks,object,5
+relatively uniform,descriptor,5
+remote,descriptor,5
+daily activities,descriptor,5
+urban development,object,5
+periphery,descriptor,5
+maintenance,descriptor,5
+construction barriers,object,5
+navigable,descriptor,5
+deeply engaged,descriptor,5
+sense of depth,descriptor,5
+tranquil atmosphere,descriptor,5
+natural setting,object,5
+sense of breadth,descriptor,5
+natural refuge,descriptor,5
+sports facilities,object,5
+natural landscape,descriptor,5
+demanding environments,descriptor,5
+residential street,object,5
+transitional,descriptor,5
+manicured lawns,object,5
+design,descriptor,5
+logical manner,descriptor,5
+immediate boundaries,descriptor,5
+few boundaries,descriptor,5
+spontaneous,descriptor,5
+reasonable degree of coherence,descriptor,5
+conducive,descriptor,5
+sense of wonder,descriptor,5
+wilderness,descriptor,5
+perspective,descriptor,5
+urban planning,object,5
+urbanized,descriptor,5
+logical flow,descriptor,5
+intentionally arranged,descriptor,5
+usual,descriptor,5
+physical layout,descriptor,5
+complex details,descriptor,5
+textures,descriptor,5
+abundant greenery,descriptor,5
+connection,descriptor,5
+aesthetic appeal,descriptor,5
+edges,object,4
+easy comprehension,descriptor,4
+stream,object,4
+immediate concerns,descriptor,4
+lack of distinct features,descriptor,4
+scattered leaves,object,4
+easily discernible,descriptor,4
+intrigue,descriptor,4
+static,descriptor,4
+lack,descriptor,4
+edges,descriptor,4
+scaffolding,object,4
+stadium structure,object,4
+institutional setting,object,4
+industrial setting,object,4
+standard,descriptor,4
+interconnected,descriptor,4
+intentionally placed,descriptor,4
+industrial-looking buildings,object,4
+street infrastructure,object,4
+interesting details,descriptor,4
+street markings,object,4
+easy-to-understand,descriptor,4
+lack of dynamic elements,descriptor,4
+institutional architecture,object,4
+ease of navigation,descriptor,4
+immersive,descriptor,4
+laid out,descriptor,4
+immediate limitations,descriptor,4
+individuals,object,4
+grand,descriptor,4
+human activity,descriptor,4
+surprising,descriptor,4
+limited view,descriptor,4
+limited visible activity,descriptor,4
+functional areas,object,4
+functional area,descriptor,4
+limited visual novelty,descriptor,4
+sustained,descriptor,4
+enough,descriptor,4
+tree-lined pathways,object,4
+serene atmosphere,descriptor,4
+symmetrical placement,descriptor,4
+framing,descriptor,4
+foreground,descriptor,4
+sense of separation,descriptor,4
+sense of progression,descriptor,4
+lived-in,descriptor,4
+location,object,4
+few,descriptor,4
+logical layout,descriptor,4
+fenced areas,object,4
+feeling of refuge,descriptor,4
+low,descriptor,4
+extent of exploration,descriptor,4
+lush greenery,descriptor,4
+sense of enclosure,descriptor,4
+sense of direction,descriptor,4
+expansive freedom,descriptor,4
+tranquility,descriptor,4
+engaging features,descriptor,4
+trimmed,descriptor,4
+large area,descriptor,4
+surprise,descriptor,4
+strong fascination,descriptor,4
+strong focal point,descriptor,4
+highly fascinating,descriptor,4
+largely defined,descriptor,4
+mildly captivating,descriptor,4
+high degree of order,descriptor,4
+high degree of coherence,descriptor,4
+skies,object,4
+strongly capture,descriptor,4
+strongly draw attention,descriptor,4
+endless exploration,descriptor,4
+structured arrangement,descriptor,4
+grassy spaces,object,4
+true escape,descriptor,4
+evident,descriptor,4
+substantial,descriptor,4
+getaway,descriptor,4
+gentle exploration,descriptor,4
+gentle engagement,descriptor,4
+subtle variations,descriptor,4
+generic,descriptor,4
+subtly limit,descriptor,4
+engaging details,descriptor,4
+limited exploration,descriptor,4
+general,descriptor,4
+limited fascination,descriptor,4
+functionality,descriptor,4
+surrounding greenery,descriptor,4
+natural areas,object,4
+present,descriptor,4
+ongoing construction,descriptor,4
+peaceful atmosphere,descriptor,4
+neatly laid out,descriptor,4
+open expanse,descriptor,4
+open areas,descriptor,4
+wide-angle,descriptor,4
+paving patterns,object,4
+bins,object,4
+areas for movement,descriptor,4
+decorative,descriptor,4
+developing,descriptor,4
+areas of greenery,object,4
+uniform nature,descriptor,4
+detracts,descriptor,4
+not overly stimulating,descriptor,4
+neatly lined,descriptor,4
+visual organization,descriptor,4
+river,object,4
+urban design,descriptor,4
+comprehensible,descriptor,4
+visual orderliness,descriptor,4
+wider,descriptor,4
+vast exploration possibilities,descriptor,4
+power lines,object,4
+concrete,object,4
+width,descriptor,4
+architectural styles,descriptor,4
+brief respite,descriptor,4
+physical order,descriptor,4
+neighborhood,object,4
+concrete structures,object,4
+unexplored directions,descriptor,4
+ample room,descriptor,4
+occupied,descriptor,4
+unexpected discoveries,descriptor,4
+not perfectly seamless,descriptor,4
+public,descriptor,4
+well-integrated,descriptor,4
+dense foliage,object,4
+unique natural features,descriptor,4
+demands of daily life,descriptor,4
+progression,descriptor,4
+unobstructed,descriptor,4
+parking bays,object,4
+not remote,descriptor,4
+varied elements,descriptor,4
+park-like,descriptor,4
+unlimited,descriptor,4
+patterned,descriptor,4
+park-like areas,object,4
+park area,object,4
+parked car,object,4
+unique details,descriptor,4
+panoramic view,object,4
+preventing boredom,descriptor,4
+utilitarian structures,object,4
+repetitive architectural style,descriptor,4
+designated parking areas,object,4
+utilitarian nature,descriptor,4
+appealing,descriptor,4
+defined edges,descriptor,4
+clearly delineated,descriptor,4
+unusual elements,descriptor,4
+uniformly spaced,descriptor,4
+defined area,descriptor,4
+urban backdrop,object,4
+parked scooters,object,4
+broad scope,descriptor,4
+neatness,descriptor,4
+room for movement,descriptor,4
+urban green space,object,4
+visual coherence,descriptor,4
+organizational,descriptor,4
+underlying structure,descriptor,4
+capture,descriptor,4
+distinct elements,descriptor,4
+undergrowth,object,4
+urban space,object,4
+reasonable sense of scope,descriptor,4
+consistent spacing,descriptor,4
+building styles,object,4
+campus-like setting,object,4
+urban noise,descriptor,4
+visually stimulating,descriptor,4
+organized design,descriptor,4
+regularly spaced,descriptor,4
+capacity for movement,descriptor,4
+perceived freedom,descriptor,4
+unbounded possibilities,descriptor,4
+captivated,descriptor,4
+built structures,object,4
+regularity,descriptor,4
+partial escape,descriptor,4
+moderate degree of order,descriptor,4
+chaos,descriptor,4
+consistent arrangement,descriptor,4
+academic,descriptor,4
+wall,object,4
+balconies,object,4
+planning,descriptor,4
+connectivity,descriptor,4
+disruption,descriptor,4
+yellow lines,object,4
+pedestrian crossings,object,4
+urban streetscape,descriptor,4
+orderly placement,descriptor,4
+cones,object,4
+outdoor space,object,4
+textures,object,3
+visually captivating,descriptor,3
+lack of unique elements,descriptor,3
+thoroughfare,descriptor,3
+symmetrical arrangement,descriptor,3
+recreational facilities,object,3
+property,object,3
+not entirely removed,descriptor,3
+compelling details,descriptor,3
+landmarks,object,3
+not particularly stimulating,descriptor,3
+not particularly captivating,descriptor,3
+partially obscured,descriptor,3
+lack of variety,descriptor,3
+partially visible,descriptor,3
+reasonably organized,descriptor,3
+not confined,descriptor,3
+not particularly fascinating,descriptor,3
+lack of unique features,descriptor,3
+consistent planting,descriptor,3
+visually monotonous,descriptor,3
+few visual cues,descriptor,3
+temporary barriers,object,3
+comprehend,descriptor,3
+comprehension,descriptor,3
+usual environment,descriptor,3
+focal point,descriptor,3
+lamp posts,object,3
+forward movement,descriptor,3
+usual concerns,descriptor,3
+public space,object,3
+bicycle parking,object,3
+not feeling overly confined,descriptor,3
+tall buildings,object,3
+reasonable amount of space,descriptor,3
+railings,object,3
+tasks,descriptor,3
+flanking,descriptor,3
+free exploration,descriptor,3
+not exceptionally engaging,descriptor,3
+bikes,object,3
+partial refuge,descriptor,3
+purposeful,descriptor,3
+sense of scope,descriptor,3
+complex,object,3
+planted trees,object,3
+not overly restrictive,descriptor,3
+reasonable sense of space,descriptor,3
+fields,object,3
+somewhat contained,descriptor,3
+parking spots,object,3
+lacks captivating elements,descriptor,3
+not overwhelmingly captivating,descriptor,3
+temporary reprieve,descriptor,3
+landscape,descriptor,3
+common distractions,descriptor,3
+park-like setting,object,3
+green expanses,object,3
+captivating novelty,descriptor,3
+green elements,object,3
+overall scale,descriptor,3
+overall sense of order,descriptor,3
+captivating qualities,descriptor,3
+structure,object,3
+cell tower,object,3
+structured design,descriptor,3
+building edges,object,3
+less manicured,descriptor,3
+building design,object,3
+highly organized,descriptor,3
+large buildings,object,3
+grassy area,object,3
+visual engagement,descriptor,3
+potential points of interest,descriptor,3
+large building,object,3
+visual extent,descriptor,3
+less stimulating,descriptor,3
+graffiti,object,3
+strong elements,descriptor,3
+overall organization,descriptor,3
+built environments,descriptor,3
+broad possibilities,descriptor,3
+less cohesive,descriptor,3
+campus buildings,object,3
+strong sense of fascination,descriptor,3
+potential discovery,descriptor,3
+outdoor,descriptor,3
+harmoniously arranged,descriptor,3
+slight,descriptor,3
+calm environment,descriptor,3
+campus environment,object,3
+campus setting,descriptor,3
+busy urban environment,descriptor,3
+visible elements,descriptor,3
+potential for discovery,descriptor,3
+haphazard,descriptor,3
+strong sense of vastness,descriptor,3
+visual barriers,descriptor,3
+leisurely,descriptor,3
+ground,object,3
+organized manner,descriptor,3
+less captivating,descriptor,3
+captivate,descriptor,3
+high scope,descriptor,3
+good sense of scope,descriptor,3
+light activity,descriptor,3
+boundless movement,descriptor,3
+sufficient,descriptor,3
+sufficient space,descriptor,3
+obvious boundaries,descriptor,3
+limited human activity,descriptor,3
+limited natural elements,descriptor,3
+limited novelty,descriptor,3
+limited possibilities,descriptor,3
+construction crane,object,3
+limited potential,descriptor,3
+panorama,object,3
+pressures,descriptor,3
+clutter,descriptor,3
+pleasant environment,descriptor,3
+pleasant blend,descriptor,3
+profound refuge,descriptor,3
+limited sense of scope,descriptor,3
+prolonged attention,descriptor,3
+surrounding buildings,object,3
+commercial building,object,3
+surrounding environment,descriptor,3
+not strongly evoke,descriptor,3
+prolonged engagement,descriptor,3
+shops,object,3
+suburban street,object,3
+light traffic,descriptor,3
+predominantly,descriptor,3
+overall view,descriptor,3
+vehicular paths,object,3
+vegetated areas,object,3
+overgrown,descriptor,3
+operational,descriptor,3
+break from urban bustle,descriptor,3
+vast open spaces,descriptor,3
+clear lines of sight,descriptor,3
+clear one's mind,descriptor,3
+clear pathways,descriptor,3
+open paths,object,3
+open nature,descriptor,3
+overwhelmingly captivating,descriptor,3
+open exploration,descriptor,3
+subtly,descriptor,3
+limited elements,descriptor,3
+suburban area,object,3
+general organization,descriptor,3
+suburban feel,descriptor,3
+visual perspective,descriptor,3
+stretching into the distance,descriptor,3
+not boundless,descriptor,3
+thoughtfully designed,descriptor,3
+construction equipment,object,3
+muted,descriptor,3
+restrictive,descriptor,3
+ample greenery,descriptor,3
+uniform design,descriptor,3
+multi-story buildings,object,3
+uniform architecture,descriptor,3
+moving about freely,descriptor,3
+secluded retreat,descriptor,3
+moving about,descriptor,3
+mental retreat,descriptor,3
+unified organization,descriptor,3
+intended places,descriptor,3
+mentally detach,descriptor,3
+unhindered,descriptor,3
+specific directions,descriptor,3
+direction,descriptor,3
+seamlessly integrated,descriptor,3
+unfinished buildings,object,3
+peaceful retreat,descriptor,3
+discernible flow,descriptor,3
+road layouts,object,3
+disconnection,descriptor,3
+restricting,descriptor,3
+restorative potential,descriptor,3
+disorder,descriptor,3
+everyday pressures,descriptor,3
+architectural details,object,3
+university campus,object,3
+natural flow,descriptor,3
+institutional setting,descriptor,3
+manicured hedges,object,3
+stone railings,object,3
+architectural design,object,3
+residential structures,object,3
+appropriate,descriptor,3
+depth of fascination,descriptor,3
+marked roads,object,3
+natural contrast,descriptor,3
+natural boundaries,descriptor,3
+uniformly structured,descriptor,3
+security personnel,object,3
+balanced,descriptor,3
+well-managed,descriptor,3
+everyday space,descriptor,3
+narrow,descriptor,3
+everyday routines,descriptor,3
+mental clutter,descriptor,3
+unexpected elements,descriptor,3
+mild,descriptor,3
+natural landscape,object,3
+easy understanding,descriptor,3
+unbounded space,descriptor,3
+perceived extent,descriptor,3
+easy to grasp,descriptor,3
+diverse natural elements,descriptor,3
+perceived freedom of movement,descriptor,3
+minimal visible activity,descriptor,3
+diverse stimuli,descriptor,3
+minor,descriptor,3
+perceived opportunity,descriptor,3
+dominant presence,descriptor,3
+interspersed,descriptor,3
+typical distractions,descriptor,3
+routine worries,descriptor,3
+perceived vastness,descriptor,3
+typical urban distractions,descriptor,3
+absence of bustling activity,descriptor,3
+sports facility,object,3
+intricate detail,descriptor,3
+dynamic features,descriptor,3
+dynamic natural features,descriptor,3
+typical urban,descriptor,3
+absence of overwhelming activity,descriptor,3
+moderate sense of openness,descriptor,3
+pedestrian activity,object,3
+distracting,descriptor,3
+physical coherence,descriptor,3
+modern apartment buildings,object,3
+engaged,descriptor,3
+disrupts,descriptor,3
+distance,object,3
+endless possibilities,descriptor,3
+moderating,descriptor,3
+distant hills,object,3
+pedestrian walkways,object,3
+mild visual interest,descriptor,3
+distant view,descriptor,3
+moderately high,descriptor,3
+absence of visible crowds,descriptor,3
+truly wild,descriptor,3
+moderately easy,descriptor,3
+absence of vehicles,descriptor,3
+spontaneous discovery,descriptor,3
+sports area,object,3
+absence of urban chaos,descriptor,3
+distinctive,descriptor,3
+intuitive,descriptor,3
+residential blocks,object,3
+place,descriptor,3
+curving paths,object,3
+traffic barriers,object,3
+planned development,object,3
+lack of novelty,descriptor,3
+tower,object,3
+atmosphere,descriptor,3
+path,descriptor,3
+lack of natural elements,descriptor,3
+facade,object,3
+architectural elements,descriptor,3
+curving road,object,3
+neatly landscaped,descriptor,3
+placed,descriptor,3
+extensive possibilities,descriptor,3
+lush foliage,descriptor,3
+traffic control elements,object,3
+daily hassles,descriptor,3
+lush foliage,object,3
+daily life's demands,descriptor,3
+sense of engagement,descriptor,3
+low level of activity,descriptor,3
+avenue,object,3
+crane,object,3
+relatively empty,descriptor,3
+logical placement,descriptor,3
+logical structure,descriptor,3
+industrial area,object,3
+sense of possibility,descriptor,3
+feeling of exploration,descriptor,3
+urban park,object,3
+feeling of detachment,descriptor,3
+not a true refuge,descriptor,3
+avenues,object,3
+continuity,descriptor,3
+urban landscape,descriptor,3
+urban intensity,descriptor,3
+sense of movement,descriptor,3
+industrial elements,object,3
+low fascination score,descriptor,3
+low human activity,descriptor,3
+fascinating details,descriptor,3
+urban demands,descriptor,3
+high coherence score,descriptor,3
+decent sense of 'being away',descriptor,3
+natural surroundings,descriptor,3
+natural seclusion,descriptor,3
+repetitive patterns,descriptor,3
+expected,descriptor,3
+expansive scope,descriptor,3
+architectural variety,object,3
+archway,object,3
+lack of diversity,descriptor,3
+expansive open areas,descriptor,3
+defined paths,object,3
+expansive vistas,descriptor,3
+natural surroundings,object,3
+defined pathways,descriptor,3
+unrestricted movement,descriptor,3
+lack of diverse natural elements,descriptor,3
+areas for exploration,descriptor,3
+navigate mentally,descriptor,3
+weeping willow trees,object,3
+reprieve,descriptor,3
+urban chaos,descriptor,3
+natural patterns,descriptor,3
+decent sense of scope,descriptor,3
+urban campus,object,3
+space for movement,descriptor,2
+perceived coherence,descriptor,2
+overall novelty,descriptor,2
+passive attention,descriptor,2
+overall order,descriptor,2
+spatial freedom,descriptor,2
+pleasant aesthetic,descriptor,2
+perfectly organized,descriptor,2
+spatial extent,descriptor,2
+partly cloudy,descriptor,2
+partial respite,descriptor,2
+slightly detract,descriptor,2
+large institutional building,object,2
+pause,descriptor,2
+lack of surprise,descriptor,2
+intrusive,descriptor,2
+lack of unique natural elements,descriptor,2
+overall atmosphere,descriptor,2
+overall captivating quality,descriptor,2
+soft,descriptor,2
+perceived openness,descriptor,2
+intriguing details,descriptor,2
+overall lack,descriptor,2
+lawn areas,object,2
+space for exploration,descriptor,2
+lack of diverse elements,descriptor,2
+overall design,descriptor,2
+somewhat engaging,descriptor,2
+lack of organization,descriptor,2
+planted,descriptor,2
+perfectly ordered,descriptor,2
+passive observation,descriptor,2
+panoramic view,descriptor,2
+lack of complexity,descriptor,2
+positioned,descriptor,2
+planned design,descriptor,2
+speed bumps,object,2
+pathway,descriptor,2
+isolated,descriptor,2
+lack of elements,descriptor,2
+paved sidewalks,object,2
+peaceful refuge,descriptor,2
+lane markers,object,2
+specific destinations,descriptor,2
+overly stimulating,descriptor,2
+parking lot markings,object,2
+kiosk,object,2
+landscaping elements,object,2
+peaceful environment,descriptor,2
+specific area,descriptor,2
+pleasantness,descriptor,2
+landscaped sections,object,2
+pavements,object,2
+overwhelmingly boring,descriptor,2
+landscaped median,object,2
+path forward,descriptor,2
+overall width,descriptor,2
+overall vista,descriptor,2
+intuitively grasp,descriptor,2
+split road,object,2
+landscaped medians,object,2
+lack of boundaries,descriptor,2
+somewhat,descriptor,2
+some movement,descriptor,2
+intuitively organized,descriptor,2
+lack of natural seclusion,descriptor,2
+panorama,descriptor,2
+some,descriptor,2
+planting,object,2
+lack of natural features,descriptor,2
+parkland,object,2
+lack of intricate details,descriptor,2
+populated area,descriptor,2
+pedestrian activity,descriptor,2
+softened,descriptor,2
+lack of fascination,descriptor,2
+pedestrian,object,2
+path for exploration,descriptor,2
+landmark,object,2
+park areas,object,2
+rubble,object,2
+posters,object,2
+restrictions,descriptor,2
+repetitive architectural design,descriptor,2
+natural vistas,descriptor,2
+repetitive architecture,descriptor,2
+repetitive pattern,descriptor,2
+sense of confinement,descriptor,2
+sense of boundless exploration,descriptor,2
+natural retreat,descriptor,2
+natural order,descriptor,2
+natural landscaping,object,2
+manicured grass,object,2
+natural immersion,descriptor,2
+manicured green spaces,object,2
+manicured lawn,object,2
+natural environment,object,2
+sense,descriptor,2
+semi-rural,descriptor,2
+natural details,descriptor,2
+marked,descriptor,2
+marked parking spaces,object,2
+intricate natural elements,descriptor,2
+natural appeal,descriptor,2
+security cameras,object,2
+security booths,object,2
+repeated architectural style,descriptor,2
+navigate visually,descriptor,2
+maintaining,descriptor,2
+low score for fascination,descriptor,2
+not being overly confined,descriptor,2
+not arranged,descriptor,2
+not a strong refuge,descriptor,2
+not a place to escape,descriptor,2
+regular pattern,descriptor,2
+not a complete detachment,descriptor,2
+relatively clear,descriptor,2
+sense of forward movement,descriptor,2
+new perspectives,descriptor,2
+new areas,descriptor,2
+low traffic,descriptor,2
+neatly aligned,descriptor,2
+sense of fascination,descriptor,2
+relax,descriptor,2
+lower,descriptor,2
+lower fascination score,descriptor,2
+relaxing,descriptor,2
+lower score for scope,descriptor,2
+sense of expanse,descriptor,2
+neglect,descriptor,2
+neatly kept,descriptor,2
+removal,descriptor,2
+mental demands,descriptor,2
+multitude,descriptor,2
+not boring,descriptor,2
+multiple exploration directions,descriptor,2
+moderately good,descriptor,2
+minimal distractions,descriptor,2
+moderately difficult,descriptor,2
+scene,descriptor,2
+rolling,descriptor,2
+moderately captivating,descriptor,2
+scattered placement,descriptor,2
+moderate to high,descriptor,2
+moderate size,descriptor,2
+room to wander,descriptor,2
+moderate sense of 'being away',descriptor,2
+moderate score for scope,descriptor,2
+moderate refuge,descriptor,2
+route,object,2
+moderate level of order,descriptor,2
+minimal visible human activity,descriptor,2
+routine demands,descriptor,2
+moderate escape,descriptor,2
+moderate coherence score,descriptor,2
+minor disarray,descriptor,2
+routines,descriptor,2
+mixture,descriptor,2
+rows,descriptor,2
+scene,object,2
+roadside,object,2
+moderately organized,descriptor,2
+seating,object,2
+rich complexity,descriptor,2
+mental distractions,descriptor,2
+rich details,descriptor,2
+move freely,descriptor,2
+mental tasks,descriptor,2
+seating areas,object,2
+momentarily step away,descriptor,2
+road boundaries,object,2
+mentally disengage,descriptor,2
+road divisions,object,2
+momentarily detach,descriptor,2
+mild sense of being away,descriptor,2
+momentarily,descriptor,2
+modest,descriptor,2
+modern structures,object,2
+seamless integration,descriptor,2
+seamless coherence,descriptor,2
+road lines,object,2
+modern architecture,descriptor,2
+modern architectural style,descriptor,2
+mild respite,descriptor,2
+moderates,descriptor,2
+logically,descriptor,2
+logical progression,descriptor,2
+outdoors,descriptor,2
+shipping containers,object,2
+less perfectly organized,descriptor,2
+potential refuge,descriptor,2
+significant opportunities,descriptor,2
+level of order,descriptor,2
+light,object,2
+significant boundaries,descriptor,2
+potential scope,descriptor,2
+limit movement,descriptor,2
+opportunity for movement,descriptor,2
+opportunity,descriptor,2
+open-endedness,descriptor,2
+limited activity,descriptor,2
+sightlines,object,2
+open roads,object,2
+open possibilities,descriptor,2
+limited distinct features,descriptor,2
+sides,descriptor,2
+open path,object,2
+predictable environment,descriptor,2
+open grassy areas,object,2
+limited dynamic elements,descriptor,2
+onward progression,descriptor,2
+office buildings,object,2
+ordered environment,descriptor,2
+less organized,descriptor,2
+orderly appearance,descriptor,2
+organized environment,descriptor,2
+leading,descriptor,2
+potential fascination,descriptor,2
+potential for boredom,descriptor,2
+leafy,descriptor,2
+sitting areas,object,2
+potential for escape,descriptor,2
+leisure,descriptor,2
+length,descriptor,2
+less chaotic,descriptor,2
+less coherent,descriptor,2
+potential for mental escape,descriptor,2
+orderly design,descriptor,2
+less engaging experience,descriptor,2
+less expansive,descriptor,2
+less freedom,descriptor,2
+less immediately understandable,descriptor,2
+less integrated,descriptor,2
+less likely to be boring,descriptor,2
+organized appearance,descriptor,2
+organically grown,descriptor,2
+potential for venturing,descriptor,2
+orderly environment,descriptor,2
+predictable structure,descriptor,2
+numerous pathways,descriptor,2
+logical pattern,descriptor,2
+limited sense of 'being away',descriptor,2
+linear perspective,descriptor,2
+not fully revealed,descriptor,2
+linear structure,descriptor,2
+not extensive possibilities,descriptor,2
+reasonable extent,descriptor,2
+not exceptionally high,descriptor,2
+lined up,descriptor,2
+not exceptionally captivating,descriptor,2
+reasonable sense of openness,descriptor,2
+sense of scale,descriptor,2
+sense of refuge,descriptor,2
+sense of purpose,descriptor,2
+not entirely restrictive,descriptor,2
+sense of potential exploration,descriptor,2
+not entirely boring,descriptor,2
+not endless,descriptor,2
+reasonably large,descriptor,2
+recedes,descriptor,2
+recreational area,object,2
+not conducive,descriptor,2
+recreational space,object,2
+not chaotic,descriptor,2
+not bustling,descriptor,2
+not inherently captivating,descriptor,2
+not intensely captivating,descriptor,2
+sensory,descriptor,2
+set back,descriptor,2
+primary direction,descriptor,2
+profound detachment,descriptor,2
+profound mental detachment,descriptor,2
+limited sense of being away,descriptor,2
+limited sense of escape,descriptor,2
+limited visibility,descriptor,2
+not strongly captivating,descriptor,2
+sameness,descriptor,2
+limited visual depth,descriptor,2
+prominent points of interest,descriptor,2
+not restorative,descriptor,2
+not limitless,descriptor,2
+property lines,object,2
+not particularly engaging,descriptor,2
+not overwhelmingly stimulating,descriptor,2
+serene pond,object,2
+not overwhelmingly fascinating,descriptor,2
+not overtly captivating,descriptor,2
+not overly complex,descriptor,2
+not natural,descriptor,2
+not monotonous,descriptor,2
+separated,descriptor,2
+zones,object,2
+strongly engaging,descriptor,2
+into the distance,descriptor,2
+sports fields,object,2
+unexpected details,descriptor,2
+visible distances,descriptor,2
+disharmony,descriptor,2
+visible environment,descriptor,2
+fit,descriptor,2
+visible infrastructure,descriptor,2
+campus grounds,object,2
+discernible layout,descriptor,2
+temporary detachment,descriptor,2
+follows a pattern,descriptor,2
+foreground,object,2
+foreground elements,object,2
+unexplored territory,descriptor,2
+complete retreat,descriptor,2
+utilitarian buildings,object,2
+usual urban hustle,descriptor,2
+forms,descriptor,2
+visible progression,descriptor,2
+visible signs,descriptor,2
+directional,descriptor,2
+free,descriptor,2
+systematic arrangement,descriptor,2
+unfinished structures,object,2
+diminished,descriptor,2
+components,object,2
+disorganization,descriptor,2
+disrepair,descriptor,2
+few limitations,descriptor,2
+captivation,descriptor,2
+verdant,descriptor,2
+certain directions,descriptor,2
+central path,object,2
+vibrancy,descriptor,2
+distant structure,object,2
+complete disconnect,descriptor,2
+feeling,descriptor,2
+view,object,2
+car roof,object,2
+complete mental detachment,descriptor,2
+captures attention,descriptor,2
+feeling of freedom,descriptor,2
+unevenness,descriptor,2
+complete mental escape,descriptor,2
+thoughtfully arranged,descriptor,2
+visible area,object,2
+unengaging,descriptor,2
+captivating features,descriptor,2
+thoroughfares,object,2
+disruptive,descriptor,2
+captivating complexity,descriptor,2
+disrupted,descriptor,2
+few directions,descriptor,2
+captivating appeal,descriptor,2
+freedom to wander,descriptor,2
+busy urban core,descriptor,2
+unhindered movement,descriptor,2
+uniform landscape,descriptor,2
+glass facades,object,2
+break from urban intensity,descriptor,2
+different components,descriptor,2
+good,descriptor,2
+study,descriptor,2
+uniform in design,descriptor,2
+different areas,descriptor,2
+connection to daily life,descriptor,2
+good level of coherence,descriptor,2
+considerable area,descriptor,2
+break from routine,descriptor,2
+good scope,descriptor,2
+uniform architectural style,descriptor,2
+good sense of being away,descriptor,2
+uniform landscaping,descriptor,2
+development,object,2
+urban structures,descriptor,2
+branching roads,object,2
+developed setting,descriptor,2
+grand scale,descriptor,2
+consistent aesthetic,descriptor,2
+consistent architectural styles,descriptor,2
+uniformly manicured,descriptor,2
+grassy,descriptor,2
+confines,descriptor,2
+visual intrigue,descriptor,2
+busy life,descriptor,2
+functional urban design,descriptor,2
+difficult to escape,descriptor,2
+functional design,descriptor,2
+bustling activity,descriptor,2
+businesses,object,2
+usual distractions,descriptor,2
+functional nature,descriptor,2
+functional order,descriptor,2
+surrounding areas,object,2
+visual clutter,descriptor,2
+visual composition,descriptor,2
+functional uniformity,descriptor,2
+built environments,object,2
+general uniformity,descriptor,2
+further areas to discover,descriptor,2
+visual continuity,descriptor,2
+further exploration possibilities,descriptor,2
+building perimeters,object,2
+building lines,object,2
+building fronts,object,2
+building facade,object,2
+suggesting movement,descriptor,2
+gate,object,2
+broader environment,descriptor,2
+unified order,descriptor,2
+distant views,descriptor,2
+utility poles,object,2
+fascination potential,descriptor,2
+tree-lined avenue,object,2
+treelined,descriptor,2
+umbrella,object,2
+clear visibility,descriptor,2
+clear view,descriptor,2
+enhanced,descriptor,2
+enough elements,descriptor,2
+domed building,object,2
+entry point,object,2
+doesn't convey vastness,descriptor,2
+commercial,descriptor,2
+environments,object,2
+clear skies,object,2
+engaging activities,descriptor,2
+clear skies,descriptor,2
+tree-lined areas,object,2
+tree-lined area,object,2
+diverse pathways,descriptor,2
+varying foliage colors,descriptor,2
+clear sense of organization,descriptor,2
+varied greenery,descriptor,2
+everyday environment,descriptor,2
+diverse elements,descriptor,2
+diverse directions,descriptor,2
+tree,object,2
+trimmed hedges,object,2
+dominates,descriptor,2
+traversed,descriptor,2
+elements,descriptor,2
+coherent environment,descriptor,2
+coherent design,descriptor,2
+coherence score,descriptor,2
+easily comprehensible,descriptor,2
+dynamic engagement,descriptor,2
+easy,descriptor,2
+easy comprehensibility,descriptor,2
+typical daily pressures,descriptor,2
+cluttered,descriptor,2
+varied stimuli,descriptor,2
+dynamic activity,descriptor,2
+elements of interest,descriptor,2
+dominating,descriptor,2
+elements to observe,descriptor,2
+empty road,object,2
+varied natural elements,descriptor,2
+truly removed,descriptor,2
+clearly organized,descriptor,2
+clearly marked,descriptor,2
+draws the eye,descriptor,2
+clearly laid out,descriptor,2
+draw and hold attention,descriptor,2
+encourages exploration,descriptor,2
+engage,descriptor,2
+clear road,object,2
+clear progression,descriptor,2
+far,descriptor,2
+compelling,descriptor,2
+clear contrast,descriptor,2
+variations,descriptor,2
+traffic signals,object,2
+traffic markings,object,2
+extended,descriptor,2
+traffic management,object,2
+traffic management,descriptor,2
+distinct natural features,descriptor,2
+traffic lanes,object,2
+clear architectural lines,descriptor,2
+clean environment,descriptor,2
+extensive exploration opportunities,descriptor,2
+exploration potential,descriptor,2
+distinct escape,descriptor,2
+traffic calming measures,object,2
+traditional pavilion,object,2
+distinct directions,descriptor,2
+facades,object,2
+facilitating,descriptor,2
+facilities,object,2
+facility,object,2
+touch of nature,descriptor,2
+total immersion,descriptor,2
+circular,descriptor,2
+exploratory,descriptor,2
+vast sense of openness,descriptor,2
+everything seems to have its place,descriptor,2
+distinctly unique,descriptor,2
+clear physical arrangement,descriptor,2
+unclear,descriptor,2
+traversable,descriptor,2
+exceptionally boring,descriptor,2
+vast area,descriptor,2
+clear indications,descriptor,2
+distraction,descriptor,2
+trash bins,object,2
+trash bin,object,2
+clear divisions,descriptor,2
+vast open areas,descriptor,2
+exercise equipment,object,2
+vast possibilities,descriptor,2
+expanse,object,2
+expanses,descriptor,2
+expansive areas,descriptor,2
+unconstrained,descriptor,2
+commonplace,descriptor,2
+vast open space,descriptor,2
+expansive natural setting,descriptor,2
+distinct points of interest,descriptor,2
+expansive possibility,descriptor,2
+clear departure,descriptor,2
+varied architectural styles,descriptor,2
+branching paths,object,2
+brick-paved sidewalks,object,2
+dynamism,descriptor,2
+integrate,descriptor,2
+institutional-looking buildings,object,2
+urban distractions,object,2
+areas to explore,descriptor,2
+institutional-looking,descriptor,2
+immediate confinement,descriptor,2
+defining boundaries,descriptor,2
+winding path,object,2
+urban pressures,descriptor,2
+willow trees,object,2
+daily tasks,descriptor,2
+construction vehicle,object,2
+immediate pressures,descriptor,2
+urban development,descriptor,2
+streetlamps,object,2
+academic buildings,object,2
+stonework,object,2
+stop thinking,descriptor,2
+academic pressures,descriptor,2
+street-level view,descriptor,2
+daily distractions,descriptor,2
+unlimited possibilities,descriptor,2
+decent amount of space,descriptor,2
+image,object,2
+constrain,descriptor,2
+backdrop,descriptor,2
+courtyard,object,2
+avoid boredom,descriptor,2
+highly unique,descriptor,2
+available,descriptor,2
+activity,object,2
+hints,descriptor,2
+attention-drawing,descriptor,2
+human activity,object,2
+stroll,descriptor,2
+stimuli,descriptor,2
+water channel,object,2
+striking features,descriptor,2
+asphalt road,object,2
+daily,descriptor,2
+arrangement of elements,descriptor,2
+degree of escape,descriptor,2
+identical,descriptor,2
+architectural features,object,2
+immersion,descriptor,2
+balance,descriptor,2
+deeply organized,descriptor,2
+deeply engage,descriptor,2
+impression,descriptor,2
+wide panorama,descriptor,2
+contained space,descriptor,2
+active urban environment,descriptor,2
+wide street,object,2
+deeper,descriptor,2
+infinite,descriptor,2
+in its place,descriptor,2
+activities,descriptor,2
+context,descriptor,2
+continue,descriptor,2
+street elements,object,2
+activities,object,2
+industrial-style buildings,object,2
+industrial-looking equipment,object,2
+industrial building,object,2
+street design,object,2
+deep exploration,descriptor,2
+straight lines,descriptor,2
+urban clutter,descriptor,2
+defined path,object,2
+continuous engagement,descriptor,2
+active area,descriptor,2
+architectural design,descriptor,2
+urban core,object,2
+apartments,object,2
+well-marked,descriptor,2
+apartment blocks,object,2
+impersonal,descriptor,2
+inherent order,descriptor,2
+well-organized environment,descriptor,2
+defined areas,descriptor,2
+ample opportunity,descriptor,2
+street network,object,2
+inherent,descriptor,2
+street lighting,object,2
+unvaried,descriptor,2
+ample opportunities,descriptor,2
+contained environment,descriptor,2
+imposing,descriptor,2
+inhabited area,descriptor,2
+deliberate planning,descriptor,2
+constrained view,descriptor,2
+urban bustle,object,2
+curved,descriptor,2
+consistent manner,descriptor,2
+strongly capture attention,descriptor,2
+absence of immediate distractions,descriptor,2
+harmonious integration,descriptor,2
+urban hustle,object,2
+strong sense of novelty,descriptor,2
+strongly convey,descriptor,2
+dense greenery,object,2
+intention,descriptor,2
+harmoniously,descriptor,2
+has its place,descriptor,2
+unique focal points,descriptor,2
+absence of noise,descriptor,2
+statue,object,2
+visual texture,descriptor,2
+wooded area,object,2
+young,descriptor,2
+urban green space,descriptor,2
+designed environment,descriptor,2
+absence of distractions,descriptor,2
+boundary,descriptor,2
+boundless freedom,descriptor,2
+designated areas,descriptor,2
+uninteresting,descriptor,2
+consistent presence,descriptor,2
+borders,object,2
+stairs,object,2
+absence of dynamic elements,descriptor,2
+bollards,object,2
+borders,descriptor,2
+work-in-progress,descriptor,2
+intentional planning,descriptor,2
+crowded,descriptor,2
+unique architectural details,descriptor,2
+strongly captivate,descriptor,2
+covered walkways,object,2
+strongly draw,descriptor,2
+visually complex,descriptor,2
+high fascination scores,descriptor,2
+basic,descriptor,2
+consistent maintenance,descriptor,2
+interesting features,descriptor,2
+cracked,descriptor,2
+stability,descriptor,2
+urban routines,descriptor,2
+destinations,object,2
+intense activity,descriptor,2
+unlikely to be bored,descriptor,2
+walk,object,2
+bamboo,object,2
+absence of boundaries,descriptor,2
+branches out,descriptor,2
+walker,object,2
+unlikely to be boring,descriptor,2
+intense,descriptor,2
+sprawling,descriptor,2
+walking,descriptor,2
+stepping away,descriptor,2
+boundary,object,2
+unity,descriptor,2
+bike lanes,object,2
+consistent upkeep,descriptor,2
+uniquely captivating,descriptor,2
+branch out,descriptor,2
+urban skyline,object,2
+belong,descriptor,2
+demands of everyday life,descriptor,2
+basketball court,object,2
+strong narrative,descriptor,2
+demanding routines,descriptor,2
+visually pleasing,descriptor,2
+intense engagement,descriptor,2
+intense urban activity,descriptor,2
+relatively contained,descriptor,1
+varied environments,descriptor,1
+varied paths,descriptor,1
+regular spacing,descriptor,1
+urban monotony,descriptor,1
+varied natural features,descriptor,1
+prominent human activity,descriptor,1
+regular placement,descriptor,1
+prominent natural features,descriptor,1
+relative freedom,descriptor,1
+prominent features,descriptor,1
+varied in greenness,descriptor,1
+urban influences,descriptor,1
+profoundly engaging,descriptor,1
+profound sense of detachment,descriptor,1
+relate,descriptor,1
+reinforcing,descriptor,1
+regulated space,descriptor,1
+profound sense of being away,descriptor,1
+varied ground textures,descriptor,1
+prolonged,descriptor,1
+varied heights,descriptor,1
+varied in design,descriptor,1
+profound feeling of being away,descriptor,1
+urban hustle and bustle,descriptor,1
+primary focus,descriptor,1
+urban intersection,object,1
+varied forms,descriptor,1
+varied in style,descriptor,1
+profoundly captivating,descriptor,1
+prominent building,object,1
+relatively calm,descriptor,1
+urban landscaping,descriptor,1
+varied experiences,descriptor,1
+private properties,object,1
+prominent display,descriptor,1
+prominent distractions,descriptor,1
+varied natural environment,descriptor,1
+varied foliage,descriptor,1
+reasonable level of order,descriptor,1
+regular layout,descriptor,1
+urban-related,descriptor,1
+quieter,descriptor,1
+urbanized setting,descriptor,1
+quiet streets,object,1
+urgent thoughts,descriptor,1
+quiet road,object,1
+reasonably engaging,descriptor,1
+reasonably expansive,descriptor,1
+quiet retreat,descriptor,1
+usual demands of attention,descriptor,1
+reasonably fascinating,descriptor,1
+usual mental burdens,descriptor,1
+reasonably open,descriptor,1
+urban settings,descriptor,1
+quiet ambiance,descriptor,1
+purposefully,descriptor,1
+usual routines,descriptor,1
+recreation,descriptor,1
+usual stressors,descriptor,1
+usual tasks,descriptor,1
+pure natural fascination,descriptor,1
+usual world,descriptor,1
+urban/industrial context,descriptor,1
+urban-natural,descriptor,1
+promotes understanding,descriptor,1
+urban space,descriptor,1
+urban street setting,descriptor,1
+reasonable level of coherence,descriptor,1
+reasonable refuge,descriptor,1
+urban street features,object,1
+reasonable escape,descriptor,1
+urban stressors,object,1
+urban surroundings,object,1
+reasonable sense of order,descriptor,1
+reasonable degree of exploration,descriptor,1
+urban street elements,object,1
+urban street context,descriptor,1
+reasonable degree,descriptor,1
+urban-adjacent,descriptor,1
+urban sprawl,descriptor,1
+reasonable coherence,descriptor,1
+reasonable space,descriptor,1
+reasonable amount,descriptor,1
+urban-industrial,descriptor,1
+primary,descriptor,1
+readily perceivable,descriptor,1
+urban-like layout,descriptor,1
+urban road structure,object,1
+urban road infrastructure,object,1
+pure natural appeal,descriptor,1
+urban road,object,1
+reducing 'being away' quality,descriptor,1
+reducing visual dynamism,descriptor,1
+psychological,descriptor,1
+vanishing point,descriptor,1
+variability,descriptor,1
+property boundaries,object,1
+variation,descriptor,1
+reflecting,descriptor,1
+urban nuisures,object,1
+reflections,descriptor,1
+reflections,object,1
+reflective,descriptor,1
+reflective glass,object,1
+properties,object,1
+varied architectural details,descriptor,1
+reflective windows,object,1
+refreshing break,descriptor,1
+urban nuisability,descriptor,1
+varied architecture,descriptor,1
+urban nuances,object,1
+varied design,descriptor,1
+reduces natural wonder,descriptor,1
+psychological detachment,descriptor,1
+urban street layout,object,1
+recycling bins,object,1
+utilitarian design,descriptor,1
+utilitarian environment,descriptor,1
+urban road,descriptor,1
+pure fascination,descriptor,1
+rectangular,descriptor,1
+public street,object,1
+urban residential street,object,1
+urban residential setting,object,1
+rectangular buildings,object,1
+urban planning logic,descriptor,1
+utility pipes,object,1
+urban perimeter,object,1
+utilitarian fencing,object,1
+urban park aesthetic,descriptor,1
+utilitarian paved areas,object,1
+utility,descriptor,1
+red car,object,1
+public amenity area,object,1
+utility area,object,1
+reddish,descriptor,1
+psychological restoration,descriptor,1
+vehicular areas,object,1
+primarily road-centric,descriptor,1
+visually repetitive,descriptor,1
+plausible refuge,descriptor,1
+plausible,descriptor,1
+visually clear,descriptor,1
+visually coherent,descriptor,1
+visually composed,descriptor,1
+visually distinct,descriptor,1
+plantings,object,1
+visually dynamic elements,descriptor,1
+visually expansive,descriptor,1
+planting patterns,object,1
+visually harmonious,descriptor,1
+visually ordered,descriptor,1
+visually peaceful,descriptor,1
+visually quiet,descriptor,1
+planted sections,object,1
+points of exploration,descriptor,1
+visually unengaging,descriptor,1
+plant in a pot,object,1
+planned urban setting,descriptor,1
+planned structure,descriptor,1
+walking path,object,1
+wander freely,descriptor,1
+wander through,descriptor,1
+planned community,descriptor,1
+planned arrangement,descriptor,1
+water features,descriptor,1
+placidity,descriptor,1
+water lilies,object,1
+water's edge,object,1
+waterfront area,object,1
+visually balanced,descriptor,1
+playful,descriptor,1
+playground,object,1
+visually,descriptor,1
+plentiful,descriptor,1
+pleasing,descriptor,1
+visual path,descriptor,1
+pleasant walk,descriptor,1
+pleasant visual flow,descriptor,1
+pleasant visual experience,descriptor,1
+pleasant visual,descriptor,1
+visual pathways,object,1
+pleasant variety,descriptor,1
+pleasant space,descriptor,1
+pleasant setting,descriptor,1
+pleasant season,descriptor,1
+pleasant respite,descriptor,1
+pleasant mix,descriptor,1
+pleasant greenery,descriptor,1
+visual points,descriptor,1
+visual points of interest,descriptor,1
+pleasant experience,descriptor,1
+visual predictability,descriptor,1
+visual presence,descriptor,1
+visual progression,descriptor,1
+pleasant design,descriptor,1
+visual regularity,descriptor,1
+visual respite,descriptor,1
+visual space,descriptor,1
+pleasant balance,descriptor,1
+visual structure,descriptor,1
+visual understanding,descriptor,1
+visual variation,descriptor,1
+waterways,object,1
+weak sense of 'being away',descriptor,1
+wear,descriptor,1
+wider area,descriptor,1
+wild natural setting,descriptor,1
+wild refuge,descriptor,1
+wilder,descriptor,1
+wilder areas,object,1
+wilder growth,descriptor,1
+wilder natural setting,descriptor,1
+physical,descriptor,1
+wildlife,object,1
+personal time,descriptor,1
+personal responsibilities,descriptor,1
+personal items,descriptor,1
+winding pathways,object,1
+winding roads,object,1
+window designs,object,1
+peripheral,descriptor,1
+perimeters,object,1
+window patterns,object,1
+without immediate boundaries,descriptor,1
+perfectly uniform,descriptor,1
+without limits,descriptor,1
+without strict boundaries,descriptor,1
+perfectly designed,descriptor,1
+wooden deck,object,1
+work,object,1
+perfect sense of organization,descriptor,1
+work site,object,1
+perfect sense,descriptor,1
+yellow bicycles,object,1
+young trees,object,1
+physical organization,descriptor,1
+physical structure,descriptor,1
+weeping willow,object,1
+physically removed,descriptor,1
+well organized,descriptor,1
+place to forget one's worries,descriptor,1
+well-defined edges,descriptor,1
+place of work,descriptor,1
+place of transit,descriptor,1
+well-defined order,descriptor,1
+well-designed,descriptor,1
+place,object,1
+well-maintained greenery,object,1
+well-maintained paths,object,1
+pillars,object,1
+well-organized layout,descriptor,1
+piles of materials,object,1
+well-paved,descriptor,1
+well-planned layout,descriptor,1
+well-spaced,descriptor,1
+white building,object,1
+piles of gravel,object,1
+wide array,descriptor,1
+piles of bricks,object,1
+wide open,descriptor,1
+wide range of directions,descriptor,1
+wide scope,descriptor,1
+wide-open,descriptor,1
+piled dirt,object,1
+pile of dirt,object,1
+pile of debris,object,1
+wide-ranging,descriptor,1
+piecemeal,descriptor,1
+points of curiosity,descriptor,1
+points of focus,descriptor,1
+primarily,descriptor,1
+potentially large area,descriptor,1
+varying lines,descriptor,1
+varying shades of green,descriptor,1
+varying sizes,descriptor,1
+varying states,descriptor,1
+varying tree density,descriptor,1
+varying tree heights,descriptor,1
+vast expanses,descriptor,1
+vast exploration,descriptor,1
+vast natural landscapes,descriptor,1
+predefined,descriptor,1
+practical layout,descriptor,1
+practical functionality,descriptor,1
+practical,descriptor,1
+potentially repetitive,descriptor,1
+potentially hold attention,descriptor,1
+visual openness,descriptor,1
+potentially campus-like,descriptor,1
+potentially busier,descriptor,1
+vast wilderness,descriptor,1
+vegetated area,object,1
+potentially,descriptor,1
+potential urban noise,descriptor,1
+vehicle paths,object,1
+potential routes,descriptor,1
+potential respite,descriptor,1
+relatively low,descriptor,1
+vehicular paths,descriptor,1
+vending machine,object,1
+venture further,descriptor,1
+venturing,descriptor,1
+varying levels of maintenance,descriptor,1
+varying levels,descriptor,1
+varying leaf colors,descriptor,1
+varying heights,descriptor,1
+preventing,descriptor,1
+varied pathways,descriptor,1
+varied points of interest,descriptor,1
+prevalence,descriptor,1
+varied spacing,descriptor,1
+varied styles,descriptor,1
+varied window designs,descriptor,1
+pressing tasks,descriptor,1
+pressing concerns,descriptor,1
+presentable,descriptor,1
+presence of nature,descriptor,1
+variety of architectural styles,descriptor,1
+variety of greenery,descriptor,1
+predominantly utilitarian,descriptor,1
+predominantly uniform,descriptor,1
+variety of greenery,object,1
+predominantly grey,descriptor,1
+predominantly defined,descriptor,1
+variety of shapes,descriptor,1
+variety of stimuli,descriptor,1
+variety of textures,descriptor,1
+various types,descriptor,1
+predictable pattern,descriptor,1
+predictable pathways,descriptor,1
+predictable organization,descriptor,1
+varying density,descriptor,1
+varying foliage,descriptor,1
+predictable manner,descriptor,1
+predictable layout,descriptor,1
+venturing freely,descriptor,1
+venturing further,descriptor,1
+verges,object,1
+visible side areas,descriptor,1
+possibility of moving,descriptor,1
+possibility of movement,descriptor,1
+visible signs of development,descriptor,1
+visible signs of everyday life,descriptor,1
+visible space,descriptor,1
+visible urban context,descriptor,1
+visible urban infrastructure,descriptor,1
+possibility of further exploration,descriptor,1
+visual barrier,descriptor,1
+possibility of discovering more,descriptor,1
+visual consistency,descriptor,1
+possibility for further exploration,descriptor,1
+visual cues of continuation,descriptor,1
+visual disarray,descriptor,1
+visual dominance,descriptor,1
+visual element,descriptor,1
+visual elements,object,1
+positive aspect,descriptor,1
+visual enclosure,descriptor,1
+visual field,object,1
+visual focus,descriptor,1
+visual fragmentation,descriptor,1
+visual impact,descriptor,1
+poles,object,1
+points of visual engagement,descriptor,1
+visual landscape,descriptor,1
+visual layout,descriptor,1
+visual lines,descriptor,1
+visual logic,descriptor,1
+possible,descriptor,1
+visible presence,descriptor,1
+potential pathways,descriptor,1
+visible pattern,descriptor,1
+potential movement,descriptor,1
+vibrant activity,descriptor,1
+potential journey,descriptor,1
+vibrant natural features,descriptor,1
+potential for unexpected discoveries,descriptor,1
+views,descriptor,1
+potential for traversing,descriptor,1
+potential for noise,descriptor,1
+potential for moving,descriptor,1
+visible activity,descriptor,1
+visible boundaries,object,1
+visible buildings,object,1
+potential for interest,descriptor,1
+potential for further discovery,descriptor,1
+visible construction,descriptor,1
+visible development,descriptor,1
+visible directions,descriptor,1
+visible disarray,descriptor,1
+potential for engagement,descriptor,1
+visible effort,descriptor,1
+visible frame,descriptor,1
+visible hierarchy,descriptor,1
+visible order,descriptor,1
+visible pathways,descriptor,1
+potential discoveries,descriptor,1
+potential directions,descriptor,1
+potential boundaries,descriptor,1
+potential areas,descriptor,1
+potential activities,descriptor,1
+relatively long,descriptor,1
+uniformly modern,descriptor,1
+relatively open,descriptor,1
+structured urban environment,descriptor,1
+subdued aesthetic,descriptor,1
+significant activity,descriptor,1
+significant amount,descriptor,1
+structures,descriptor,1
+significant barriers,descriptor,1
+structured urban features,descriptor,1
+significant crowds,descriptor,1
+subdued appeal,descriptor,1
+significant distractions,descriptor,1
+structured sports facility,object,1
+significant human activity,descriptor,1
+structured setting,descriptor,1
+structured planting,descriptor,1
+significant portion,descriptor,1
+subdued ambiance,descriptor,1
+subtle details,descriptor,1
+shapes,object,1
+sufficiently expansive,descriptor,1
+shared bicycles,object,1
+suggesting,descriptor,1
+sharp,descriptor,1
+sheltered space,object,1
+shift focus,descriptor,1
+sufficiently spacious,descriptor,1
+sufficient room for movement,descriptor,1
+subtle elements,descriptor,1
+suburban road network,object,1
+subtly limited,descriptor,1
+subtly define boundaries,descriptor,1
+subtle presence,descriptor,1
+subtle points of focus,descriptor,1
+sides of roads,object,1
+significant presence,descriptor,1
+significant refuge,descriptor,1
+significant traffic,descriptor,1
+strong visual intrigue,descriptor,1
+simple to navigate,descriptor,1
+simplicity,descriptor,1
+strongly,descriptor,1
+stronger sense of fascination,descriptor,1
+singular-purpose,descriptor,1
+site,object,1
+strong visual focal points,descriptor,1
+significant unboundedness,descriptor,1
+sitting,descriptor,1
+strong visual cues,descriptor,1
+strong structural elements,descriptor,1
+strong sensory engagement,descriptor,1
+strong sense of separation,descriptor,1
+strong sense of refuge,descriptor,1
+strongly captivate attention,descriptor,1
+strongly captivating,descriptor,1
+similar style,descriptor,1
+similar structures,descriptor,1
+perfect place,descriptor,1
+strongly invite,descriptor,1
+structural coherence,descriptor,1
+similar features,descriptor,1
+structural elements,descriptor,1
+similar elements,descriptor,1
+structured development,object,1
+structured greenery,object,1
+signs of ongoing work,object,1
+signs of leisure activities,descriptor,1
+structured nature,descriptor,1
+structured placement,descriptor,1
+significantly,descriptor,1
+suggests depth,descriptor,1
+shapes,descriptor,1
+size,descriptor,1
+temporary refuge,descriptor,1
+texture,descriptor,1
+textural,descriptor,1
+tent,object,1
+sense of potential scope,descriptor,1
+temporary traffic controls,object,1
+temporary respite,descriptor,1
+temporary mental break,descriptor,1
+thoroughfare area,object,1
+sense of remoteness,descriptor,1
+temporary fencing,object,1
+temporary distance,descriptor,1
+temporary disruption,descriptor,1
+temporary disorder,descriptor,1
+temporary disengagement,descriptor,1
+textured,descriptor,1
+sense of potential discovery,descriptor,1
+shadow,object,1
+sense of passage,descriptor,1
+sense of mystery,descriptor,1
+tied to daily activities,descriptor,1
+sense of orderliness,descriptor,1
+sense of ordinariness,descriptor,1
+tidy landscaping,object,1
+thoughts,descriptor,1
+sense of peace,descriptor,1
+sense of potential,descriptor,1
+thoughtfully spaced,descriptor,1
+sense of place,descriptor,1
+thoughtfully organized,descriptor,1
+thoughtful urban planning,descriptor,1
+thoughtful planning,descriptor,1
+thoughtful,descriptor,1
+temporary disconnect,descriptor,1
+sense of unbounded exploration,descriptor,1
+temporarily disconnect,descriptor,1
+several,descriptor,1
+surrounding urban elements,descriptor,1
+surrounding structures,object,1
+surrounding landscape,object,1
+setting,descriptor,1
+surrounding infrastructure,object,1
+surrounding area,descriptor,1
+surprising elements,descriptor,1
+task-oriented,descriptor,1
+surfaces,object,1
+several directions,descriptor,1
+severe boundaries,descriptor,1
+shade,object,1
+shaded,descriptor,1
+suggests planning,descriptor,1
+service area,descriptor,1
+suspension bridge,object,1
+serve their purpose,descriptor,1
+serene setting,descriptor,1
+symmetrical arrangements,descriptor,1
+symmetrical design,descriptor,1
+symmetrically arranged,descriptor,1
+symmetry,descriptor,1
+systematic manner,descriptor,1
+systematically,descriptor,1
+separates,descriptor,1
+systematically placed,descriptor,1
+systematically planted,descriptor,1
+tactile paths,object,1
+tall structure,object,1
+sensory cues,descriptor,1
+taller,descriptor,1
+situated logically,descriptor,1
+strong sense of mental departure,descriptor,1
+tiered seating,object,1
+space to move around,descriptor,1
+street boundaries,object,1
+space to clear their mind,descriptor,1
+strategically placed,descriptor,1
+straightforward layout,descriptor,1
+space to explore,descriptor,1
+space to move,descriptor,1
+space's arrangement,descriptor,1
+street features,object,1
+space's structure,descriptor,1
+spaced,descriptor,1
+spaced out,descriptor,1
+storefronts,object,1
+spacious feel,descriptor,1
+stored materials,object,1
+street edges,object,1
+street furniture,object,1
+somewhat dominated,descriptor,1
+somewhat orderly,descriptor,1
+somewhat green,descriptor,1
+somewhat industrial,descriptor,1
+somewhat isolated,descriptor,1
+somewhat limited,descriptor,1
+somewhat natural feel,descriptor,1
+somewhat of a refuge,descriptor,1
+somewhat organized,descriptor,1
+street lamp,object,1
+somewhat overcast,descriptor,1
+street layouts,object,1
+somewhat predictable,descriptor,1
+somewhat secluded,descriptor,1
+somewhat sprawling,descriptor,1
+street layout,descriptor,1
+storage tanks,object,1
+storage containers,object,1
+storage,descriptor,1
+spontaneous attention,descriptor,1
+specific season,descriptor,1
+static impression,descriptor,1
+speed limit signs,object,1
+spherical,descriptor,1
+state of transition,descriptor,1
+splits,descriptor,1
+state of flux,descriptor,1
+spatial,descriptor,1
+stark,descriptor,1
+spontaneous natural beauty,descriptor,1
+stadium-like structure,object,1
+stadium seating areas,object,1
+stadium seating,object,1
+spread out,descriptor,1
+specific points of focus,descriptor,1
+specific function,descriptor,1
+steamroller,object,1
+specific boundaries,descriptor,1
+stimulate curiosity,descriptor,1
+stimulating complexity,descriptor,1
+spatially coherent,descriptor,1
+stimulating engagement,descriptor,1
+stimulating features,descriptor,1
+stone bridge,object,1
+stone fences,object,1
+spatial depth,descriptor,1
+spatial continuity,descriptor,1
+stone pathways,object,1
+spatial break,descriptor,1
+spatial breadth,descriptor,1
+stone railing,object,1
+somewhat dry,descriptor,1
+somewhat disparate,descriptor,1
+strong sense of curiosity,descriptor,1
+slightly irregular arrangement,descriptor,1
+strong indicators,descriptor,1
+slightly detracting,descriptor,1
+slightly diminishes,descriptor,1
+slightly disjointed,descriptor,1
+slightly irregular,descriptor,1
+strong impression,descriptor,1
+slightly less intuitive,descriptor,1
+slightly chaotic,descriptor,1
+slightly limit,descriptor,1
+slightly moderating,descriptor,1
+slightly monotonous,descriptor,1
+strong feeling,descriptor,1
+slightly uneven,descriptor,1
+strong escape,descriptor,1
+slightly cloudy,descriptor,1
+slightly,descriptor,1
+somewhat constrained,descriptor,1
+slight sense of direction,descriptor,1
+slight allure,descriptor,1
+strong sense of 'being away',descriptor,1
+slight contrast,descriptor,1
+slight disarray,descriptor,1
+slight inconsistency,descriptor,1
+slight respite,descriptor,1
+strong pull,descriptor,1
+slight wildness,descriptor,1
+slight sense of enclosure,descriptor,1
+slight sense of openness,descriptor,1
+strong order,descriptor,1
+strong natural elements,descriptor,1
+strong limitations,descriptor,1
+slight sense of refuge,descriptor,1
+strong element of surprise,descriptor,1
+strong captivating elements,descriptor,1
+strolling,descriptor,1
+street scene,object,1
+streetlamp,object,1
+soft lighting,descriptor,1
+street view perspective,descriptor,1
+softens,descriptor,1
+softer environment,descriptor,1
+soil,object,1
+some area for movement,descriptor,1
+stroll,object,1
+some boundaries,descriptor,1
+some exploration,descriptor,1
+some interest,descriptor,1
+street scene,descriptor,1
+somewhat bounded,descriptor,1
+street perspective,descriptor,1
+streetscape,descriptor,1
+stress,descriptor,1
+stressful,descriptor,1
+stretch,descriptor,1
+stretches of greenery,object,1
+societal influences,descriptor,1
+smoother,descriptor,1
+small pond,object,1
+stretches out,descriptor,1
+small groups,descriptor,1
+small details,descriptor,1
+small buildings,object,1
+strict limitations,descriptor,1
+striking elements,descriptor,1
+small,descriptor,1
+slow movement,descriptor,1
+slightly varied styles,descriptor,1
+sense of moving about,descriptor,1
+tightly enclosed,descriptor,1
+relatively quiet atmosphere,descriptor,1
+unified design,descriptor,1
+uniform architecture,object,1
+uniform architectural styles,descriptor,1
+unified structure,descriptor,1
+unified physical arrangement,descriptor,1
+unified perception,descriptor,1
+rich sensory details,descriptor,1
+rich stimulus,descriptor,1
+uniform distribution,descriptor,1
+rich tapestry,descriptor,1
+rich variety,descriptor,1
+rich with details,descriptor,1
+richly detailed,descriptor,1
+unified coherence,descriptor,1
+richly engaging,descriptor,1
+uniform buildings,object,1
+uniform in style,descriptor,1
+uninspired,descriptor,1
+restorative natural appeal,descriptor,1
+unimpeded exploration,descriptor,1
+unifying order,descriptor,1
+unifying design,descriptor,1
+restorative appeal,descriptor,1
+uniformly paved,descriptor,1
+restorative environments,descriptor,1
+uniformly constructed,descriptor,1
+restricts movement,descriptor,1
+restorative retreat,descriptor,1
+uniformity in building design,descriptor,1
+uniform streetscape,descriptor,1
+uniform maintenance,descriptor,1
+uniform layout,descriptor,1
+restricts engagement,descriptor,1
+richly fascinating,descriptor,1
+richness,descriptor,1
+rightful place,descriptor,1
+road systems,object,1
+road structures,object,1
+undeveloped green spaces,object,1
+road surface,object,1
+road surfaces,object,1
+understated,descriptor,1
+road system,object,1
+understandable space,descriptor,1
+unified arrangement,descriptor,1
+roadside greenery,object,1
+roadsides,object,1
+understandable arrangement,descriptor,1
+understand,descriptor,1
+underlying design,descriptor,1
+underlying boundaries,descriptor,1
+undeveloped land,object,1
+road structure,object,1
+road networks,object,1
+unexpectedness,descriptor,1
+unexplored areas,descriptor,1
+unexplored expanses,descriptor,1
+road lanes,object,1
+unfettered,descriptor,1
+road intersection,object,1
+unfinished areas,object,1
+unfinished business,descriptor,1
+unfinished look,descriptor,1
+unfinished roads,object,1
+road edges,descriptor,1
+unguided,descriptor,1
+road barriers,object,1
+unhindered exploration possibilities,descriptor,1
+uninhibited exploration,descriptor,1
+rest,descriptor,1
+under-construction,descriptor,1
+urban boundaries,object,1
+urban center,object,1
+removed from everyday concerns,descriptor,1
+removed from the ordinary,descriptor,1
+urban building,object,1
+renovation,descriptor,1
+repeated,descriptor,1
+urban background,object,1
+remoteness,descriptor,1
+urban backdrop,descriptor,1
+repeated architectural styles,descriptor,1
+urban activity,object,1
+urban activity,descriptor,1
+unwind,descriptor,1
+repeating architectural elements,descriptor,1
+urban centers,object,1
+urban clamor,descriptor,1
+uninspiring,descriptor,1
+relaxed,descriptor,1
+relatively straight,descriptor,1
+relatively straightforward,descriptor,1
+relatively uncluttered,descriptor,1
+urban functionality,descriptor,1
+relatively uniform architecture,descriptor,1
+urban feel,descriptor,1
+urban features,descriptor,1
+urban congestion,descriptor,1
+reminders,descriptor,1
+urban fabric,object,1
+urban fabric,descriptor,1
+remote refuge,descriptor,1
+urban density,descriptor,1
+urban corridor,descriptor,1
+repeating pattern,descriptor,1
+unusual features,descriptor,1
+untidy,descriptor,1
+uniquely captivating elements,descriptor,1
+unlikely to be captivating,descriptor,1
+residential areas,object,1
+unknown areas,descriptor,1
+residential building,object,1
+unkempt appearance,descriptor,1
+residential development,object,1
+residential setting,object,1
+unstructured,descriptor,1
+unique points of attraction,descriptor,1
+unique human activities,descriptor,1
+unique architectural features,descriptor,1
+uninviting,descriptor,1
+uninterrupted landscape,descriptor,1
+uninterrupted,descriptor,1
+unlikely to be completely boring,descriptor,1
+residential area,descriptor,1
+unlikely to feel bored,descriptor,1
+unlikely to hold attention,descriptor,1
+unlimited movement,descriptor,1
+unlimited possibility,descriptor,1
+repetitiveness,descriptor,1
+unlimited scope,descriptor,1
+unmanaged,descriptor,1
+unpleasant,descriptor,1
+unpopulated,descriptor,1
+unrefined,descriptor,1
+unremarkable,descriptor,1
+repetitive design,descriptor,1
+unrestricted,descriptor,1
+unseen,descriptor,1
+repetitive architectural elements,descriptor,1
+underdeveloped,descriptor,1
+rocks,object,1
+sense of limitless exploration,descriptor,1
+semi-developed nature,object,1
+traversal-oriented,descriptor,1
+traversal,descriptor,1
+see,descriptor,1
+seemingly,descriptor,1
+segmentation,descriptor,1
+travel,descriptor,1
+trash cans,object,1
+traversing,descriptor,1
+semi-industrial,descriptor,1
+semi-natural,descriptor,1
+transport vehicles,object,1
+transitional space,object,1
+transitional space,descriptor,1
+sense of 'being away',descriptor,1
+traverse,descriptor,1
+traversing the area,descriptor,1
+seamlessly,descriptor,1
+secluded refuge,descriptor,1
+tree-lined pathway,object,1
+tree-lined nature,object,1
+tree-lined environment,object,1
+tree-lined avenues,object,1
+secluded escape,descriptor,1
+secluded feel,descriptor,1
+tree types,object,1
+sections of the landscape,object,1
+secluded spots,descriptor,1
+tree species,object,1
+tree patterns,object,1
+tree canopy,object,1
+tree bases,object,1
+seclusion,descriptor,1
+transition space,descriptor,1
+tranquil space,descriptor,1
+sense of boundary,descriptor,1
+to the right,descriptor,1
+traffic control measures,object,1
+traffic control barriers,object,1
+traditional chinese pavilion,object,1
+traditional archway,object,1
+traditional,descriptor,1
+total immersion in nature,descriptor,1
+tiles,object,1
+tranquil refuge,descriptor,1
+tightly packed,descriptor,1
+sense of going somewhere,descriptor,1
+sense of immersion,descriptor,1
+sense of integration,descriptor,1
+sense of intrigue,descriptor,1
+sense of journey,descriptor,1
+traffic control systems,object,1
+traffic controls,object,1
+traffic flow,descriptor,1
+traffic infrastructure,object,1
+sense of elements,descriptor,1
+traffic signs,object,1
+sense of detachment,descriptor,1
+traffic-free,descriptor,1
+sense of continuation,descriptor,1
+sense of containment,descriptor,1
+trails,object,1
+tranquil environment,descriptor,1
+sense of comprehensibility,descriptor,1
+sense of complete escape,descriptor,1
+sense of clear order,descriptor,1
+tranquil pathway,object,1
+tranquil pond,object,1
+seamlessly harmonious,descriptor,1
+tree-lined verges,object,1
+under development,descriptor,1
+routine responsibilities,descriptor,1
+routes,object,1
+unadorned,descriptor,1
+routine activities,descriptor,1
+routine concerns,descriptor,1
+umbrellas,object,1
+typical urban stresses,descriptor,1
+routine stressors,descriptor,1
+unbounded environment,descriptor,1
+routine tasks,descriptor,1
+typical urban nuisculoskeletal environments,descriptor,1
+typical urban nuisculoskeletal,descriptor,1
+typical urban demands,descriptor,1
+typical urban chaos,descriptor,1
+typical urban bustle,descriptor,1
+rounded,descriptor,1
+unbounded sense of spaciousness,descriptor,1
+seamless order,descriptor,1
+unconstrained environment,descriptor,1
+under construction,descriptor,1
+rolling hills,object,1
+uncrowded,descriptor,1
+room,descriptor,1
+unconventional,descriptor,1
+unconstrained exploration,descriptor,1
+unconfined,descriptor,1
+unbounded territory,descriptor,1
+uncluttered appearance,descriptor,1
+room to move around,descriptor,1
+room to roam,descriptor,1
+uncharted territories,descriptor,1
+roundabout,object,1
+unboundedness,descriptor,1
+row of parked bicycles,object,1
+typical urban activities,descriptor,1
+rows of bicycles,object,1
+scope dimension,descriptor,1
+truly engrossed,descriptor,1
+scenic,descriptor,1
+truly captivating,descriptor,1
+scooter rider,object,1
+truly boundless exploration,descriptor,1
+true departure,descriptor,1
+scope for exploration,descriptor,1
+rows of parked bikes,object,1
+scope for movement,descriptor,1
+sculptural elements,object,1
+true 'being away' experience,descriptor,1
+sculptures,object,1
+trimmed bushes,object,1
+treeline,object,1
+truly expansive,descriptor,1
+truly unbounded,descriptor,1
+turns,object,1
+typical campus setting,descriptor,1
+scattered trees,object,1
+typical city,descriptor,1
+typical daily concerns,descriptor,1
+scattered materials,object,1
+typical daily routines,descriptor,1
+typical indoor environments,descriptor,1
+typical life,descriptor,1
+typical life's pressures,descriptor,1
+sand,object,1
+typical stressors,descriptor,1
+rusty van,object,1
+running track,object,1
+typical university setting,descriptor,1
+perfect refuge,descriptor,1
+'i 芒聶楼茂赂聫 u' sign,object,1
+perfect organization,descriptor,1
+diverging exploration possibilities,descriptor,1
+distinct points of focus,descriptor,1
+distinctly captivating,descriptor,1
+distinctly different environment,descriptor,1
+distinctly engaging,descriptor,1
+distinctly interesting,descriptor,1
+distinguishing features,descriptor,1
+distract,descriptor,1
+distracting elements,descriptor,1
+distraction from obligations,descriptor,1
+distracts,descriptor,1
+diverge,descriptor,1
+diverging paths,descriptor,1
+distinct natural refuge,descriptor,1
+diverse activities,descriptor,1
+diverse architectural styles,descriptor,1
+diverse areas,descriptor,1
+diverse features,descriptor,1
+diverse greenery,descriptor,1
+diverse points of interest,descriptor,1
+dome,object,1
+dominant element,descriptor,1
+dominant elements,descriptor,1
+dominant features,descriptor,1
+dominate,descriptor,1
+distinct patterns,descriptor,1
+distinct natural elements,descriptor,1
+discernible system,descriptor,1
+distant figures,object,1
+discover new elements,descriptor,1
+discovering new areas,descriptor,1
+discovering new directions,descriptor,1
+disengaging,descriptor,1
+disjointed appearance,descriptor,1
+disordered,descriptor,1
+disrepair,object,1
+disrupting,descriptor,1
+distant activity,descriptor,1
+distant building,object,1
+distant fence,object,1
+distant horizons,object,1
+distinct exploration opportunities,descriptor,1
+distant structures,object,1
+distant tower,object,1
+distinct 'away' experience,descriptor,1
+distinct architectural features,descriptor,1
+distinct architecture,descriptor,1
+distinct boundaries,descriptor,1
+distinct captivating elements,descriptor,1
+distinct captivating features,descriptor,1
+distinct change of scenery,descriptor,1
+distinct destinations,descriptor,1
+distinct environment,descriptor,1
+dramatic,descriptor,1
+draw,descriptor,1
+draw the eye,descriptor,1
+engaging exploration,descriptor,1
+encountering limitations,descriptor,1
+encourage a sense of freedom,descriptor,1
+encourage exploration,descriptor,1
+endless,descriptor,1
+endlessly fascinating,descriptor,1
+engage attention,descriptor,1
+engagement of attention,descriptor,1
+engaging attention,descriptor,1
+engaging complexity,descriptor,1
+engaging detail,descriptor,1
+engaging environment,descriptor,1
+engaging natural features,descriptor,1
+drive,object,1
+engaging novelty,descriptor,1
+engaging observation,descriptor,1
+engaging points of interest,descriptor,1
+engaging visual details,descriptor,1
+engrossed,descriptor,1
+engrossing,descriptor,1
+enough detail,descriptor,1
+entirely away,descriptor,1
+entirety,descriptor,1
+entrance gate,object,1
+entrance gates,object,1
+encompasses,descriptor,1
+enclosed spaces,descriptor,1
+enclosed space,descriptor,1
+enchanting,descriptor,1
+dry,descriptor,1
+dull,descriptor,1
+dynamic activities,descriptor,1
+dynamic element,descriptor,1
+dynamically engaging,descriptor,1
+dynamicism,descriptor,1
+each element has its place,descriptor,1
+ease in navigating,descriptor,1
+ease in understanding,descriptor,1
+easily decipherable,descriptor,1
+easily digestible,descriptor,1
+easily discernible order,descriptor,1
+easily understandable layout,descriptor,1
+easily understood structure,descriptor,1
+easy navigability,descriptor,1
+easy perception,descriptor,1
+easy to process,descriptor,1
+edge,object,1
+effortless,descriptor,1
+effortless coherence,descriptor,1
+elements of nature,descriptor,1
+elements to capture attention,descriptor,1
+embankment,object,1
+discourage exploration,descriptor,1
+discernible organizational principle,descriptor,1
+perfect order,descriptor,1
+demands of daily tasks,descriptor,1
+deliberate arrangement,descriptor,1
+deliberate placement,descriptor,1
+deliberately planned,descriptor,1
+delineating,descriptor,1
+delineation,descriptor,1
+demanding activities,descriptor,1
+demanding aspects,descriptor,1
+demanding attention,descriptor,1
+demanding city life,descriptor,1
+demanding urban environments,descriptor,1
+demands of attention,descriptor,1
+demands of life,descriptor,1
+degree of planning,descriptor,1
+demolition,object,1
+dense crowds,descriptor,1
+dense greenery,descriptor,1
+dense tree lines,descriptor,1
+dense trees,object,1
+densely,descriptor,1
+densities,descriptor,1
+depicted area,descriptor,1
+depicted space,descriptor,1
+depth of detachment,descriptor,1
+depth of visual interest,descriptor,1
+degree of refuge,descriptor,1
+degree of organization,descriptor,1
+discernible arrangement,descriptor,1
+defined roads,object,1
+deeply fascinating,descriptor,1
+deeply immersive,descriptor,1
+deeply intriguing,descriptor,1
+deeply understandable,descriptor,1
+define boundaries,descriptor,1
+defined boundary,descriptor,1
+defined edge,descriptor,1
+defined green spaces,descriptor,1
+defined layout,descriptor,1
+defined parameters,descriptor,1
+defined pathway,descriptor,1
+defined route,descriptor,1
+degree of fascination,descriptor,1
+defined routes,descriptor,1
+defined space,descriptor,1
+defined spaces,descriptor,1
+defined streets,descriptor,1
+defined urban path,descriptor,1
+defined zones,descriptor,1
+defining,descriptor,1
+definitive boundaries,descriptor,1
+degree of activity,descriptor,1
+degree of containment,descriptor,1
+degree of exploration,descriptor,1
+design,object,1
+design elements,object,1
+designated routes,descriptor,1
+difficult to perceive,descriptor,1
+different place,descriptor,1
+different setting,descriptor,1
+different structures,descriptor,1
+different types of trees,descriptor,1
+differing,descriptor,1
+difficult for boredom,descriptor,1
+difficult for boredom to be overcome,descriptor,1
+difficult to be absorbed,descriptor,1
+difficult to be engaged,descriptor,1
+difficult to disengage,descriptor,1
+difficult to engage,descriptor,1
+diffused,descriptor,1
+designated spaces,object,1
+diminish,descriptor,1
+diminishing,descriptor,1
+direct perspective,descriptor,1
+direct view,descriptor,1
+directional arrows,object,1
+directionality,descriptor,1
+directions for exploration,descriptor,1
+disappearing,descriptor,1
+disappears,descriptor,1
+discarded materials,object,1
+discernible architectural style,descriptor,1
+different perspectives,descriptor,1
+different landscaping styles,descriptor,1
+different environment,descriptor,1
+different building styles,descriptor,1
+designed arrangement,descriptor,1
+designed for escape,descriptor,1
+designed for focus,descriptor,1
+designed landscape,descriptor,1
+designed space,descriptor,1
+detach from immediate tasks,descriptor,1
+detach from routine,descriptor,1
+detach from stressors,descriptor,1
+detached natural setting,descriptor,1
+detailed,descriptor,1
+details of nature,descriptor,1
+detracting,descriptor,1
+developed area,object,1
+developed areas,descriptor,1
+developed environment,object,1
+developed urban area,descriptor,1
+developed zone,object,1
+development,descriptor,1
+devoid,descriptor,1
+devoid of people,descriptor,1
+devoid of vehicles,descriptor,1
+different areas,object,1
+different aspects,descriptor,1
+entrance structure,object,1
+entrances,object,1
+environment of 'doing',descriptor,1
+functional zones,object,1
+functional building,object,1
+functional elements,descriptor,1
+functional elements,object,1
+functional environment,descriptor,1
+functional organization,descriptor,1
+functional outdoor area,descriptor,1
+functional space,object,1
+functional spaces,descriptor,1
+functional streetscape,descriptor,1
+functional urban space,descriptor,1
+functional utility,descriptor,1
+functionalities,descriptor,1
+functional architecture,descriptor,1
+functions,descriptor,1
+further green areas,descriptor,1
+further movement,descriptor,1
+garage doors,object,1
+garden beds,object,1
+gardens,object,1
+gated entrance,object,1
+gated entrances,object,1
+gatehouse,object,1
+gateway,object,1
+gazebo,object,1
+functional areas,descriptor,1
+functional appearance,descriptor,1
+equipment,object,1
+free roaming,descriptor,1
+fork,descriptor,1
+fork,object,1
+forking,descriptor,1
+forking road,descriptor,1
+formal,descriptor,1
+forward,descriptor,1
+forward progression,descriptor,1
+fostering,descriptor,1
+fountain,object,1
+free from distractions,descriptor,1
+free movement,descriptor,1
+free-form,descriptor,1
+function together,descriptor,1
+freedom for exploration,descriptor,1
+freedom in movement,descriptor,1
+freedom to explore,descriptor,1
+freedom to move about,descriptor,1
+freedom to roam,descriptor,1
+freely move,descriptor,1
+full foliage,descriptor,1
+full foliage,object,1
+full refuge,descriptor,1
+full sense of boundless exploration,descriptor,1
+function,descriptor,1
+general arrangement,descriptor,1
+general atmosphere,descriptor,1
+general feel,descriptor,1
+green area,object,1
+grass areas,object,1
+grassy fields,object,1
+grassy mound,object,1
+grassy patches,object,1
+grassy slopes,object,1
+grassy space,object,1
+grassy verge,object,1
+gravel,object,1
+great scope,descriptor,1
+greater sense of scope,descriptor,1
+green,object,1
+green belts,object,1
+general openness,descriptor,1
+green bins,object,1
+green bushes,object,1
+green elements,descriptor,1
+green environment,descriptor,1
+green escape,object,1
+green grass,object,1
+green lawns,object,1
+green patches,object,1
+green refuge,descriptor,1
+green setting,object,1
+green space,descriptor,1
+grand stadium,object,1
+gradual,descriptor,1
+good urban planning,descriptor,1
+good sense of order,descriptor,1
+general quietness,descriptor,1
+general sense of order,descriptor,1
+generally maintained,descriptor,1
+generally organized,descriptor,1
+generic buildings,object,1
+generous,descriptor,1
+gentle distraction,descriptor,1
+gentle fascination,descriptor,1
+gentle respite,descriptor,1
+gently curving,descriptor,1
+genuinely interesting,descriptor,1
+geometric,descriptor,1
+geometric lines,descriptor,1
+getting away,descriptor,1
+glass windows,object,1
+glimpses,descriptor,1
+golden sculpture,object,1
+good amount,descriptor,1
+good balance,descriptor,1
+good capacity for movement,descriptor,1
+good escape,descriptor,1
+good organization,descriptor,1
+good potential for exploration,descriptor,1
+forest,object,1
+focused activity,descriptor,1
+focused,descriptor,1
+exploration areas,object,1
+exceptionally unique,descriptor,1
+expanse of water,object,1
+expanses,object,1
+expansive area,descriptor,1
+expansive feel,descriptor,1
+expansive feeling,descriptor,1
+expansive open spaces,descriptor,1
+expansive opportunity,descriptor,1
+expansive view,object,1
+expansive views,descriptor,1
+expected places,descriptor,1
+exploratory possibilities,descriptor,1
+extensive open spaces,descriptor,1
+exploratory potential,descriptor,1
+exposed materials,object,1
+extend outwards,descriptor,1
+extended space,descriptor,1
+extending outwards,descriptor,1
+extension,descriptor,1
+extension of everyday routines,descriptor,1
+extension of responsibilities,descriptor,1
+extensive discovery,descriptor,1
+extensive exploration potential,descriptor,1
+extensive freedom,descriptor,1
+exceptionally strong,descriptor,1
+exceptionally stimulating,descriptor,1
+exceptionally ordered,descriptor,1
+exceptionally interesting,descriptor,1
+escape from daily demands,descriptor,1
+escaping,descriptor,1
+escaping one's usual concerns,descriptor,1
+escapism,descriptor,1
+established,descriptor,1
+established paths,descriptor,1
+evenly distributed,descriptor,1
+everyday activities,descriptor,1
+everyday elements,descriptor,1
+everyday life's demands,descriptor,1
+everyday reality,descriptor,1
+everyday setting,descriptor,1
+everyday stresses,descriptor,1
+everyday tasks,descriptor,1
+everyday thoughts,descriptor,1
+everyday urban elements,descriptor,1
+everyday urban environment,descriptor,1
+everything seeming to have its place,descriptor,1
+evident ongoing development,descriptor,1
+evoke boredom,descriptor,1
+exceptionally clear,descriptor,1
+exceptionally fascinating,descriptor,1
+exceptionally high,descriptor,1
+extensive natural environments,descriptor,1
+extensive possibility,descriptor,1
+focal points,object,1
+few people,descriptor,1
+feeling of space,descriptor,1
+feeling that everything has its place,descriptor,1
+fenced,descriptor,1
+fenced in,descriptor,1
+fenced perimeters,object,1
+fenced sports field,object,1
+few immediate,descriptor,1
+few immediate barriers,descriptor,1
+few immediate limitations,descriptor,1
+few immediate visual boundaries,descriptor,1
+few limits,descriptor,1
+few visible elements,descriptor,1
+extensive wandering,descriptor,1
+few visual boundaries,descriptor,1
+fewer boundaries,descriptor,1
+fewer points of interest,descriptor,1
+fewer possibilities,descriptor,1
+field markings,object,1
+figures,object,1
+fit well together,descriptor,1
+fitting together logically,descriptor,1
+flags,object,1
+flat,descriptor,1
+flowing patterns,descriptor,1
+feeling of some containment,descriptor,1
+feeling of scope,descriptor,1
+feeling of respite,descriptor,1
+feeling of possibility,descriptor,1
+extent of boundaries,descriptor,1
+extent of fascination,descriptor,1
+external nuisances,descriptor,1
+extraordinary elements,descriptor,1
+facilitate mental detachment,descriptor,1
+fair sense of being away,descriptor,1
+fair sense of scope,descriptor,1
+fairly good,descriptor,1
+fallen tree,object,1
+familiar context,descriptor,1
+familiar environment,descriptor,1
+featureless,descriptor,1
+features,object,1
+feel expansive,descriptor,1
+feel of the space,descriptor,1
+feeling of being 'away',descriptor,1
+feeling of being completely removed,descriptor,1
+feeling of being truly 'away',descriptor,1
+feeling of boundless,descriptor,1
+feeling of coherence,descriptor,1
+feeling of depth,descriptor,1
+feeling of movement,descriptor,1
+feeling of order,descriptor,1
+deeply captivate attention,descriptor,1
+deeply captivate,descriptor,1
+deeper level,descriptor,1
+break the monotony,descriptor,1
+branches,object,1
+branching path,object,1
+branching paths,descriptor,1
+branching pathways,object,1
+branching patterns,object,1
+break from chaotic environments,descriptor,1
+break from demanding tasks,descriptor,1
+break from demands,descriptor,1
+break from hustle and bustle,descriptor,1
+break from responsibilities,descriptor,1
+break from typical urban nuisances,descriptor,1
+brick patterns,object,1
+branch structures,object,1
+brick paving,object,1
+brick planters,object,1
+brick sidewalks,object,1
+bricks,object,1
+brickwork,object,1
+bridge railings,object,1
+broad horizons,descriptor,1
+broad movement,descriptor,1
+broad open vistas,descriptor,1
+broader context,descriptor,1
+broader scope,descriptor,1
+branches,descriptor,1
+boundless wandering,descriptor,1
+captivating power,descriptor,1
+bordered green spaces,object,1
+belong together,descriptor,1
+belonging,descriptor,1
+bench,object,1
+beyond,descriptor,1
+bicycle racks,object,1
+bike,object,1
+blend of nature and modern architecture,descriptor,1
+blending,descriptor,1
+blooming,descriptor,1
+blooming trees,object,1
+blue bus,object,1
+bordering elements,object,1
+boundless space,descriptor,1
+boredom less likely,descriptor,1
+boredom-alleviating,descriptor,1
+boredom-preventing,descriptor,1
+boredom-reducing,descriptor,1
+both directions,descriptor,1
+bounded impression,descriptor,1
+bounded space,descriptor,1
+boundedness,descriptor,1
+boundless environment,descriptor,1
+boundless openness,descriptor,1
+boundless scope,descriptor,1
+broken,descriptor,1
+broken ground,object,1
+building alignments,object,1
+campus road,object,1
+calm setting,descriptor,1
+calm setting,object,1
+calm urban setting,descriptor,1
+calm water bodies,object,1
+calm water body,object,1
+calming atmosphere,descriptor,1
+calmness,descriptor,1
+campus context,descriptor,1
+campus environment,descriptor,1
+campus landscape,object,1
+campus pathway,object,1
+campus routine,descriptor,1
+building density,object,1
+campus space,descriptor,1
+campus space,object,1
+campus street,descriptor,1
+campus-like setting,descriptor,1
+canal walls,object,1
+canopy of trees,object,1
+capacity to capture attention,descriptor,1
+captivating aesthetic,descriptor,1
+captivating architectural features,descriptor,1
+captivating experience,descriptor,1
+captivating natural beauty,descriptor,1
+calm appearance,descriptor,1
+busy urban life,descriptor,1
+busy traffic,descriptor,1
+busy roads,object,1
+building elements,object,1
+building entrance,object,1
+building entrances,object,1
+building materials,object,1
+building perimeters,descriptor,1
+building structure,object,1
+building surfaces,object,1
+building walls,object,1
+building's architecture,object,1
+building's structure,object,1
+built elements,descriptor,1
+busier,descriptor,1
+business district,descriptor,1
+business district,object,1
+business park,descriptor,1
+business park,object,1
+bustle of urban life,descriptor,1
+bustling city,descriptor,1
+bustling city life,descriptor,1
+busy activity,descriptor,1
+busy areas,object,1
+busy city life,descriptor,1
+busy environment,descriptor,1
+beaten path,descriptor,1
+basic structure,descriptor,1
+basic structural logic,descriptor,1
+adjoining,descriptor,1
+active living space,descriptor,1
+active place,descriptor,1
+active street,object,1
+active transit area,descriptor,1
+active urban area,descriptor,1
+active urban setting,descriptor,1
+active use,descriptor,1
+ad-hoc,descriptor,1
+adequate,descriptor,1
+adjacent areas,object,1
+adjacent path,object,1
+administrative,descriptor,1
+amenities,object,1
+advertisements,object,1
+aesthetic harmony,descriptor,1
+aesthetically cohesive,descriptor,1
+aesthetically engaging,descriptor,1
+air conditioners,object,1
+air conditioning units,object,1
+all directions,descriptor,1
+allow for movement,descriptor,1
+allows for movement,descriptor,1
+along the path,descriptor,1
+ambiance,descriptor,1
+active campus,descriptor,1
+accommodate further discovery,descriptor,1
+ac units,object,1
+absorbing,descriptor,1
+absence of busy crowds,descriptor,1
+absence of clutter,descriptor,1
+absence of dense crowds,descriptor,1
+absence of distracting features,descriptor,1
+absence of dynamic activities,descriptor,1
+absence of dynamic activity,descriptor,1
+absence of human activity,descriptor,1
+absence of hustle,descriptor,1
+absence of immediate activity,descriptor,1
+absence of immediate urban distractions,descriptor,1
+absence of man-made elements,descriptor,1
+absence of overt human activity,descriptor,1
+absence of prominent city structures,descriptor,1
+absence of prominent natural features,descriptor,1
+absence of prominent urban distractions,descriptor,1
+absence of sensory details,descriptor,1
+absence of significant crowds,descriptor,1
+absence of strong natural wildness,descriptor,1
+absence of traffic,descriptor,1
+absence of unique elements,descriptor,1
+absence of unique natural elements,descriptor,1
+absence of urban clutter,descriptor,1
+absence of urban stressors,descriptor,1
+ambiance,object,1
+amenity,descriptor,1
+basic layout,descriptor,1
+away from urban distractions,descriptor,1
+artistic coherence,descriptor,1
+asphalt,object,1
+atmosphere conducive to mental detachment,descriptor,1
+attention capture,descriptor,1
+attention to details,descriptor,1
+attention-capturing,descriptor,1
+attention-holding,descriptor,1
+autumnal colors,descriptor,1
+available space,descriptor,1
+away from daily pressures,descriptor,1
+away from everyday demands,descriptor,1
+awayness,descriptor,1
+ample room for movement,descriptor,1
+background buildings,object,1
+baidu vehicle,object,1
+balanced composition,descriptor,1
+balls,object,1
+bamboo elements,object,1
+bamboo grove,object,1
+bank,object,1
+bank building,object,1
+bare roads,object,1
+bark,object,1
+basic functionality,descriptor,1
+arrangement of the space,descriptor,1
+arranged systematically,descriptor,1
+areas to wander through,descriptor,1
+areas to move through,descriptor,1
+ample visual extent,descriptor,1
+anticipate,descriptor,1
+apartment complex,object,1
+apartment complexes,object,1
+apparent layout,descriptor,1
+apparent order,descriptor,1
+appeal,descriptor,1
+appropriate places,descriptor,1
+appropriately spaced,descriptor,1
+architectural details,descriptor,1
+architectural features,descriptor,1
+architectural forms,object,1
+architectural patterns,descriptor,1
+architectural pillars,object,1
+architectural structure,descriptor,1
+architecturally consistent,descriptor,1
+architecturally diverse,descriptor,1
+architecturally interesting,descriptor,1
+areas,descriptor,1
+areas beyond,descriptor,1
+areas of active work,object,1
+areas to discover,descriptor,1
+areas to investigate,descriptor,1
+captivating natural elements,descriptor,1
+captivating variety,descriptor,1
+deeper fascination,descriptor,1
+constraints,descriptor,1
+consistent pattern,descriptor,1
+consistent patterns,descriptor,1
+consistent repetition,descriptor,1
+consistent style,descriptor,1
+consistent styles,descriptor,1
+consistent use,descriptor,1
+consistent view,descriptor,1
+consistently designed,descriptor,1
+consistently engaging,descriptor,1
+consistently fascinating,descriptor,1
+constraint,descriptor,1
+constricting,descriptor,1
+consistent layout,descriptor,1
+constructed,descriptor,1
+constructed boundaries,descriptor,1
+constructed elements,descriptor,1
+construction activity,object,1
+construction area,object,1
+construction areas,object,1
+construction work,object,1
+construction zones,object,1
+construction-like elements,object,1
+contained area,descriptor,1
+contained nature,descriptor,1
+consistent modern architectural style,descriptor,1
+consistent landscaping,descriptor,1
+captivating visual interest,descriptor,1
+condition,descriptor,1
+complex structure,descriptor,1
+composition,descriptor,1
+concrete area,object,1
+concrete areas,object,1
+concrete buildings,object,1
+concrete environment,descriptor,1
+concrete lots,object,1
+concrete pathways,object,1
+concrete plaza,object,1
+concrete space,object,1
+concrete wall,object,1
+conducive to escaping,descriptor,1
+consistent green scenery,descriptor,1
+conducive to mental escape,descriptor,1
+conducive to mental respite,descriptor,1
+confined space,descriptor,1
+confining,descriptor,1
+considerable distance,descriptor,1
+considerable length,descriptor,1
+considerable movement,descriptor,1
+considerable scale,descriptor,1
+considerable space,descriptor,1
+consistent architecture,descriptor,1
+consistent building design,descriptor,1
+contemplative,descriptor,1
+contemporary,descriptor,1
+continued exploration,descriptor,1
+decent openness,descriptor,1
+daily stresses,descriptor,1
+dampened,descriptor,1
+dappled light,descriptor,1
+dappled light,object,1
+dappled sunlight,descriptor,1
+de-stress,descriptor,1
+debris pile,object,1
+decent amount of visual interest,descriptor,1
+decent escape,descriptor,1
+decent extent,descriptor,1
+decent level of order,descriptor,1
+decent scope,descriptor,1
+continued urban presence,descriptor,1
+decent sense of escape,descriptor,1
+decorative bushes,object,1
+decorative railings,object,1
+dedicated,descriptor,1
+dedicated area,descriptor,1
+dedicated space,descriptor,1
+deep,descriptor,1
+deep escape,descriptor,1
+deep immersion,descriptor,1
+deep sense of order,descriptor,1
+deeper engagement,descriptor,1
+daily routine,descriptor,1
+daily responsibilities,descriptor,1
+daily life's pressures,descriptor,1
+cycling lanes,object,1
+continuing,descriptor,1
+continuing journey,descriptor,1
+continuous path,descriptor,1
+contrasting,descriptor,1
+controlled area,object,1
+conventional,descriptor,1
+converging,descriptor,1
+corporate,descriptor,1
+corporate area,object,1
+court markings,object,1
+covered,descriptor,1
+covered seating area,object,1
+covered structure,object,1
+covered walkway,object,1
+creates visual depth,descriptor,1
+crowded activity,descriptor,1
+cultural element,descriptor,1
+curated,descriptor,1
+curved path,object,1
+curved pathways,object,1
+curving pathway,object,1
+curving pathways,object,1
+curving roads,object,1
+complex natural formations,descriptor,1
+completely unrestricted,descriptor,1
+complete separation,descriptor,1
+clear markings,descriptor,1
+clear demarcations,descriptor,1
+clear direction,descriptor,1
+clear directions,descriptor,1
+clear distinction,descriptor,1
+clear distinctions,descriptor,1
+clear divisions of space,descriptor,1
+clear flow,descriptor,1
+clear focal point,descriptor,1
+clear focal points,descriptor,1
+clear invitation,descriptor,1
+clear limits,descriptor,1
+clear narrative,descriptor,1
+clear their mind,descriptor,1
+clear pathways,object,1
+clear physical order,descriptor,1
+clear planning,descriptor,1
+clear purpose,descriptor,1
+clear road structure,descriptor,1
+clear roads,object,1
+clear roadway,object,1
+clear routes,descriptor,1
+clear sense of layout,descriptor,1
+clear separations,descriptor,1
+clear sky,descriptor,1
+clear demarcation,descriptor,1
+clear definition,descriptor,1
+clear conceptual framework,descriptor,1
+clear central focus,descriptor,1
+carelessly,descriptor,1
+cascading branches,descriptor,1
+casual observation,descriptor,1
+center line,object,1
+centerline,object,1
+central area,object,1
+central dividing strip,object,1
+central green space,object,1
+central road,object,1
+challenging,descriptor,1
+chaotic element,descriptor,1
+chaotic elements,descriptor,1
+city,object,1
+city center,object,1
+city street,object,1
+city structures,object,1
+civic,descriptor,1
+civilization,descriptor,1
+claustrophobic,descriptor,1
+clean appearance,descriptor,1
+clean design,descriptor,1
+clean pathways,object,1
+cleanliness,descriptor,1
+clear system,descriptor,1
+clear urban layout,descriptor,1
+complete sense of immersion,descriptor,1
+complement,descriptor,1
+commercial structures,object,1
+commercial surroundings,object,1
+common obligations,descriptor,1
+commonplace setting,descriptor,1
+communication tower,object,1
+community,descriptor,1
+community,object,1
+community setting,descriptor,1
+commuting,descriptor,1
+compelling fascination,descriptor,1
+compelling richness,descriptor,1
+complements,descriptor,1
+clear visual cues,descriptor,1
+complete 'away' experience,descriptor,1
+complete 'being away' experience,descriptor,1
+complete feeling,descriptor,1
+complete feeling of detachment,descriptor,1
+complete feeling of escape,descriptor,1
+complete immersion,descriptor,1
+complete isolation,descriptor,1
+complete monotony,descriptor,1
+complete order,descriptor,1
+complete sense of detachment,descriptor,1
+complete sense of escape,descriptor,1
+commercial signage,object,1
+commercial setting,object,1
+commercial buildings,object,1
+comfortable,descriptor,1
+clear visual flow,descriptor,1
+clear visual narrative,descriptor,1
+clear visual patterns,descriptor,1
+clear visual separation,descriptor,1
+clear visual structure,descriptor,1
+clearings,object,1
+clearly defined paths,descriptor,1
+clearly defines,descriptor,1
+clearly structured,descriptor,1
+clock tower,object,1
+cloudy sky,object,1
+clutter,object,1
+cobblestone path,object,1
+cobblestone pathway,object,1
+cognitive,descriptor,1
+coherent order,descriptor,1
+coherent overall impression,descriptor,1
+coherent space,descriptor,1
+cohesive composition,descriptor,1
+cohesive design,descriptor,1
+cohesive narrative,descriptor,1
+colonnaded building,object,1
+colorful flags,object,1
+green spaces,descriptor,1
+green strip,object,1
+green zones,object,1
+not a pure refuge,descriptor,1
+not a complete mental departure,descriptor,1
+not a complete one,descriptor,1
+not a complete sanctuary,descriptor,1
+not a complete wilderness retreat,descriptor,1
+not a deep immersion,descriptor,1
+not a distinct natural escape,descriptor,1
+not a distinct refuge,descriptor,1
+not a place for respite,descriptor,1
+not a primary place for retreat,descriptor,1
+not a profound detachment,descriptor,1
+not a profound refuge,descriptor,1
+not a retreat,descriptor,1
+not a complete immersion,descriptor,1
+not a stark contrast,descriptor,1
+not a strong 'get away' environment,descriptor,1
+not a strong psychological detachment,descriptor,1
+not a strong sense of refuge,descriptor,1
+not a true sanctuary,descriptor,1
+not a vast wilderness,descriptor,1
+not abundant,descriptor,1
+not an infinite wilderness,descriptor,1
+not an invitation to explore freely,descriptor,1
+not boundless possibilities,descriptor,1
+not busy,descriptor,1
+not a complete immersion in nature,descriptor,1
+non-intrusive,descriptor,1
+not perfect,descriptor,1
+new aspects,descriptor,1
+neatly contained,descriptor,1
+neatly defined,descriptor,1
+neatly integrated,descriptor,1
+neglected,descriptor,1
+network,descriptor,1
+network of paths,descriptor,1
+network of pathways,descriptor,1
+network of pathways,object,1
+neutral,descriptor,1
+new and engaging aspects,descriptor,1
+new and exciting,descriptor,1
+new details,descriptor,1
+noisy,descriptor,1
+new discoveries,descriptor,1
+no apparent distractions,descriptor,1
+no distracting features,descriptor,1
+no expansive vistas,descriptor,1
+no honking signs,object,1
+no immediate barriers,descriptor,1
+no obvious recreational features,descriptor,1
+no strong indicators,descriptor,1
+no strong sense of escaping,descriptor,1
+no visible people,descriptor,1
+noise,descriptor,1
+not clearly visible,descriptor,1
+not complex,descriptor,1
+not designed for spontaneous exploration,descriptor,1
+not novel,descriptor,1
+not immediately clear,descriptor,1
+not infinite possibility,descriptor,1
+not intensely engaging,descriptor,1
+not intensely fascinating,descriptor,1
+not intensely natural,descriptor,1
+not limitless possibilities,descriptor,1
+not many,descriptor,1
+not many distinct elements,descriptor,1
+not many elements,descriptor,1
+not many opportunities,descriptor,1
+not necessarily a refuge,descriptor,1
+not offering a vast,descriptor,1
+not distinct,descriptor,1
+not open,descriptor,1
+not open-ended,descriptor,1
+not overly crowded,descriptor,1
+not overtly restrictive,descriptor,1
+not overwhelmingly complex,descriptor,1
+not overwhelmingly enclosed,descriptor,1
+not overwhelmingly interesting,descriptor,1
+not overwhelmingly so,descriptor,1
+not particularly commanding,descriptor,1
+not particularly expansive,descriptor,1
+not particularly intricate,descriptor,1
+not highly stimulating,descriptor,1
+not highly fascinating,descriptor,1
+not highly engaging,descriptor,1
+not fully provide 'away' feeling,descriptor,1
+not distinctly separate,descriptor,1
+not distracting,descriptor,1
+not dominant,descriptor,1
+not dull,descriptor,1
+not easily decipherable,descriptor,1
+not encourage,descriptor,1
+not encouraging detachment,descriptor,1
+not endless possibilities,descriptor,1
+not engaging,descriptor,1
+not entirely expansive,descriptor,1
+not entirely secluded,descriptor,1
+not entirely separate,descriptor,1
+not entirely unlimited,descriptor,1
+not entirely wild,descriptor,1
+not exceptionally,descriptor,1
+not exceptionally complex,descriptor,1
+not exceptionally expansive,descriptor,1
+not exceptionally ordered,descriptor,1
+not exceptionally varied,descriptor,1
+not extend indefinitely,descriptor,1
+not extensive exploratory potential,descriptor,1
+not fascinating,descriptor,1
+not fully clear,descriptor,1
+neat rows,descriptor,1
+neat arrangement,descriptor,1
+navigation,descriptor,1
+momentarily disengage,descriptor,1
+modern architectural design,object,1
+modern architectural designs,descriptor,1
+modern architectural features,object,1
+modern cylindrical buildings,object,1
+modern infrastructure,descriptor,1
+modern infrastructure,object,1
+modern institutional buildings,object,1
+modern sculpture-like lamppost,object,1
+modern style,descriptor,1
+modest escape,descriptor,1
+momentarily disconnect,descriptor,1
+momentarily put aside,descriptor,1
+movement,object,1
+monitored,descriptor,1
+monotonous environment,descriptor,1
+monument,object,1
+more,descriptor,1
+more areas,descriptor,1
+motorcycle,object,1
+move,descriptor,1
+move about freely,descriptor,1
+move along,descriptor,1
+move around,descriptor,1
+move around freely,descriptor,1
+moderately spacious,descriptor,1
+moderately scoped,descriptor,1
+moderately positive,descriptor,1
+moderately open,descriptor,1
+moderate level of organization,descriptor,1
+moderate movement,descriptor,1
+moderate opportunities,descriptor,1
+moderate perception,descriptor,1
+moderate perception of scope,descriptor,1
+moderate sense of coherence,descriptor,1
+moderate sense of exploration,descriptor,1
+moderate sense of freedom,descriptor,1
+moderate sense of refuge,descriptor,1
+moderate sense of space,descriptor,1
+moderate to high degree of coherence,descriptor,1
+moderate to high level of fascination,descriptor,1
+moderately clear,descriptor,1
+moderately defined,descriptor,1
+moderately detached,descriptor,1
+moderately easy to understand,descriptor,1
+moderately expansive area,descriptor,1
+moderately high score,descriptor,1
+moderately large,descriptor,1
+moderately limited,descriptor,1
+moderately low,descriptor,1
+moderately low fascination,descriptor,1
+moderately low fascination score,descriptor,1
+move away,descriptor,1
+movement in multiple directions,descriptor,1
+navigated,descriptor,1
+natural touch,descriptor,1
+natural intrigue,descriptor,1
+natural landscapes,descriptor,1
+natural landscapes,object,1
+natural pathway,object,1
+natural place,descriptor,1
+natural scenery,descriptor,1
+natural separation,descriptor,1
+natural space,descriptor,1
+natural texture,descriptor,1
+natural textures,descriptor,1
+natural textures,object,1
+natural variability,descriptor,1
+multi-directional,descriptor,1
+natural variations,descriptor,1
+natural visual interest,descriptor,1
+naturalized,descriptor,1
+naturally arranged,descriptor,1
+naturally captivating elements,descriptor,1
+naturally cohesive,descriptor,1
+naturally engaging,descriptor,1
+naturally ordered,descriptor,1
+nature's details,descriptor,1
+navigable space,descriptor,1
+navigate the space,descriptor,1
+natural intricacies,descriptor,1
+natural greenery,object,1
+natural formations,descriptor,1
+natural foliage,object,1
+multi-story,descriptor,1
+multiple areas,descriptor,1
+multiple diverging paths,descriptor,1
+multiple exploration opportunities,descriptor,1
+multiple paths,descriptor,1
+multiple pathways,object,1
+multitude of directions,descriptor,1
+multitude of exploration possibilities,descriptor,1
+multitude of unexplored directions,descriptor,1
+mundane aesthetic,descriptor,1
+mundane realities,descriptor,1
+mundane thoughts,descriptor,1
+muted colors,descriptor,1
+muted sky,descriptor,1
+narrative,descriptor,1
+natural aesthetic,descriptor,1
+natural boundary,descriptor,1
+natural coherence,descriptor,1
+natural detail,descriptor,1
+natural enclosure,descriptor,1
+natural environment,descriptor,1
+natural expanse,descriptor,1
+natural expanses,object,1
+not particularly remote,descriptor,1
+not perfectly harmonious,descriptor,1
+moderate level of being away,descriptor,1
+park benches,object,1
+overwhelmingly engaging,descriptor,1
+overwhelmingly fascinating,descriptor,1
+overwhelmingly stimulating,descriptor,1
+overwhelmingly vast,descriptor,1
+painted lines,object,1
+palm trees,object,1
+palpable,descriptor,1
+panoramic nature,descriptor,1
+parallel lines,descriptor,1
+parallel parking,object,1
+parcel organizing,object,1
+park setting,descriptor,1
+overwhelming vastness,descriptor,1
+park-like setting,descriptor,1
+park-like street,object,1
+parked areas,object,1
+parked bikes,object,1
+parked items,object,1
+parked vehicle,object,1
+parking layout,descriptor,1
+parking signs,object,1
+partial,descriptor,1
+partial reprieve,descriptor,1
+partial sense of being away,descriptor,1
+overwhelming visual clutter,descriptor,1
+overwhelming urban elements,descriptor,1
+not perfectly integrated,descriptor,1
+overall sense of vastness,descriptor,1
+overall expanse,descriptor,1
+overall exploration possibilities,descriptor,1
+overall intrigue,descriptor,1
+overall landscape,descriptor,1
+overall openness,descriptor,1
+overall organizational principle,descriptor,1
+overall perceived order,descriptor,1
+overall scope,descriptor,1
+overall sense of novelty,descriptor,1
+overall sense of organization,descriptor,1
+overall sense of scope,descriptor,1
+overall urban context,descriptor,1
+overwhelming tasks,descriptor,1
+overall visual expanse,descriptor,1
+overall visual impression,descriptor,1
+overall visual interest,descriptor,1
+overarching structure,descriptor,1
+overgrown grass,object,1
+overt,descriptor,1
+overt activity,descriptor,1
+overt signs,descriptor,1
+overtly captivating elements,descriptor,1
+overtly fascinating,descriptor,1
+overwhelming sense,descriptor,1
+partial sense of escape,descriptor,1
+partially budding,descriptor,1
+particular,descriptor,1
+pedestrian traffic,object,1
+peaceful escape,descriptor,1
+peaceful observation,descriptor,1
+peaceful pause,descriptor,1
+peaceful respite,descriptor,1
+peaceful seclusion,descriptor,1
+peaceful walk,descriptor,1
+pedestrian areas,descriptor,1
+pedestrian crosswalks,object,1
+pedestrian path,object,1
+pedestrian pathway,object,1
+pedestrian routes,object,1
+pedestrian walkway,object,1
+particular direction,descriptor,1
+people cycling,object,1
+people on bikes,object,1
+perceive,descriptor,1
+perceive the structure,descriptor,1
+perceived boundless,descriptor,1
+perceived breadth,descriptor,1
+perceived exploration,descriptor,1
+perceived fascination,descriptor,1
+perceived opportunities,descriptor,1
+perceived potential,descriptor,1
+perceived sense,descriptor,1
+peaceful engagement,descriptor,1
+peaceful contemplation,descriptor,1
+peaceful atmosphere,object,1
+paving pattern,object,1
+particularly captivating,descriptor,1
+partly cloudy sky,descriptor,1
+passive,descriptor,1
+passive engagement,descriptor,1
+passively engaging,descriptor,1
+patches,object,1
+patches of green grass,object,1
+patches of greenery,object,1
+patches of ground,object,1
+patches of unkempt greenery,object,1
+patchwork,descriptor,1
+patchy,descriptor,1
+path for cycling,object,1
+path for movement,descriptor,1
+path for walking,object,1
+pattern,descriptor,1
+patterned surfaces,object,1
+patterns,descriptor,1
+paved areas,descriptor,1
+paved courtyards,object,1
+paved pedestrian areas,object,1
+paved street,object,1
+pavilion,object,1
+overall appeal,descriptor,1
+overall aesthetic appeal,descriptor,1
+overall aesthetic,descriptor,1
+novel stimuli,descriptor,1
+not unique,descriptor,1
+not unusual,descriptor,1
+not varied,descriptor,1
+not vast openness,descriptor,1
+not visually engaging,descriptor,1
+noticeable spacing,descriptor,1
+noticeable structure,descriptor,1
+noticeable textures,descriptor,1
+novel discoveries,descriptor,1
+novel discovery,descriptor,1
+novel features,descriptor,1
+numerous branching paths,descriptor,1
+ongoing disruption,descriptor,1
+numerous diverging paths,descriptor,1
+obscure,descriptor,1
+obscured,descriptor,1
+obstructions,descriptor,1
+obstructions,object,1
+obvious,descriptor,1
+obvious diversions,descriptor,1
+obvious human activity,descriptor,1
+occupied space,descriptor,1
+office,object,1
+office area,object,1
+not truly secluded,descriptor,1
+not tranquil,descriptor,1
+not sufficiently varied,descriptor,1
+not strongly suggest vastness,descriptor,1
+not perfectly organized,descriptor,1
+not perfectly regimented,descriptor,1
+not perfectly uniform,descriptor,1
+not profoundly removed,descriptor,1
+not provide strong 'being away' effect,descriptor,1
+not rich with diverse elements,descriptor,1
+not rigidly symmetrical,descriptor,1
+not seamless,descriptor,1
+not seamlessly integrated,descriptor,1
+not significantly contributing,descriptor,1
+not stimulating,descriptor,1
+not striking,descriptor,1
+not strongly,descriptor,1
+not strongly convey,descriptor,1
+not strongly designed,descriptor,1
+not strongly draw attention,descriptor,1
+not strongly evoke a sense of being away,descriptor,1
+not strongly evoke a sense of vastness,descriptor,1
+not strongly fascinating,descriptor,1
+not strongly integrated,descriptor,1
+not strongly organic,descriptor,1
+not strongly restorative,descriptor,1
+not strongly suggest,descriptor,1
+office building,object,1
+ongoing traffic,descriptor,1
+outward view,descriptor,1
+organized physical arrangement,descriptor,1
+organic,descriptor,1
+organization of the space,descriptor,1
+organizational features,object,1
+organizational intent,descriptor,1
+organizational principle,descriptor,1
+organized coherence,descriptor,1
+organized feel,descriptor,1
+organized framework,descriptor,1
+organized landscaping,object,1
+organized layout,object,1
+organized nature,descriptor,1
+organized planning,descriptor,1
+onward,descriptor,1
+organized spaces,descriptor,1
+organized unity,descriptor,1
+ornamental,descriptor,1
+ornate,descriptor,1
+outdoor area,descriptor,1
+outdoor area,object,1
+outdoor campus,object,1
+outdoor equipment,object,1
+outdoor exercise equipment,object,1
+outdoor machinery,object,1
+outdoor seating areas,object,1
+ordinary life,descriptor,1
+ordinary concerns,descriptor,1
+orderly layout,object,1
+orderly fashion,descriptor,1
+open environment,descriptor,1
+open exploration potential,descriptor,1
+open horizons,descriptor,1
+open landscape,descriptor,1
+open parkland,object,1
+open paved areas,object,1
+open sports area,object,1
+open street,descriptor,1
+open street,object,1
+open vista,descriptor,1
+open vistas,descriptor,1
+open-air,descriptor,1
+open-ended,descriptor,1
+open-ended exploration,descriptor,1
+open-frame building,object,1
+open-road,object,1
+opportunities for observation,descriptor,1
+opportunities to move about,descriptor,1
+opportunity to explore,descriptor,1
+opportunity to get away,descriptor,1
+opportunity to step away,descriptor,1
+ordered arrangement,descriptor,1
+ordered natural beauty,descriptor,1
+moderate level of interest,descriptor,1
+moderate level,descriptor,1
+ground cover,object,1
+lack of barriers,descriptor,1
+irregular spread,descriptor,1
+island,object,1
+island of greenery,object,1
+isolation,descriptor,1
+jumbled,descriptor,1
+juxtaposed,descriptor,1
+lack distinct features,descriptor,1
+lack of,descriptor,1
+lack of activity,descriptor,1
+lack of aesthetically pleasing features,descriptor,1
+lack of attention,descriptor,1
+lack of calm,descriptor,1
+inviting order,descriptor,1
+lack of clearly defined natural elements,descriptor,1
+lack of clutter,descriptor,1
+lack of cohesive design,descriptor,1
+lack of defined boundaries,descriptor,1
+lack of distinct focal points,descriptor,1
+lack of distinct natural elements,descriptor,1
+lack of distinct natural features,descriptor,1
+lack of distinct points of focus,descriptor,1
+lack of distinctive features,descriptor,1
+lack of diverse activities,descriptor,1
+lack of diverse features,descriptor,1
+irregular arrangement,descriptor,1
+inviting movement,descriptor,1
+landscaping,descriptor,1
+interplay of nature and urban elements,descriptor,1
+intentional landscaping,descriptor,1
+intentionally organized,descriptor,1
+interconnected system,descriptor,1
+interesting aspects,descriptor,1
+interesting branching patterns,descriptor,1
+interesting detail,descriptor,1
+interesting discoveries,descriptor,1
+interesting elements,descriptor,1
+interesting lines,descriptor,1
+interesting structures,descriptor,1
+interesting things,descriptor,1
+intersecting roads,object,1
+invites extensive movement,descriptor,1
+intersections,object,1
+interspersed greenery,descriptor,1
+intricate design,descriptor,1
+intriguing pathways,descriptor,1
+intrinsic,descriptor,1
+intrusive elements,descriptor,1
+intuitive organization,descriptor,1
+intuitive sense of order,descriptor,1
+intuitive understanding,descriptor,1
+invitation to explore,descriptor,1
+invites,descriptor,1
+lack of dynamic activity,descriptor,1
+lack of dynamic features,descriptor,1
+lack of escape,descriptor,1
+lacks qualities,descriptor,1
+lacks,descriptor,1
+lacks diverse visual stimuli,descriptor,1
+lacks dramatic elements,descriptor,1
+lacks engaging elements,descriptor,1
+lacks focal points,descriptor,1
+lacks immediate distractions,descriptor,1
+lacks immediate urban stressors,descriptor,1
+lacks intricate details,descriptor,1
+lacks natural order,descriptor,1
+lacks novelty,descriptor,1
+lacks profound sense of place,descriptor,1
+lacks sense of escape,descriptor,1
+lack of expansive,descriptor,1
+lacks unique elements,descriptor,1
+laid out logically,descriptor,1
+lamp post,object,1
+landscape design,object,1
+landscape elements,object,1
+landscape features,descriptor,1
+landscaped area,object,1
+landscaped edges,object,1
+landscaped environment,descriptor,1
+landscaped environment,object,1
+landscaped verges,object,1
+lacking visual interest,descriptor,1
+lacking variety,descriptor,1
+lacking unique details,descriptor,1
+lacking striking features,descriptor,1
+lack of immediate boundaries,descriptor,1
+lack of immediate signs of work,descriptor,1
+lack of immediate urban distractions,descriptor,1
+lack of intentional design,descriptor,1
+lack of limits,descriptor,1
+lack of natural complexity,descriptor,1
+lack of open areas,descriptor,1
+lack of open vistas,descriptor,1
+lack of prominent activity,descriptor,1
+lack of spontaneous discovery,descriptor,1
+lack of stimulation,descriptor,1
+lack of strong natural features,descriptor,1
+lack of unique natural features,descriptor,1
+lack of urban hustle,descriptor,1
+lack of varied natural elements,descriptor,1
+lack of vastness,descriptor,1
+lack of visible crowds,descriptor,1
+lack of wildness,descriptor,1
+lacking aesthetic appeal,descriptor,1
+lacking complexity,descriptor,1
+lacking distinct elements,descriptor,1
+lacking diverse,descriptor,1
+lacking diversity,descriptor,1
+intentional arrangement,descriptor,1
+intensity of fascination,descriptor,1
+intensity,descriptor,1
+human intervention,descriptor,1
+highly stimulating,descriptor,1
+highly varied,descriptor,1
+hilly area,descriptor,1
+hints at activity,descriptor,1
+historically rich,descriptor,1
+holding attention,descriptor,1
+horizon,descriptor,1
+horizon line,object,1
+horizons,object,1
+human construction,object,1
+human infrastructure,descriptor,1
+human structures,object,1
+immediate restrictive boundaries,descriptor,1
+hustle,descriptor,1
+hustle of daily life,descriptor,1
+images,object,1
+immediate built environment,descriptor,1
+immediate comprehensibility,descriptor,1
+immediate daily demands,descriptor,1
+immediate distractions,descriptor,1
+immediate fascination,descriptor,1
+immediate frame,descriptor,1
+immediate free movement,descriptor,1
+immediate hustle,descriptor,1
+highly restorative,descriptor,1
+highly ordered,descriptor,1
+highly interesting,descriptor,1
+highly distinctive,descriptor,1
+ground surface,object,1
+guidance,descriptor,1
+guided,descriptor,1
+guides,descriptor,1
+haphazard arrangement,descriptor,1
+hard to be engaged,descriptor,1
+hard to engage,descriptor,1
+harmonious order,descriptor,1
+harmonious whole,descriptor,1
+heavy,descriptor,1
+heavy traffic,descriptor,1
+hidden details,descriptor,1
+high degree of perceived order,descriptor,1
+high degree of scope,descriptor,1
+high degree of visual complexity,descriptor,1
+high level,descriptor,1
+high level of fascination,descriptor,1
+high scope scores,descriptor,1
+high score,descriptor,1
+high score for coherence,descriptor,1
+higher likelihood of boredom,descriptor,1
+higher scope score,descriptor,1
+highly coherent,descriptor,1
+immediate outdoor elements,descriptor,1
+immediate stressors,descriptor,1
+intensely fascinating,descriptor,1
+institutional space,object,1
+industrial zone,object,1
+industrial-like,descriptor,1
+infinite exploration,descriptor,1
+infinite possibilities,descriptor,1
+infrastructure elements,object,1
+inherent organization,descriptor,1
+inherent wonder,descriptor,1
+institutional area,object,1
+institutional building facades,object,1
+institutional context,descriptor,1
+institutional functionality,descriptor,1
+institutional structures,object,1
+immediate urban context,descriptor,1
+institutional use,descriptor,1
+insulating,descriptor,1
+integrated structure,descriptor,1
+integrated urban space,descriptor,1
+integrated whole,descriptor,1
+integrates,descriptor,1
+intended design,descriptor,1
+intended order,descriptor,1
+intended to be organized,descriptor,1
+intensely capture attention,descriptor,1
+intensely engaging,descriptor,1
+industrial vehicles,object,1
+industrial surroundings,object,1
+industrial structures,object,1
+industrial materials,object,1
+immediate urban environment,descriptor,1
+immediate urban hustle,descriptor,1
+immediate vicinity,descriptor,1
+immediate visual frame,descriptor,1
+immediately clear,descriptor,1
+immersive experience,descriptor,1
+immersive retreat,descriptor,1
+implicit,descriptor,1
+implied context,descriptor,1
+imply,descriptor,1
+impose,descriptor,1
+impression of space,descriptor,1
+inaccessible,descriptor,1
+incomplete,descriptor,1
+inconsistencies,descriptor,1
+inconsistency,descriptor,1
+inconvenience,descriptor,1
+indications of space,descriptor,1
+indistinct,descriptor,1
+indoor environment,descriptor,1
+indoor environments,descriptor,1
+industrial architecture,object,1
+industrial elements,descriptor,1
+landscaped zones,object,1
+large boulder,object,1
+moderate feeling of being away,descriptor,1
+managed urban space,descriptor,1
+makes sense,descriptor,1
+man-made attractions,object,1
+man-made elements,object,1
+man-made materials,descriptor,1
+manageability,descriptor,1
+managed facility,object,1
+managed greenery,object,1
+managed landscape,descriptor,1
+managed nature,descriptor,1
+managed setting,descriptor,1
+managed space,object,1
+manicured boundaries,object,1
+main road,object,1
+manicured green areas,object,1
+manicured landscaping,object,1
+manicured nature,object,1
+manicured setting,descriptor,1
+manicured trees,object,1
+many,descriptor,1
+many cues,descriptor,1
+many things to notice,descriptor,1
+marked roadways,object,1
+marked spaces,object,1
+markings,descriptor,1
+main street,object,1
+machinery,object,1
+large enough,descriptor,1
+low 'being away' score,descriptor,1
+logically integrated,descriptor,1
+logically laid out,descriptor,1
+logically structured,descriptor,1
+lone,descriptor,1
+long line,descriptor,1
+long perspective,descriptor,1
+long straight road,object,1
+long stretch,descriptor,1
+long stretches,descriptor,1
+long tree-lined road,object,1
+long view,descriptor,1
+low activity level,descriptor,1
+lush green trees,object,1
+low capacity for holding interest,descriptor,1
+low coherence,descriptor,1
+low complexity,descriptor,1
+low degree of being away,descriptor,1
+low degree of coherence,descriptor,1
+low human presence,descriptor,1
+low level,descriptor,1
+low vehicle presence,descriptor,1
+low-rise buildings,object,1
+lower side,descriptor,1
+lush grass,object,1
+materials associated with building,object,1
+meandering,descriptor,1
+median,object,1
+minor fragmentation,descriptor,1
+mild sense of respite,descriptor,1
+milder,descriptor,1
+minimal engaging elements,descriptor,1
+minimal escape,descriptor,1
+minimal opportunities,descriptor,1
+minimal signs of human activity,descriptor,1
+minimal traffic,object,1
+minimal visible distractions,descriptor,1
+minor breaks,descriptor,1
+minor distractions,descriptor,1
+minor element,descriptor,1
+minor inconsistencies,descriptor,1
+memorable,descriptor,1
+minor points of attraction,descriptor,1
+minor points of focus,descriptor,1
+minor points of interest,descriptor,1
+minor points of visual detail,descriptor,1
+mix of architectural styles,descriptor,1
+mix of built and natural environments,descriptor,1
+mix of modern and older,descriptor,1
+mix of natural and urban elements,descriptor,1
+moderate away aspect,descriptor,1
+moderate degree of coherence,descriptor,1
+moderate fascination score,descriptor,1
+mild sense of fascination,descriptor,1
+mild sense of escape,descriptor,1
+mild sense of discovery,descriptor,1
+mild sense of activity,descriptor,1
+mental burdens,descriptor,1
+mental distance,descriptor,1
+mental integration,descriptor,1
+mental order,descriptor,1
+mental reprieve,descriptor,1
+mental shift,descriptor,1
+mental stressors,descriptor,1
+mentally disconnect,descriptor,1
+mentally disengaging,descriptor,1
+mentally recharge,descriptor,1
+mentally removed,descriptor,1
+mentally stepping away,descriptor,1
+metal shelving,object,1
+meticulous maintenance,descriptor,1
+meticulous organization,descriptor,1
+meticulously designed,descriptor,1
+meticulously planned,descriptor,1
+mid-rise buildings,object,1
+middle,descriptor,1
+mild distraction,descriptor,1
+mild exploration,descriptor,1
+mild fascination,descriptor,1
+mild intrigue,descriptor,1
+logical organization,descriptor,1
+logical order,descriptor,1
+logic,descriptor,1
+less likely to draw attention,descriptor,1
+leafy canopies,object,1
+leafy trees,object,1
+leisure activities,object,1
+less boring,descriptor,1
+less bounded,descriptor,1
+less clear,descriptor,1
+less cluttered,descriptor,1
+less demanding,descriptor,1
+less fascinating,descriptor,1
+less formal,descriptor,1
+less intentionally designed,descriptor,1
+less monotonous,descriptor,1
+lightly used,descriptor,1
+less of a refuge,descriptor,1
+less orderly,descriptor,1
+less perfectly coherent,descriptor,1
+less pristine,descriptor,1
+less pronounced,descriptor,1
+less rigidly organized,descriptor,1
+less structured,descriptor,1
+less unified,descriptor,1
+less varied natural elements,descriptor,1
+less-trafficked,descriptor,1
+levels,object,1
+leaf patterns,object,1
+leads into the distance,descriptor,1
+leading into the distance,descriptor,1
+leading away,descriptor,1
+large enough to explore,descriptor,1
+large enough to wander,descriptor,1
+large expanse,descriptor,1
+large green field,object,1
+large institutional buildings,object,1
+large modern building,object,1
+large modern buildings,object,1
+large number,descriptor,1
+large open area,object,1
+large sculpture,object,1
+large stadium,object,1
+large statue,object,1
+large tree,object,1
+large trees,object,1
+larger complex,descriptor,1
+larger context,descriptor,1
+larger natural landscape,descriptor,1
+larger spaces,descriptor,1
+larger than immediate perception,descriptor,1
+larger unexplored landscape,descriptor,1
+larger urban context,descriptor,1
+layered architecture,descriptor,1
+lead somewhere,descriptor,1
+light traffic,object,1
+likely present,descriptor,1
+living environment,descriptor,1
+linear nature,descriptor,1
+limited visual intrigue,descriptor,1
+limited visual stimulation,descriptor,1
+limited visual variety,descriptor,1
+limiting 'being away' aspect,descriptor,1
+limiting boundaries,descriptor,1
+limiting potential,descriptor,1
+limitless movement,descriptor,1
+limitlessly large,descriptor,1
+limits novelty,descriptor,1
+line of trees,object,1
+linear fashion,descriptor,1
+linear organization,descriptor,1
+limit fascination,descriptor,1
+linear path,descriptor,1
+linear path,object,1
+linear progression,descriptor,1
+linearity,descriptor,1
+lined trees,object,1
+lines of sight,object,1
+litter,object,1
+little inherent visual interest,descriptor,1
+little to capture or hold attention,descriptor,1
+little visual intrigue,descriptor,1
+little visual novelty,descriptor,1
+limited visual extent,descriptor,1
+limited visible features,descriptor,1
+limited visible extent,descriptor,1
+limited unique elements,descriptor,1
+limit of fascination,descriptor,1
+limit the feeling of boundless exploration,descriptor,1
+limit the sense of vastness,descriptor,1
+limited branching paths,descriptor,1
+limited capacity,descriptor,1
+limited captivating potential,descriptor,1
+limited direction,descriptor,1
+limited directions,descriptor,1
+limited distinctive features,descriptor,1
+limited exploration potential,descriptor,1
+limited extent,descriptor,1
+limited feeling,descriptor,1
+limited feeling of complete escape,descriptor,1
+limited feeling of extensive exploration possibilities,descriptor,1
+limited movement,descriptor,1
+limited number of visible people,descriptor,1
+limited pedestrian activity,descriptor,1
+limited perceived scope,descriptor,1
+limited perception,descriptor,1
+limited possibilities for exploration,descriptor,1
+limited possibility for exploration,descriptor,1
+limited presence,descriptor,1
+limited seclusion,descriptor,1
+modest level of captivation,descriptor,1

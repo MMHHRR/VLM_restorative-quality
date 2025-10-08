@@ -1,0 +1,1458 @@
+keyword,count,type
+buildings,653,object
+organized,477,descriptor
+clear,455,descriptor
+trees,444,object
+pathways,405,object
+sidewalks,350,object
+landscaping,274,object
+coherence,233,descriptor
+roads,224,object
+sense of order,213,descriptor
+structured,209,descriptor
+well-defined,208,descriptor
+orderly,201,descriptor
+road,192,object
+greenery,189,object
+consistent,174,descriptor
+planned,149,descriptor
+street,143,object
+arrangement,126,descriptor
+easy to understand,123,descriptor
+predictability,121,descriptor
+manicured,105,descriptor
+well-maintained,100,descriptor
+organization,95,descriptor
+green spaces,94,object
+order,94,descriptor
+logical,91,descriptor
+modern,84,descriptor
+proper place,82,descriptor
+predictable,68,descriptor
+parking areas,62,object
+layout,62,descriptor
+street layout,60,object
+spatial arrangement,56,descriptor
+clearly defined,56,descriptor
+integrated,55,descriptor
+coherent,54,descriptor
+streetlights,54,object
+neatly trimmed,52,descriptor
+distinct,50,descriptor
+designated place,49,descriptor
+understandable,48,descriptor
+evenly spaced,48,descriptor
+well-organized,47,descriptor
+clear order,45,descriptor
+clear sense of order,44,descriptor
+paths,44,object
+clear organization,43,descriptor
+scattered,42,descriptor
+intentional,42,descriptor
+structure,39,descriptor
+building,38,object
+landscape,38,object
+neat,38,descriptor
+elements,37,object
+neatly arranged,36,descriptor
+hedges,35,object
+arranged,33,descriptor
+bushes,33,object
+uniform,32,descriptor
+easy to comprehend,32,descriptor
+neatly maintained,31,descriptor
+physical arrangement,29,descriptor
+clear organizational structure,29,descriptor
+environment,29,object
+natural elements,29,object
+defined,29,descriptor
+architecture,28,object
+streets,28,object
+lanes,27,object
+consistent architectural style,27,descriptor
+functional,27,descriptor
+moderate,26,descriptor
+road markings,26,object
+well-planned,25,descriptor
+landscaped areas,25,object
+designated,25,descriptor
+pathway,24,object
+sense of organization,24,descriptor
+visual order,24,descriptor
+grass,23,object
+intentional design,23,descriptor
+debris,23,object
+grassy areas,23,object
+degree of order,23,descriptor
+parking spaces,22,object
+spatial organization,22,descriptor
+paved roads,21,object
+varied,21,descriptor
+paved areas,21,object
+clear separation,21,descriptor
+deliberate,21,descriptor
+infrastructure,21,object
+lawns,20,object
+harmonious,20,descriptor
+symmetrical,20,descriptor
+discernible,20,descriptor
+strong sense of order,19,descriptor
+vegetation,19,object
+green areas,19,object
+natural,19,descriptor
+architectural style,19,object
+clear layout,18,descriptor
+intended place,18,descriptor
+clear lines,18,descriptor
+organizational structure,18,descriptor
+canal,18,object
+well-structured,17,descriptor
+easily understandable,17,descriptor
+paved,17,descriptor
+visible,16,descriptor
+neatly planted,16,descriptor
+building structures,16,object
+aligned,15,descriptor
+ordered,15,descriptor
+deliberate design,15,descriptor
+lane markings,15,object
+disjointed,15,descriptor
+road layout,15,object
+systematic,14,descriptor
+planned layout,14,descriptor
+campus,14,object
+bicycles,14,object
+path,14,object
+materials,14,object
+sense of coherence,13,descriptor
+disorganized,13,descriptor
+shrubs,13,object
+parallel,13,descriptor
+clear structure,13,descriptor
+navigate,13,descriptor
+overall arrangement,13,descriptor
+architectural styles,13,object
+organized layout,13,descriptor
+architectural elements,13,object
+construction materials,12,object
+moderate coherence,12,descriptor
+parking lot,12,object
+clear division,12,descriptor
+simple,12,descriptor
+maintained,12,descriptor
+uniformly designed,12,descriptor
+layout,11,object
+pedestrian paths,11,object
+bordered,11,descriptor
+orderliness,11,descriptor
+walkways,11,object
+comprehensibility,11,descriptor
+residential buildings,11,object
+easy to follow,11,descriptor
+unkempt,11,descriptor
+structured manner,11,descriptor
+paved road,11,object
+intersection,11,object
+easy to navigate,10,descriptor
+understandability,10,descriptor
+urban landscape,10,object
+space,10,object
+straight,10,descriptor
+planned environment,10,descriptor
+strong sense,10,descriptor
+proper places,10,descriptor
+cohesive,10,descriptor
+natural elements,10,descriptor
+logical arrangement,10,descriptor
+fit together,9,descriptor
+ease of understanding,9,descriptor
+parked vehicles,9,object
+visual flow,9,descriptor
+orderly arrangement,9,descriptor
+designated places,9,descriptor
+perfect,9,descriptor
+seamless,9,descriptor
+clarity,9,descriptor
+areas,9,object
+consistent placement,9,descriptor
+linear,9,descriptor
+paved walkways,9,object
+perfect coherence,9,descriptor
+planned development,9,descriptor
+disrupt,9,descriptor
+utilitarian,9,descriptor
+tidiness,9,descriptor
+vehicles,9,object
+grounds,9,object
+lampposts,9,object
+good degree of order,8,descriptor
+structures,8,object
+reasonable degree of order,8,descriptor
+paved paths,8,object
+easy to perceive,8,descriptor
+moderately coherent,8,descriptor
+juxtaposition,8,descriptor
+proper,8,descriptor
+spatial relationships,8,descriptor
+uneven,8,descriptor
+clear delineation,8,descriptor
+fragmented,8,descriptor
+repetition,8,descriptor
+construction debris,8,object
+overall coherence,8,descriptor
+bridge,8,object
+bordering,7,descriptor
+uniformity,7,descriptor
+organized structure,7,descriptor
+seamless organization,7,descriptor
+discernible pattern,7,descriptor
+modern buildings,7,object
+easily understood,7,descriptor
+apartment buildings,7,object
+traffic cones,7,object
+monotonous,7,descriptor
+purpose,7,descriptor
+moderate level of coherence,7,descriptor
+strong,7,descriptor
+parked cars,7,object
+unified,7,descriptor
+understanding,7,descriptor
+clear arrangement,7,descriptor
+sports court,7,object
+urban infrastructure,7,object
+street lamps,7,object
+logically placed,7,descriptor
+prominent,7,descriptor
+consistent design,7,descriptor
+architectural style,7,descriptor
+pedestrian areas,7,object
+flow,7,descriptor
+building facades,7,object
+different elements,7,descriptor
+delineated,7,descriptor
+paved pathways,7,object
+symmetrical layout,7,descriptor
+strong coherence,7,descriptor
+uniformly planted,6,descriptor
+everything has its place,6,descriptor
+clean,6,descriptor
+mix,6,descriptor
+harmony,6,descriptor
+visual experience,6,descriptor
+terrain,6,object
+organized placement,6,descriptor
+high coherence,6,descriptor
+sense of structure,6,descriptor
+perfect sense of order,6,descriptor
+discernible order,6,descriptor
+lack of clear order,6,descriptor
+easily navigable,6,descriptor
+placement,6,descriptor
+overall layout,6,descriptor
+lines,6,object
+neatly paved,6,descriptor
+visual harmony,6,descriptor
+intended,6,descriptor
+scattering,6,descriptor
+central,6,descriptor
+lane dividers,6,object
+disarray,6,descriptor
+leaves,6,object
+lake,6,object
+understandable layout,6,descriptor
+connected,5,descriptor
+built environment,5,object
+sidewalk,5,object
+designed,5,descriptor
+nature,5,object
+urban environment,5,object
+structured environment,5,descriptor
+panoramic,5,descriptor
+intentionally designed,5,descriptor
+reasonable degree of coherence,5,descriptor
+situated,5,descriptor
+fallen leaves,5,object
+wide,5,descriptor
+mixed,5,descriptor
+physical layout,5,descriptor
+organized arrangement,5,descriptor
+neatly organized,5,descriptor
+distinct areas,5,descriptor
+maintenance,5,descriptor
+planted areas,5,object
+sports courts,5,object
+visually organized,5,descriptor
+stadium,5,object
+logical manner,5,descriptor
+meticulously maintained,5,descriptor
+good coherence,5,descriptor
+logical flow,5,descriptor
+aesthetically pleasing,5,descriptor
+integration,5,descriptor
+spatial layout,5,descriptor
+transition,5,descriptor
+cars,5,object
+logically arranged,5,descriptor
+construction elements,5,object
+intentionally arranged,5,descriptor
+ease,5,descriptor
+area,5,object
+fences,5,object
+strong sense of coherence,5,descriptor
+campus layout,5,object
+pavement,5,object
+urban elements,5,object
+regular,5,descriptor
+urban structures,5,object
+intentionally placed,4,descriptor
+high degree of order,4,descriptor
+laid out,4,descriptor
+roadways,4,object
+contrast,4,descriptor
+visual coherence,4,descriptor
+easy comprehension,4,descriptor
+easy navigation,4,descriptor
+diverging,4,descriptor
+walkway,4,object
+bins,4,object
+high degree of coherence,4,descriptor
+landscaped,4,descriptor
+chaotic,4,descriptor
+planning,4,descriptor
+underlying structure,4,descriptor
+paving stones,4,object
+clean lines,4,descriptor
+water features,4,object
+symmetrical placement,4,descriptor
+physical order,4,descriptor
+moderate score,4,descriptor
+easy-to-understand,4,descriptor
+linear arrangement,4,descriptor
+parking,4,object
+functional areas,4,object
+designated parking areas,4,object
+surrounding,4,descriptor
+complex,4,descriptor
+urban setting,4,object
+organizational,4,descriptor
+moderate degree of order,4,descriptor
+yellow lines,4,object
+clearly delineated,4,descriptor
+ease of navigation,4,descriptor
+comprehensible,4,descriptor
+trimmed,4,descriptor
+well-integrated,4,descriptor
+visual orderliness,4,descriptor
+repeating,4,descriptor
+construction zone,4,object
+markings,4,object
+overall impression,4,descriptor
+regularly spaced,4,descriptor
+structured arrangement,4,descriptor
+structured appearance,4,descriptor
+easily discernible,4,descriptor
+urban layout,4,descriptor
+orderly placement,4,descriptor
+urban planning,4,descriptor
+organized design,4,descriptor
+predictable arrangement,4,descriptor
+neatly laid out,4,descriptor
+not perfectly seamless,4,descriptor
+fencing,4,object
+pedestrian crossings,4,object
+planters,4,object
+sports field,4,object
+tree lines,4,object
+logical layout,4,descriptor
+varying,4,descriptor
+intuitive,3,descriptor
+overall organization,3,descriptor
+physical coherence,3,descriptor
+water feature,3,object
+disruption,3,descriptor
+vehicular paths,3,object
+calm,3,descriptor
+planted trees,3,object
+reasonably organized,3,descriptor
+water,3,object
+well-managed,3,descriptor
+uniformly structured,3,descriptor
+planned development,3,object
+tree-lined roads,3,object
+logical structure,3,descriptor
+consistent planting,3,descriptor
+consistent spacing,3,descriptor
+interspersed,3,descriptor
+unified organization,3,descriptor
+haphazard,3,descriptor
+campus street,3,object
+visual organization,3,descriptor
+easy understanding,3,descriptor
+logical placement,3,descriptor
+natural flow,3,descriptor
+symmetrical arrangement,3,descriptor
+construction site,3,object
+general organization,3,descriptor
+manicured areas,3,object
+harmoniously arranged,3,descriptor
+high coherence score,3,descriptor
+clear boundaries,3,descriptor
+moderately easy,3,descriptor
+built,3,descriptor
+flanked,3,descriptor
+landmarks,3,object
+appropriate,3,descriptor
+place,3,descriptor
+design,3,descriptor
+comprehend,3,descriptor
+construction,3,object
+streetscape,3,object
+urban,3,descriptor
+ground,3,object
+parking spots,3,object
+discernible flow,3,descriptor
+paved path,3,object
+urban layout,3,object
+intended places,3,descriptor
+parking bays,3,object
+temporary,3,descriptor
+road layouts,3,object
+disconnected,3,descriptor
+organized manner,3,descriptor
+less cohesive,3,descriptor
+comprehension,3,descriptor
+complexity,3,descriptor
+disrupts,3,descriptor
+panoramic view,3,object
+neatly lined,3,descriptor
+thoughtfully designed,3,descriptor
+expected,3,descriptor
+separation,3,descriptor
+navigate mentally,3,descriptor
+landscaped greenery,3,object
+neatness,3,descriptor
+purposeful,3,descriptor
+placed,3,descriptor
+water body,3,object
+overall sense of order,3,descriptor
+disorder,3,descriptor
+highly organized,3,descriptor
+regularity,3,descriptor
+easy to grasp,3,descriptor
+architectural styles,3,descriptor
+seamlessly integrated,3,descriptor
+less manicured,3,descriptor
+neatly manicured,3,descriptor
+consistent aesthetic,2,descriptor
+well-organized environment,2,descriptor
+moderately organized,2,descriptor
+extensive,2,descriptor
+seamless integration,2,descriptor
+less coherent,2,descriptor
+consistent arrangement,2,descriptor
+urban landscape,2,descriptor
+industrial,2,descriptor
+institutional buildings,2,object
+institutional,2,descriptor
+neatly aligned,2,descriptor
+street markings,2,object
+archway,2,object
+structure,2,object
+marked,2,descriptor
+intention,2,descriptor
+variations,2,descriptor
+unity,2,descriptor
+linear structure,2,descriptor
+deeply organized,2,descriptor
+aesthetic,2,descriptor
+well-marked,2,descriptor
+harmoniously,2,descriptor
+sports area,2,object
+logically,2,descriptor
+street network,2,object
+lining,2,descriptor
+intricate,2,descriptor
+signage,2,object
+managed,2,descriptor
+maintaining,2,descriptor
+campus,2,descriptor
+benches,2,object
+unfinished structures,2,object
+urban planning,2,object
+distinct directions,2,descriptor
+clear sense of organization,2,descriptor
+coherence score,2,descriptor
+harmonious integration,2,descriptor
+landscaped median,2,object
+stairs,2,object
+lack of organization,2,descriptor
+utilitarian nature,2,descriptor
+clearly laid out,2,descriptor
+coherent design,2,descriptor
+disorganization,2,descriptor
+sense of purpose,2,descriptor
+architectural design,2,object
+road divisions,2,object
+discernible layout,2,descriptor
+coherent environment,2,descriptor
+landmark,2,object
+borders,2,object
+signs,2,object
+unevenness,2,descriptor
+belong,2,descriptor
+logical progression,2,descriptor
+banners,2,object
+textures,2,object
+ongoing construction,2,descriptor
+building architecture,2,object
+intentional planning,2,descriptor
+level of order,2,descriptor
+moderately high,2,descriptor
+clutter,2,descriptor
+lined up,2,descriptor
+urban street,2,object
+functional order,2,descriptor
+diverse,2,descriptor
+moderate to high,2,descriptor
+moderate level of order,2,descriptor
+similar,2,descriptor
+modern architectural style,2,descriptor
+consistent maintenance,2,descriptor
+fit,2,descriptor
+slightly detract,2,descriptor
+good level of coherence,2,descriptor
+built structures,2,object
+orderly environment,2,descriptor
+less integrated,2,descriptor
+scooters,2,object
+intersecting,2,descriptor
+apartment blocks,2,object
+building lines,2,object
+residential area,2,object
+visual clutter,2,descriptor
+straight lines,2,descriptor
+urban space,2,object
+urban design,2,object
+in its place,2,descriptor
+regular pattern,2,descriptor
+stability,2,descriptor
+distant buildings,2,object
+designated areas,2,descriptor
+body of water,2,object
+clearly organized,2,descriptor
+tidy,2,descriptor
+planned design,2,descriptor
+modern building,2,object
+straightforward,2,descriptor
+moderate coherence score,2,descriptor
+uniform architectural style,2,descriptor
+barriers,2,object
+crosswalks,2,object
+cracked,2,descriptor
+minor disarray,2,descriptor
+perceived coherence,2,descriptor
+direction,2,descriptor
+clear architectural lines,2,descriptor
+uniform in design,2,descriptor
+enhanced,2,descriptor
+follows a pattern,2,descriptor
+slight,2,descriptor
+foliage,2,object
+urban context,2,descriptor
+inherent order,2,descriptor
+easy comprehensibility,2,descriptor
+easy,2,descriptor
+truck,2,object
+positioned,2,descriptor
+overall design,2,descriptor
+disharmony,2,descriptor
+tree-lined paths,2,object
+manicured lawns,2,object
+scattered placement,2,descriptor
+has its place,2,descriptor
+clear lines of sight,2,descriptor
+logical pattern,2,descriptor
+residential complex,2,object
+consistent upkeep,2,descriptor
+bicycle parking,2,object
+road network,2,object
+open spaces,2,object
+deliberate planning,2,descriptor
+paved pathway,2,object
+perfectly ordered,2,descriptor
+components,2,object
+everything seems to have its place,2,descriptor
+well-ordered,2,descriptor
+industrial elements,2,object
+background,2,descriptor
+developing,2,descriptor
+road lines,2,object
+developed,2,descriptor
+less immediately understandable,2,descriptor
+winding,2,descriptor
+distant,2,descriptor
+less perfectly organized,2,descriptor
+undergrowth,2,object
+natural order,2,descriptor
+planted,2,descriptor
+clear physical arrangement,2,descriptor
+large,2,descriptor
+different components,2,descriptor
+parked bicycles,2,object
+paving,2,object
+curving,2,descriptor
+landscaped medians,2,object
+sculpture,2,object
+urban green space,2,object
+predictable structure,2,descriptor
+recreational,2,descriptor
+arrangement of elements,2,descriptor
+sports facilities,2,object
+sprawling,2,descriptor
+built environments,2,descriptor
+naturalistic,2,descriptor
+seamless coherence,2,descriptor
+central path,2,object
+unified order,2,descriptor
+designed environment,2,descriptor
+street lighting,2,object
+paving patterns,2,object
+visual composition,2,descriptor
+wide panorama,2,descriptor
+balanced,2,descriptor
+less organized,2,descriptor
+lane markers,2,object
+paved walkway,2,object
+detract,2,descriptor
+uniformly spaced,2,descriptor
+minor,2,descriptor
+clear progression,2,descriptor
+clear divisions,2,descriptor
+integrate,2,descriptor
+organically grown,2,descriptor
+intuitively grasp,2,descriptor
+systematic arrangement,2,descriptor
+easily comprehensible,2,descriptor
+consistent presence,2,descriptor
+consistent architectural styles,2,descriptor
+intuitively organized,2,descriptor
+overall order,2,descriptor
+patterned,2,descriptor
+unfinished,2,descriptor
+perfectly organized,2,descriptor
+consistent manner,2,descriptor
+navigate visually,2,descriptor
+curbs,2,object
+thoughtfully arranged,2,descriptor
+unique features,1,descriptor
+visual consistency,1,descriptor
+easy navigability,1,descriptor
+different building styles,1,descriptor
+functionalities,1,descriptor
+uniform maintenance,1,descriptor
+architectural details,1,object
+deeply understandable,1,descriptor
+diverge,1,descriptor
+not particularly commanding,1,descriptor
+integrates,1,descriptor
+not exceptionally complex,1,descriptor
+general arrangement,1,descriptor
+neat arrangement,1,descriptor
+function together,1,descriptor
+different structures,1,descriptor
+street features,1,object
+logical order,1,descriptor
+visible order,1,descriptor
+easily digestible,1,descriptor
+pedestrian walkways,1,object
+road surface,1,object
+road systems,1,object
+smoother,1,descriptor
+soil,1,object
+marked spaces,1,object
+naturalized,1,descriptor
+varying density,1,descriptor
+slightly irregular arrangement,1,descriptor
+less rigidly organized,1,descriptor
+design elements,1,object
+clearly defines,1,descriptor
+verges,1,object
+planned urban setting,1,descriptor
+larger,1,descriptor
+haphazard arrangement,1,descriptor
+waterway,1,object
+anticipate,1,descriptor
+ease in navigating,1,descriptor
+intentionally organized,1,descriptor
+academic buildings,1,object
+moderate perception,1,descriptor
+exceptionally clear,1,descriptor
+uniformly constructed,1,descriptor
+not strongly integrated,1,descriptor
+landscaped environment,1,descriptor
+clear physical order,1,descriptor
+defined spaces,1,descriptor
+naturally cohesive,1,descriptor
+logic,1,descriptor
+clear central focus,1,descriptor
+thoughtful planning,1,descriptor
+organized nature,1,descriptor
+everything seeming to have its place,1,descriptor
+manicured bushes,1,object
+visual landscape,1,descriptor
+less unified,1,descriptor
+lack of diverse features,1,descriptor
+clear narrative,1,descriptor
+easily decipherable,1,descriptor
+degree of organization,1,descriptor
+complex structure,1,descriptor
+cohesive narrative,1,descriptor
+temporary disruption,1,descriptor
+repeated patterns,1,descriptor
+clear conceptual framework,1,descriptor
+predictable manner,1,descriptor
+commercial structures,1,object
+less engaging,1,descriptor
+intuitive sense of order,1,descriptor
+orderly appearance,1,descriptor
+slightly less intuitive,1,descriptor
+high score for coherence,1,descriptor
+marked parking spaces,1,object
+levels,1,object
+repetitive,1,descriptor
+singular-purpose,1,descriptor
+easily understandable layout,1,descriptor
+understand,1,descriptor
+concrete area,1,object
+constructed,1,descriptor
+mix of architectural styles,1,descriptor
+unified perception,1,descriptor
+reasonable coherence,1,descriptor
+garden beds,1,object
+temporary fencing,1,object
+perceive,1,descriptor
+logically laid out,1,descriptor
+well-defined edges,1,descriptor
+amenities,1,object
+curves,1,descriptor
+patches of ground,1,object
+difficult to perceive,1,descriptor
+apartments,1,object
+bollards,1,object
+promotes understanding,1,descriptor
+vast expanse,1,descriptor
+urban development,1,object
+sharp,1,descriptor
+reasonable level of order,1,descriptor
+architecturally consistent,1,descriptor
+entrance gates,1,object
+thoroughfares,1,object
+not strongly organic,1,descriptor
+park setting,1,descriptor
+feeling that everything has its place,1,descriptor
+fork in the road,1,object
+clear sense of layout,1,descriptor
+integrated structure,1,descriptor
+tiered seating,1,object
+entry point,1,object
+functions,1,descriptor
+traffic control elements,1,object
+functional elements,1,object
+structured placement,1,descriptor
+urban design,1,descriptor
+predictable layout,1,descriptor
+water's edge,1,object
+bridge railings,1,object
+ease in understanding,1,descriptor
+space's arrangement,1,descriptor
+facilities,1,object
+boundary,1,object
+fence,1,object
+wear,1,descriptor
+building's architecture,1,object
+stone fences,1,object
+repetitive design,1,descriptor
+overall scene,1,descriptor
+easy to process,1,descriptor
+unique,1,descriptor
+bicycle racks,1,object
+building styles,1,object
+roadside,1,object
+untidy,1,descriptor
+organizational features,1,object
+park area,1,object
+somewhat organized,1,descriptor
+cones,1,object
+roadsides,1,object
+seamlessly harmonious,1,descriptor
+functional design,1,descriptor
+bridges,1,object
+seating areas,1,object
+linear nature,1,descriptor
+residential blocks,1,object
+street furniture,1,object
+straightforward layout,1,descriptor
+brick planters,1,object
+parallel lines,1,descriptor
+ordered arrangement,1,descriptor
+makes sense,1,descriptor
+planted sections,1,object
+residential building,1,object
+developed areas,1,descriptor
+commercial building,1,object
+organizational intent,1,descriptor
+mix of natural and urban elements,1,descriptor
+planned community,1,descriptor
+road lanes,1,object
+pedestrian path,1,object
+navigate the space,1,descriptor
+reasonable level of coherence,1,descriptor
+sense of comprehensibility,1,descriptor
+various,1,descriptor
+natural setting,1,object
+different,1,descriptor
+perfect organization,1,descriptor
+field markings,1,object
+function,1,descriptor
+sense of orderliness,1,descriptor
+stadium seating areas,1,object
+adjacent,1,descriptor
+variability,1,descriptor
+good organization,1,descriptor
+visible progression,1,descriptor
+traffic control systems,1,object
+perfect sense of organization,1,descriptor
+unmanaged,1,descriptor
+piles of bricks,1,object
+dense,1,descriptor
+connection,1,descriptor
+degree of planning,1,descriptor
+planned structure,1,descriptor
+rightful place,1,descriptor
+pillars,1,object
+feeling of order,1,descriptor
+moderate to high degree of coherence,1,descriptor
+consistent layout,1,descriptor
+perceive the structure,1,descriptor
+functional zones,1,object
+parking area,1,object
+visual,1,descriptor
+identical,1,descriptor
+lack of,1,descriptor
+institutional setting,1,descriptor
+basic layout,1,descriptor
+visually harmonious,1,descriptor
+interconnected system,1,descriptor
+not perfectly organized,1,descriptor
+structured urban environment,1,descriptor
+landscape elements,1,object
+bamboo,1,object
+natural element,1,descriptor
+paved surfaces,1,object
+striking,1,descriptor
+island,1,object
+overall organizational principle,1,descriptor
+clear distinction,1,descriptor
+sense of elements,1,descriptor
+deep sense of order,1,descriptor
+consistent architecture,1,descriptor
+reasonable sense of order,1,descriptor
+transitional,1,descriptor
+slight inconsistency,1,descriptor
+naturally arranged,1,descriptor
+urban elements,1,descriptor
+patchy,1,descriptor
+inconsistencies,1,descriptor
+visual element,1,descriptor
+image,1,object
+less perfectly coherent,1,descriptor
+infrastructure elements,1,object
+arrangement of the space,1,descriptor
+building design,1,object
+parking signs,1,object
+delineation,1,descriptor
+street layouts,1,object
+power lines,1,object
+evenly distributed,1,descriptor
+discernible organizational principle,1,descriptor
+strong narrative,1,descriptor
+complement,1,descriptor
+segmentation,1,descriptor
+not perfectly integrated,1,descriptor
+mixture,1,descriptor
+bricks,1,object
+present,1,descriptor
+modern style,1,descriptor
+fenced sports field,1,object
+visual logic,1,descriptor
+geometric,1,descriptor
+patches of greenery,1,object
+visually coherent,1,descriptor
+guidance,1,descriptor
+visible effort,1,descriptor
+varied styles,1,descriptor
+advertisements,1,object
+tree bases,1,object
+parked items,1,object
+visual impact,1,descriptor
+limited,1,descriptor
+urban background,1,object
+presence,1,descriptor
+slightly uneven,1,descriptor
+unfinished areas,1,object
+predictable pattern,1,descriptor
+organized coherence,1,descriptor
+clear path,1,descriptor
+consistent style,1,descriptor
+less orderly,1,descriptor
+not complex,1,descriptor
+harmonious whole,1,descriptor
+visual fragmentation,1,descriptor
+natural landscaping,1,object
+ongoing,1,descriptor
+mix of built and natural environments,1,descriptor
+work,1,object
+effortless coherence,1,descriptor
+fit well together,1,descriptor
+pavements,1,object
+situated logically,1,descriptor
+overall sense of organization,1,descriptor
+thoughtfully spaced,1,descriptor
+clear urban layout,1,descriptor
+basic structure,1,descriptor
+unified arrangement,1,descriptor
+urban fabric,1,object
+organized framework,1,descriptor
+noticeable spacing,1,descriptor
+structured layout,1,descriptor
+regular spacing,1,descriptor
+road surfaces,1,object
+background buildings,1,object
+neat rows,1,descriptor
+strong order,1,descriptor
+not rigidly symmetrical,1,descriptor
+clear pathways,1,descriptor
+defined green spaces,1,descriptor
+architectural structure,1,descriptor
+spatial,1,descriptor
+systematic manner,1,descriptor
+highly coherent,1,descriptor
+visual regularity,1,descriptor
+condition,1,descriptor
+complements,1,descriptor
+deliberate placement,1,descriptor
+deliberate arrangement,1,descriptor
+well-spaced,1,descriptor
+structured development,1,object
+stark,1,descriptor
+intuitive organization,1,descriptor
+tactile paths,1,object
+visual structure,1,descriptor
+clear divisions of space,1,descriptor
+landscaped verges,1,object
+different directions,1,descriptor
+slightly varied styles,1,descriptor
+cohesive design,1,descriptor
+mental order,1,descriptor
+white building,1,object
+unified structure,1,descriptor
+spaced,1,descriptor
+well-kept,1,descriptor
+rows,1,descriptor
+ongoing disruption,1,descriptor
+narrative,1,descriptor
+traffic management,1,descriptor
+landscaping elements,1,object
+domed building,1,object
+moderate level of organization,1,descriptor
+moderately easy to understand,1,descriptor
+somewhat orderly,1,descriptor
+varying heights,1,descriptor
+infrastructure,1,descriptor
+generally maintained,1,descriptor
+sightlines,1,object
+moderate degree of coherence,1,descriptor
+linear fashion,1,descriptor
+slightly chaotic,1,descriptor
+good urban planning,1,descriptor
+basic,1,descriptor
+consistent use,1,descriptor
+obvious,1,descriptor
+memorable,1,descriptor
+planting,1,object
+natural surroundings,1,descriptor
+sections of the landscape,1,object
+vehicular paths,1,descriptor
+reinforcing,1,descriptor
+foreground,1,descriptor
+river,1,object
+sports fields,1,object
+coherent order,1,descriptor
+balls,1,object
+pedestrian areas,1,descriptor
+logically integrated,1,descriptor
+clear separations,1,descriptor
+seamless order,1,descriptor
+move,1,descriptor
+temporary barriers,1,object
+edges,1,object
+understandable space,1,descriptor
+profound,1,descriptor
+landscaped zones,1,object
+disruptive,1,descriptor
+uniform design,1,descriptor
+visual continuity,1,descriptor
+urban planning logic,1,descriptor
+varied architectural details,1,descriptor
+intended order,1,descriptor
+rectangular,1,descriptor
+consistent modern architectural style,1,descriptor
+decent level of order,1,descriptor
+not immediately clear,1,descriptor
+work-in-progress,1,descriptor
+seating,1,object
+planned arrangement,1,descriptor
+discernible arrangement,1,descriptor
+less structured,1,descriptor
+slight contrast,1,descriptor
+structured urban features,1,descriptor
+symmetrically arranged,1,descriptor
+not perfectly harmonious,1,descriptor
+strong feeling,1,descriptor
+manicured greenery,1,object
+structural coherence,1,descriptor
+inconsistency,1,descriptor
+landscaped area,1,object
+generic,1,descriptor
+industrial building,1,object
+cell tower,1,object
+disjointed appearance,1,descriptor
+natural place,1,descriptor
+physical organization,1,descriptor
+facade,1,object
+patterned surfaces,1,object
+man-made elements,1,object
+disordered,1,descriptor
+pedestrian crosswalks,1,object
+slight disarray,1,descriptor
+uniform architectural styles,1,descriptor
+apparent,1,descriptor
+intricate design,1,descriptor
+inherent organization,1,descriptor
+basic functionality,1,descriptor
+consistent building design,1,descriptor
+thoughtful urban planning,1,descriptor
+visible hierarchy,1,descriptor
+structured greenery,1,object
+neatly defined,1,descriptor
+spatially coherent,1,descriptor
+simple to navigate,1,descriptor
+meticulous maintenance,1,descriptor
+lack of cohesive design,1,descriptor
+dry,1,descriptor
+not exceptionally ordered,1,descriptor
+clear planning,1,descriptor
+discernible system,1,descriptor
+high degree of perceived order,1,descriptor
+each element has its place,1,descriptor
+green belts,1,object
+evident,1,descriptor
+clear visual structure,1,descriptor
+predictable organization,1,descriptor
+bike lanes,1,object
+roundabout,1,object
+orderly fashion,1,descriptor
+young,1,descriptor
+lack,1,descriptor
+sense,1,descriptor
+subtle variations,1,descriptor
+juxtaposed,1,descriptor
+unifying design,1,descriptor
+easily discernible order,1,descriptor
+piecemeal,1,descriptor
+boundaries,1,descriptor
+entrances,1,object
+not striking,1,descriptor
+not easily decipherable,1,descriptor
+construction vehicle,1,object
+tiles,1,object
+systematically placed,1,descriptor
+low degree of coherence,1,descriptor
+thoughtfully organized,1,descriptor
+building structure,1,object
+road structures,1,object
+compelling,1,descriptor
+moderately clear,1,descriptor
+lacks profound sense of place,1,descriptor
+lacks natural order,1,descriptor
+environments,1,object
+visible elements,1,descriptor
+state of transition,1,descriptor
+disrepair,1,descriptor
+urban area,1,object
+functionality,1,descriptor
+natural coherence,1,descriptor
+artistic coherence,1,descriptor
+thoughtful,1,descriptor
+landscapes,1,object
+panoramic nature,1,descriptor
+clear visual narrative,1,descriptor
+not seamlessly integrated,1,descriptor
+slightly disjointed,1,descriptor
+not strongly designed,1,descriptor
+intuitive understanding,1,descriptor
+unified physical arrangement,1,descriptor
+site,1,object
+bordering elements,1,object
+seamlessly,1,descriptor
+linear organization,1,descriptor
+dominant element,1,descriptor
+road networks,1,object
+imposing,1,descriptor
+chaotic element,1,descriptor
+dominate,1,descriptor
+fallen tree,1,object
+gravel,1,object
+aesthetic harmony,1,descriptor
+inviting order,1,descriptor
+intended design,1,descriptor
+undeveloped,1,descriptor
+minor inconsistencies,1,descriptor
+basic structural logic,1,descriptor
+building materials,1,object
+low coherence,1,descriptor
+central dividing strip,1,object
+lack of intentional design,1,descriptor
+manageability,1,descriptor
+spread out,1,descriptor
+consistently designed,1,descriptor
+concrete surfaces,1,object
+aesthetically cohesive,1,descriptor
+neatly landscaped,1,descriptor
+perfect sense,1,descriptor
+unstructured,1,descriptor
+sky,1,object
+statue,1,object
+physical structure,1,descriptor
+recreational space,1,object
+garage doors,1,object
+well organized,1,descriptor
+tennis court,1,object
+intentional arrangement,1,descriptor
+panoramic view,1,descriptor
+immediate surroundings,1,descriptor
+symmetrical arrangements,1,descriptor
+space's structure,1,descriptor
+facilitating,1,descriptor
+street infrastructure,1,object
+park,1,object
+interesting,1,descriptor
+composition,1,descriptor
+uniformly paved,1,descriptor
+consistent patterns,1,descriptor
+brick paving,1,object
+deliberately planned,1,descriptor
+neatly contained,1,descriptor
+generally organized,1,descriptor
+park areas,1,object
+less formal,1,descriptor
+open grassy areas,1,object
+densities,1,descriptor
+varied heights,1,descriptor
+bordered green spaces,1,object
+sports facility,1,object
+clear purpose,1,descriptor
+entrance structure,1,object
+green strip,1,object
+recreational facilities,1,object
+zones,1,object
+underlying design,1,descriptor
+plaza,1,object
+circular,1,descriptor
+guides,1,descriptor
+strong structural elements,1,descriptor
+clear visual patterns,1,descriptor
+well-defined order,1,descriptor
+less intentionally designed,1,descriptor
+tree-lined streets,1,object
+island of greenery,1,object
+varying states,1,descriptor
+less pristine,1,descriptor
+differing,1,descriptor
+unified coherence,1,descriptor
+designed arrangement,1,descriptor
+varying levels,1,descriptor
+minor fragmentation,1,descriptor
+pond,1,object
+ad-hoc,1,descriptor
+systematically,1,descriptor
+regular placement,1,descriptor
+overarching structure,1,descriptor
+varied design,1,descriptor
+periphery,1,descriptor
+wilder growth,1,descriptor
+formal,1,descriptor
+forking road,1,descriptor
+scale,1,descriptor
+apparent order,1,descriptor
+development,1,object
+central road,1,object
+readily perceivable,1,descriptor
+relatively clear,1,descriptor
+designed space,1,descriptor
+coherent space,1,descriptor
+landscaped sections,1,object
+vast,1,descriptor
+intricate detail,1,descriptor
+modern infrastructure,1,object
+curated,1,descriptor
+organized spaces,1,descriptor
+functional organization,1,descriptor
+urban park,1,object
+tree-lined verges,1,object
+designed landscape,1,descriptor
+construction-like elements,1,object
+different parts,1,descriptor
+flowing patterns,1,descriptor
+industrial-looking buildings,1,object
+surfaces,1,object
+variety,1,descriptor
+open,1,descriptor
+intrinsic,1,descriptor
+perfectly designed,1,descriptor
+basketball courts,1,object
+industrial vehicles,1,object
+visual lines,1,descriptor
+surrounding structures,1,object
+street view perspective,1,descriptor
+well-paved,1,descriptor
+visual predictability,1,descriptor
+feeling of coherence,1,descriptor
+slightly irregular,1,descriptor
+boundaries,1,object
+different areas,1,object
+structured design,1,descriptor
+natural areas,1,object
+progression,1,descriptor
+neatly kept,1,descriptor
+slight wildness,1,descriptor
+organizational principle,1,descriptor
+partially visible,1,descriptor
+organized unity,1,descriptor
+disrupting,1,descriptor
+low-rise buildings,1,object
+trimmed bushes,1,object
+discernible architectural style,1,descriptor
+symmetrical design,1,descriptor
+predictable environment,1,descriptor
+mental integration,1,descriptor
+construction crane,1,object
+different landscaping styles,1,descriptor
+complete order,1,descriptor
+plantings,1,object
+residential,1,descriptor
+visible disarray,1,descriptor
+parking lots,1,object
+integrated whole,1,descriptor
+functional areas,1,descriptor
+tree-lined road,1,object
+vehicular areas,1,object
+organized feel,1,descriptor
+perfect order,1,descriptor
+visible pattern,1,descriptor
+jumbled,1,descriptor
+not strongly,1,descriptor
+median,1,object
+varied in design,1,descriptor
+center line,1,object
+patches of unkempt greenery,1,object
+shipping containers,1,object
+graffiti,1,object
+clear distinctions,1,descriptor
+exceptionally strong,1,descriptor
+fitting together logically,1,descriptor
+uniformity in building design,1,descriptor
+good sense of order,1,descriptor
+cobblestone path,1,object
+unobstructed,1,descriptor
+easy perception,1,descriptor
+traffic markings,1,object
+varying levels of maintenance,1,descriptor
+spaced out,1,descriptor
+somewhat sprawling,1,descriptor
+highly ordered,1,descriptor
+natural setting,1,descriptor
+well-organized layout,1,descriptor
+uniform nature,1,descriptor
+navigable,1,descriptor
+landscaping,1,descriptor
+spaces,1,object
+concrete space,1,object
+inviting,1,descriptor
+scene,1,object
+general layout,1,descriptor
+easily understood structure,1,descriptor
+organized physical arrangement,1,descriptor
+clear system,1,descriptor
+intentional landscaping,1,descriptor
+logical organization,1,descriptor
+density,1,descriptor
+centerline,1,object
+clearings,1,object
+concrete structures,1,object
+grassy slopes,1,object
+minor breaks,1,descriptor
+urban buildings,1,object
+well-planned layout,1,descriptor
+systematically planted,1,descriptor
+pedestrian walkway,1,object
+railings,1,object
+roadway,1,object
+stone railings,1,object
+neatly integrated,1,descriptor
+stone railing,1,object
+construction area,1,object
+architectural structures,1,object
+traffic,1,object
+varied in style,1,descriptor
+suggests planning,1,descriptor
+rubble,1,object
+visual disarray,1,descriptor
+strategically placed,1,descriptor
+harmonious order,1,descriptor
+markings,1,descriptor
+understandable arrangement,1,descriptor
+exceptionally ordered,1,descriptor
+perfectly uniform,1,descriptor
+natural variations,1,descriptor
+scaffolding,1,object
+uninterrupted,1,descriptor
+covered,1,descriptor
+laid out logically,1,descriptor
+serve their purpose,1,descriptor
+blue bus,1,object
+outdoor machinery,1,object
+pile of dirt,1,object
+significant,1,descriptor
+unifying order,1,descriptor
+landscape design,1,object
+work site,1,object
+active,1,descriptor
+ground surface,1,object
+designated spaces,1,object
+visually balanced,1,descriptor
+stonework,1,object
+potentially repetitive,1,descriptor
+patchwork,1,descriptor
+belong together,1,descriptor
+physical,1,descriptor
+clear flow,1,descriptor
+significant portion,1,descriptor
+piles of materials,1,object
+not seamless,1,descriptor
+irregular arrangement,1,descriptor
+discarded materials,1,object
+entrance,1,object
+moderately low,1,descriptor
+general uniformity,1,descriptor
+similar style,1,descriptor
+temporary disorder,1,descriptor
+road infrastructure,1,object
+varied in greenness,1,descriptor
+coherent overall impression,1,descriptor
+not perfect,1,descriptor
+consistent styles,1,descriptor
+urban architecture,1,object
+central green space,1,object
+appropriate places,1,descriptor
+moderate sense of coherence,1,descriptor
+noticeable structure,1,descriptor
+tree-lined,1,descriptor
+balanced composition,1,descriptor
+shops,1,object
+defined edge,1,descriptor
+mix of modern and older,1,descriptor
+overall,1,descriptor
+reasonable,1,descriptor
+varying textures,1,descriptor
+lamp posts,1,object
+interconnected,1,descriptor
+organization of the space,1,descriptor
+not perfectly uniform,1,descriptor
+meticulously planned,1,descriptor
+naturally ordered,1,descriptor
+placidity,1,descriptor
+general sense of order,1,descriptor
+significant amount,1,descriptor
+street intersection,1,object
+organized planning,1,descriptor
+meticulously designed,1,descriptor
+feel of the space,1,descriptor
+lines of sight,1,object
+immediately clear,1,descriptor
+cohesive composition,1,descriptor
+urban street layout,1,object
+captivating,1,descriptor
+undeveloped green spaces,1,object
+unified design,1,descriptor
+not chaotic,1,descriptor
+building alignments,1,object
+structured planting,1,descriptor
+surrounding greenery,1,object
+arranged systematically,1,descriptor
+clear visual cues,1,descriptor
+clearly marked,1,descriptor
+developed environment,1,object
+clearly structured,1,descriptor
+panorama,1,object
+challenging,1,descriptor
+entirety,1,descriptor
+effortless,1,descriptor
+lead somewhere,1,descriptor
+built elements,1,descriptor
+overall composition,1,descriptor
+building designs,1,object
+irregular spread,1,descriptor
+meticulous organization,1,descriptor
+not perfectly regimented,1,descriptor
+sense of clear order,1,descriptor
+uniform in style,1,descriptor
+minimal,1,descriptor
+overwhelming,1,descriptor
+visual understanding,1,descriptor
+logically structured,1,descriptor
+navigation,1,descriptor
+not exceptionally,1,descriptor
+planting patterns,1,object
+purposefully,1,descriptor
+uniformly modern,1,descriptor
+visual layout,1,descriptor
+clear visual flow,1,descriptor
+broad,1,descriptor
+urban backdrop,1,object
+appropriately spaced,1,descriptor
+relate,1,descriptor
+campus space,1,object
+visual elements,1,object
+expected places,1,descriptor
+high level,1,descriptor
+park-like area,1,object
+symmetry,1,descriptor
+sense of integration,1,descriptor
+overall perceived order,1,descriptor
+clear sightlines,1,descriptor
+organic,1,descriptor
+consistent landscaping,1,descriptor
+multi-directional,1,descriptor
+relatively uniform,1,descriptor
+immediate comprehensibility,1,descriptor
+perfect place,1,descriptor
+structures,1,descriptor
+carelessly,1,descriptor
+belonging,1,descriptor
+visual elements,1,descriptor
+somewhat disparate,1,descriptor
+organized environment,1,descriptor
+poles,1,object
+design,1,object
+intended to be organized,1,descriptor

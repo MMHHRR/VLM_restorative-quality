@@ -1,0 +1,251 @@
+keyword,count,type
+trees,24,object
+greenery,24,object
+refuge,14,descriptor
+escape,12,descriptor
+peaceful,10,descriptor
+buildings,10,object
+calm,9,descriptor
+separation,8,descriptor
+clear,7,descriptor
+tranquil,7,descriptor
+mental escape,7,descriptor
+open spaces,6,object
+respite,6,descriptor
+quiet,6,descriptor
+detachment,5,descriptor
+minimal,5,descriptor
+demanding,5,descriptor
+water,5,object
+natural,5,descriptor
+sky,5,object
+mental break,4,descriptor
+pathways,4,object
+clean,4,descriptor
+functional,4,descriptor
+roads,4,object
+urban,4,descriptor
+detached,4,descriptor
+orderly,4,descriptor
+clear separation,4,descriptor
+natural elements,4,descriptor
+campus,3,object
+moderate,3,descriptor
+institutional buildings,3,object
+potential escape,3,descriptor
+environment,3,object
+organized layout,3,descriptor
+landscaping,3,object
+nature,3,object
+parked cars,3,object
+serene,3,descriptor
+green spaces,3,object
+well-maintained,3,descriptor
+street,3,object
+sense of escape,3,descriptor
+vehicles,3,object
+controlled environment,3,descriptor
+crowds,2,object
+potential,2,descriptor
+hustle and bustle,2,descriptor
+landscape,2,object
+decent sense of 'being away',2,descriptor
+manicured,2,descriptor
+mental respite,2,descriptor
+paved paths,2,object
+conducive,2,descriptor
+absence,2,descriptor
+mental detachment,2,descriptor
+limited,2,descriptor
+ample,2,descriptor
+water feature,2,object
+relative quietness,2,descriptor
+developed,2,descriptor
+absence of crowds,2,descriptor
+uncluttered,2,descriptor
+being away,2,descriptor
+temporary escape,2,descriptor
+residential buildings,2,object
+departure,2,descriptor
+secluded,2,descriptor
+organized,2,descriptor
+calm atmosphere,2,descriptor
+feeling of escape,2,descriptor
+natural elements,2,object
+pleasant,2,descriptor
+intersection,2,object
+lush,2,descriptor
+visual separation,2,descriptor
+infrastructure,2,object
+streetscape,2,object
+canal,2,object
+buffer,2,descriptor
+abundant,2,descriptor
+pathway,2,object
+contrast,1,descriptor
+manicured grass,1,object
+urban hustle,1,descriptor
+peaceful environment,1,descriptor
+atmosphere,1,object
+parked vehicles,1,object
+retreat,1,descriptor
+nuisances,1,descriptor
+waterfront,1,object
+residential area,1,object
+break from responsibilities,1,descriptor
+everyday nuisances,1,descriptor
+clear contrast,1,descriptor
+greenery,1,descriptor
+lake,1,object
+tree-lined road,1,object
+strong sense of 'being away',1,descriptor
+distant,1,descriptor
+daily activities,1,descriptor
+spacious,1,descriptor
+responsibilities,1,descriptor
+brief respite,1,descriptor
+sports fields,1,object
+usual demands,1,descriptor
+complete detachment,1,descriptor
+visual cues,1,descriptor
+streets,1,object
+minimal visible activity,1,descriptor
+typical nuisances,1,descriptor
+move freely,1,descriptor
+demanding routines,1,descriptor
+detach from immediate tasks,1,descriptor
+distance,1,descriptor
+serene atmosphere,1,descriptor
+green elements,1,object
+unwind,1,descriptor
+escape distractions,1,descriptor
+routine stressors,1,descriptor
+open space,1,object
+sidewalks,1,object
+scenic backdrop,1,descriptor
+relatively empty,1,descriptor
+typical urban hustle,1,descriptor
+mental retreat,1,descriptor
+daily demands,1,descriptor
+open sky,1,object
+large buildings,1,object
+sense of separation,1,descriptor
+daily pressures,1,descriptor
+main thoroughfares,1,object
+no honking signs,1,object
+limited visible activity,1,descriptor
+parking areas,1,object
+open pathways,1,object
+bushes,1,object
+low level of human activity,1,descriptor
+quiet atmosphere,1,descriptor
+limited number of visible people,1,descriptor
+break,1,descriptor
+atmosphere,1,descriptor
+road,1,object
+outdoor,1,descriptor
+active,1,descriptor
+natural seclusion,1,descriptor
+wilderness,1,descriptor
+parking lot,1,object
+institutional setting,1,object
+minimal human activity,1,descriptor
+urban pressures,1,descriptor
+sitting areas,1,object
+relaxation,1,descriptor
+distract,1,descriptor
+urban setting,1,object
+lush greenery,1,object
+absence of overwhelming activity,1,descriptor
+contemplative,1,descriptor
+restorative,1,descriptor
+pedestrian paths,1,object
+extensive,1,descriptor
+community setting,1,descriptor
+detach,1,descriptor
+order,1,descriptor
+urban stresses,1,descriptor
+traffic,1,object
+decent,1,descriptor
+sufficient,1,descriptor
+campus setting,1,object
+skies,1,object
+refuge,1,object
+contemporary,1,descriptor
+typical urban distractions,1,descriptor
+lack of visible crowds,1,descriptor
+designed for focus,1,descriptor
+individuals,1,object
+decent sense of being away,1,descriptor
+step away from routine,1,descriptor
+overall urban context,1,descriptor
+complete refuge,1,descriptor
+institutional-looking buildings,1,object
+relax,1,descriptor
+walkways,1,object
+typical daily demands,1,descriptor
+urban hustle,1,object
+open space,1,descriptor
+urban stressors,1,descriptor
+potential for escape,1,descriptor
+not a complete immersion,1,descriptor
+daily routines,1,descriptor
+worries,1,descriptor
+statue,1,object
+green,1,descriptor
+location,1,object
+complete escape,1,descriptor
+immediate surroundings,1,descriptor
+uncrowded,1,descriptor
+absence of clutter,1,descriptor
+mental departure,1,descriptor
+disengage,1,descriptor
+paved pathways,1,object
+managed space,1,object
+visually appealing,1,descriptor
+bicycles,1,object
+immediate demands,1,descriptor
+separate,1,descriptor
+features,1,object
+vehicle paths,1,object
+streetlights,1,object
+distinct,1,descriptor
+set back,1,descriptor
+urban activity,1,object
+bustling,1,descriptor
+intense,1,descriptor
+typical,1,descriptor
+distractions,1,descriptor
+temporary disengagement,1,descriptor
+park-like areas,1,object
+architectural elements,1,object
+visual escape,1,descriptor
+reasonable,1,descriptor
+cluttered,1,descriptor
+park,1,object
+winding,1,descriptor
+people,1,object
+tree-lined,1,descriptor
+grass,1,object
+daily life,1,descriptor
+connected,1,descriptor
+developed area,1,descriptor
+controlled,1,descriptor
+institutional,1,descriptor
+structured,1,descriptor
+not a refuge,1,descriptor
+modern buildings,1,object
+paved roads,1,object
+abundance,1,descriptor
+natural enclosure,1,descriptor
+bustling urban life,1,descriptor
+paved,1,descriptor
+quiet street,1,object
+clean pathways,1,object
+architecture,1,object
+feeling of refuge,1,descriptor
+modern,1,descriptor
+structured appearance,1,descriptor
+not wild,1,descriptor
+not truly secluded,1,descriptor
+open,1,descriptor
